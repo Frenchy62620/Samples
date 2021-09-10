@@ -117,7 +117,7 @@ namespace TreeViewCaliburn.FolderBrowser
                     
                 }
 
-                var files = Directory.EnumerateFiles(i.Name, "*OpenClassrooms.htm");
+                var files = Directory.EnumerateFiles(i.Name/*, "*OpenClassrooms.htm"*/);
 
                 i.IsEnabled = files.Any();
                 foreach (var file in files)
@@ -129,7 +129,7 @@ namespace TreeViewCaliburn.FolderBrowser
             {
                 i.IsEnabled = true;
             }
-           Console.Out.WriteLineAsync($"Processing Message: {i.Name}");
+           await Console.Out.WriteLineAsync($"Processing Message: {i.Name}");
         }
 
 
