@@ -1,5 +1,4 @@
 ﻿using Caliburn.Micro;
-using System.Linq;
 using System.Windows;
 using System.Windows.Media;
 
@@ -14,11 +13,16 @@ namespace TreeViewCaliburn.FolderBrowser
         private SolidColorBrush backColor;
         public SolidColorBrush BackColor
         {
-            get => backColor;
+            get
+            {
+                return backColor;
+            }
+
             set
             {
                 if (backColor == value) return;
                 backColor = value;
+
                 NotifyOfPropertyChange(() => BackColor);
             }
         }
@@ -117,7 +121,7 @@ namespace TreeViewCaliburn.FolderBrowser
                 }
                 else
                     BackColor = Primary;
-                 
+
 
                 if (Children != null && value != null && IsNotFile && IsNotDrive)
                 {
@@ -142,7 +146,7 @@ namespace TreeViewCaliburn.FolderBrowser
                 FirstParent.SomethingSelected = value == false ? FirstParent.GetAnySelected(FirstParent.Children) : true;
 
                 NotifyOfPropertyChange(() => IsSelected);
-                NotifyOfPropertyChange(() => backColor);
+                NotifyOfPropertyChange(() => BackColor);
             }
         }
 

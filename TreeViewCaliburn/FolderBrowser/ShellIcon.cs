@@ -46,6 +46,7 @@ namespace TreeViewCaliburn.FolderBrowser
                                             i.Handle,
                                             new Int32Rect(0, 0, i.Width, i.Height),
                                             BitmapSizeOptions.FromEmptyOptions());
+                    shellIcon.Freeze();
                 }
             }
             catch
@@ -60,6 +61,7 @@ namespace TreeViewCaliburn.FolderBrowser
                             System.IO.MemoryStream ms = new System.IO.MemoryStream();
                             iconBitmap.Save(ms, System.Drawing.Imaging.ImageFormat.Png);
                             shellIcon = BitmapFrame.Create(ms);
+                            shellIcon.Freeze();
                         }
                     }
                 }

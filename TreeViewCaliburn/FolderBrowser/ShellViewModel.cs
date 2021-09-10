@@ -129,7 +129,7 @@ namespace TreeViewCaliburn.FolderBrowser
             {
                 i.IsEnabled = true;
             }
-            await Console.Out.WriteLineAsync($"Processing Message: {i.Name}");
+           Console.Out.WriteLineAsync($"Processing Message: {i.Name}");
         }
 
 
