@@ -84,63 +84,6 @@ namespace TreeViewCaliburn.FolderBrowser
 
         }
 
-        private async Task LoadChildrenItemsAsync(ABrowser context)
-        {
-            foreach (var i in context.Children)
-            {
-                if (i.Children == null && i.IsNotFile && i.IsNotDrive)
-                {
-                    i.Children = new BindableCollection<ABrowser>();
-
-                    var folders = Directory.EnumerateDirectories(i.Name);
-                                           //.Where(f => (File.GetAttributes(f) & FileAttributes.Hidden) != FileAttributes.Hidden)
-                                           //.Select(folder => new FolderTreeItemViewModel(this, i, folder));
-                    //i.Children.AddRange(folders);
-
-                    foreach (var folder in folders)
-                    {
-                        i.Children.Add(new FolderTreeItemViewModel(this, i, folder));
-                    }
-
-                    var files = Directory.EnumerateFiles(i.Name, "*OpenClassrooms.htm");
-
-                    i.IsEnabled = files.Count() > 0;
-                    //i.IsEnabled = files.Any();
-                    foreach (var file in files)
-                    {
-                        i.Children.Add(new FolderTreeItemViewModel(this, i, file, true));
-                    }
-                }
-                else
-                {
-                    i.IsEnabled = true;
-                }
-            }
-            await Task.Delay(0);
-
-        }
-
-        //private async Task<List<ABrowser>> GetSubItems(string path)
-        //{
-        //    return Task.Run(() =>
-        //    {
-        //        var folders = Directory.EnumerateDirectories(path);
-        //        var files = Directory.EnumerateFiles(path);
-        //    });
-
-
-        //}
-
-        //private Task<List<ABrowser>> GetSubItems(string path)
-        //{
-        //    return Task.Run(() =>
-        //    {
-        //        var folders = Directory.EnumerateDirectories(path);
-        //        return new List<ABrowser>();
-        //    });
-
-            
-        //}
 
 
         #endregion TreeViewItem_Expanded
