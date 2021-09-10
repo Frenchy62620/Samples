@@ -1,0 +1,50 @@
+﻿<Window x:Class="TreeViewCaliburn.FolderBrowser.ShellView"
+        xmlns:System="clr-namespace:System;assembly=mscorlib"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:cal="http://www.caliburnproject.org"        
+        xmlns:local="clr-namespace:TreeViewCaliburn.FolderBrowser"
+        xmlns:i="http://schemas.microsoft.com/expression/2010/interactivity"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        mc:Ignorable="d" ResizeMode="CanResize" WindowStyle="None" WindowStartupLocation="CenterScreen"
+        Title="ShellView" Height="450" Width="800">
+
+
+    <DockPanel Background="White">
+        <DockPanel Margin="4" DockPanel.Dock="Top" Background="Transparent" HorizontalAlignment="Stretch" >
+            <Label FontSize="12" Name="LTitle" VerticalAlignment="Center" Margin="12 -4 0 0" Content="Sélection des dossiers"/>
+            <StackPanel DockPanel.Dock="Right" Orientation="Horizontal" HorizontalAlignment="Right">
+                <Button   Name="Close" Opacity="0.46" Margin="0 0 6 0" Content="{materialDesign:PackIcon Kind=CloseBold, Size=22}" Background="PaleVioletRed" ToolTip="Ferme la Fenêtre"/>
+            </StackPanel>
+        </DockPanel>
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="85*"/>
+                <RowDefinition Height="10*"/>
+                <RowDefinition Height="10*"/>
+            </Grid.RowDefinitions>
+            <TreeView  ItemsSource="{Binding Children}" Grid.Row="0" cal:Message.Attach="[Event SelectedItemChanged]=[Action TreeView_SelectedItemChanged($source, $EventArgs)]">
+                <i:Interaction.Triggers>
+                    <!--in the routed event property you need to put the full name space and event name  ItemTemplateSelector="{StaticResource myTemplateSelector}"-->
+                    <local:RoutedEventTrigger RoutedEvent="TreeViewItem.Expanded">
+                        <cal:ActionMessage MethodName="TreeViewItem_Expanded">
+                            <cal:Parameter Value="$source" />
+                            <cal:Parameter Value="$eventArgs" />
+                        </cal:ActionMessage>
+                    </local:RoutedEventTrigger>
+                </i:Interaction.Triggers>
+
+                <TreeView.Resources>
+                    <HierarchicalDataTemplate ItemsSource="{Binding Children}"  DataType="{x:Type local:FolderTreeItemViewModel}" >
+                        <ContentControl cal:View.Model="{Binding}" />
+                    </HierarchicalDataTemplate>
+                </TreeView.Resources>
+            </TreeView>
+
+            <Button  Name="Validate" Style="{DynamicResource MaterialDesignRaisedAccentButton}"  Content="Valider les dossiers sélectionnés" Margin="0 0 0 0" Grid.Row="1"/>
+            <Button  Name="Cancel" Style="{DynamicResource MaterialDesignRaisedLightButton}" Content="Annuler les sélections" Margin="0 0 0 0" Grid.Row="2" Background="PaleVioletRed"/>
+        </Grid>
+    </DockPanel>
+</Window>

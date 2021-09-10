@@ -1,0 +1,55 @@
+﻿<Window x:Class="TreeViewCaliburn.MainWindowView"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:TreeViewCaliburn"
+        xmlns:cal="http://www.caliburnproject.org"
+        mc:Ignorable="d" WindowStartupLocation="CenterScreen"
+        Title="MainWindowView" Height="750" Width="1000">
+    <Grid Name="Main">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="10*" />
+            <RowDefinition Height="80*" />
+            <RowDefinition Height="10*" />
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="12*" />
+            <ColumnDefinition Width="80*" />
+            <ColumnDefinition Width="2*" />
+            <ColumnDefinition Width="10*" />
+        </Grid.ColumnDefinitions>
+        <StackPanel  Name="buttons" Orientation="Vertical" VerticalAlignment="Center" Grid.Row="0" Grid.Column="0">
+            <Button Name="OpenFolder"  Content="Select Folder" cal:Message.Attach="SelectFolder()" Height="30" Width="100" Margin="2" Visibility="Collapsed"/>
+            <Button Name="OpenFiler"  Content="Select File" cal:Message.Attach="SelectFile()" Height="30" Width="100" Margin="2" />
+        </StackPanel>
+        <StackPanel  Name="results" Orientation="Vertical" VerticalAlignment="Center" Grid.Row="0" Grid.Column="1">
+            <Border BorderThickness="0 0 1.2 1.2" CornerRadius="3.2" BorderBrush="Black" Padding="1" Height="35" >
+                <TextBlock Name="SelectedFolder"  Background="{Binding BackgroundFolderColor}"  Margin="2" VerticalAlignment="Center" cal:Message.Attach="[Event MouseDown]=[Action TextClicked($source)]"/>
+            </Border>
+            <Border BorderThickness="0 0 1.2 1.2" CornerRadius="3.2" BorderBrush="Black" Padding="1" Height="35" >
+                <ComboBox Name="ListFiles"  Background="{Binding BackgroundFileColor}" Margin="2"  VerticalAlignment="Center" cal:Message.Attach="[Event MouseDown]=[Action TextClicked($source)]" />
+            </Border>
+        </StackPanel>
+        <StackPanel  Name="Checkbox" Orientation="Vertical"  Grid.Row="0" Grid.Column="2" HorizontalAlignment="Center" VerticalAlignment="Stretch">
+            <RadioButton Name="Folder" Content="" Margin="5 15 0 15" />
+            <RadioButton Name="File" Content="" Margin="5 0 0 0"/>
+        </StackPanel>
+        <StackPanel  Name="validation" Orientation="Vertical" VerticalAlignment="Center" Grid.Row="0" Grid.Column="3">
+            <Button Name="Validate" Height="60" Width="90" Margin="2" Visibility="Collapsed">
+                <TextBlock Text="{Binding TextValidate}" TextAlignment="Center" />
+            </Button>
+        </StackPanel>
+        <Border BorderThickness="1 1 1 1" CornerRadius="3.2" BorderBrush="Black" Padding="1" Height="500" Width="900" Margin="0" Grid.Row="1" Grid.ColumnSpan="4">
+            <!--<WPF:SimpleLogTextBox HorizontalAlignment="Left" Height="450" Margin="20" VerticalAlignment="Top" Width="850" IsReadyOnly="True" ScrollBarVisibility="Auto" />-->
+            <ListBox Name="Messages"  Margin="20" VerticalAlignment="Center" HorizontalAlignment="Center" Width="850" Height="450" 
+                 ScrollViewer.VerticalScrollBarVisibility="Visible" Background="AliceBlue"/>
+        </Border>
+        <StackPanel  Name="Checking" Orientation="Horizontal" VerticalAlignment="Center" HorizontalAlignment="Center" Grid.Row="2" Grid.ColumnSpan="4">
+            <RadioButton Name="Simulation" Content="Mode Simulation" Height="20" Width="300" Margin="2" IsEnabled="{Binding RadioEnabled}"/>
+            <RadioButton Name="Production" Content="Mode Production" Height="20" Width="300" Margin="2" IsEnabled="{Binding RadioEnabled}" />
+        </StackPanel>
+
+
+    </Grid>
+</Window>
