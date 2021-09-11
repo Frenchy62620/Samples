@@ -85,29 +85,35 @@
     </Compile>
     <Compile Include="Bootstrapper.cs" />
     <Page Include="FolderBrowser\FolderTreeItemView.xaml">
-      <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
+      <Generator>XamlIntelliSenseFileGenerator</Generator>
     </Page>
     <Page Include="FolderBrowser\ShellView.xaml">
-      <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
+      <Generator>XamlIntelliSenseFileGenerator</Generator>
     </Page>
     <Page Include="MainWindowView.xaml">
-      <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
+      <Generator>XamlIntelliSenseFileGenerator</Generator>
     </Page>
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Converters\MyConverters.cs" />
     <Compile Include="FolderBrowser\ABrowser.cs" />
     <Compile Include="FolderBrowser\FolderExtensions.cs" />
-    <Compile Include="FolderBrowser\FolderTreeItemView.xaml.cs" />
+    <Compile Include="FolderBrowser\FolderTreeItemView.xaml.cs">
+      <DependentUpon>FolderTreeItemView.xaml</DependentUpon>
+    </Compile>
     <Compile Include="FolderBrowser\FolderTreeItemViewModel.cs" />
     <Compile Include="FolderBrowser\Helpers.cs" />
     <Compile Include="FolderBrowser\ShellIcon.cs" />
-    <Compile Include="FolderBrowser\ShellView.xaml.cs" />
+    <Compile Include="FolderBrowser\ShellView.xaml.cs">
+      <DependentUpon>ShellView.xaml</DependentUpon>
+    </Compile>
     <Compile Include="FolderBrowser\ShellViewModel.cs" />
-    <Compile Include="MainWindowView.xaml.cs" />
+    <Compile Include="MainWindowView.xaml.cs">
+      <DependentUpon>MainWindowView.xaml</DependentUpon>
+    </Compile>
     <Compile Include="MainWindowViewModel.cs" />
     <Compile Include="Properties\AssemblyInfo.cs">
       <SubType>Code</SubType>
