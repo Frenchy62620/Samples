@@ -11,11 +11,13 @@ using System.Collections.Concurrent;
 
 namespace TreeViewCaliburn.FolderBrowser
 {
-    public class ShellViewModel: Screen
+    public class ShellViewModel : Screen
     {
         public ShellViewModel()
         {
-            var drives = DriveInfo.GetDrives().Where(d => d.DriveType == DriveType.Fixed).Select(d => d.Name).ToList();
+            var drives = DriveInfo.GetDrives()
+                                  .Where(d => d.DriveType == DriveType.Fixed && !d.Name.StartsWith("C"))
+                                  .Select(d => d.Name).ToList();
             Children = new BindableCollection<ABrowser>();
             drives.ForEach(drive => Children.Add(new FolderTreeItemViewModel(this, null, drive)));
 
@@ -35,18 +37,19 @@ namespace TreeViewCaliburn.FolderBrowser
         }
 
 
-        private bool somethingSelected;
-        public bool SomethingSelected
+        private int nbFilesSelected;
+        public int NbFilesSelected
         {
-            get => somethingSelected;
+            get => nbFilesSelected;
             set
             {
-                if (somethingSelected == value) return;
-                somethingSelected = value;
+                nbFilesSelected = value;
+                NotifyOfPropertyChange(() => NbFilesSelected);
                 NotifyOfPropertyChange(() => CanValidate);
                 NotifyOfPropertyChange(() => CanCancel);
             }
         }
+
 
         public void TreeView_SelectedItemChanged(object sender, RoutedEventArgs e)
         {
@@ -55,8 +58,8 @@ namespace TreeViewCaliburn.FolderBrowser
 
         #region Validate/Cancel
 
-        public bool CanValidate => SomethingSelected;
-        public bool CanCancel => SomethingSelected;
+        public bool CanValidate => NbFilesSelected > 0;
+        public bool CanCancel => NbFilesSelected > 0;
 
         public void Validate()
         {
@@ -79,9 +82,12 @@ namespace TreeViewCaliburn.FolderBrowser
         public async void TreeViewItem_Expanded(TreeView sender, RoutedEventArgs e)
         {
             var context = (e.OriginalSource as TreeViewItem).DataContext as ABrowser;
-            //await LoadChildrenItemsAsync(context);
-            await context.Children.ParallelForEachAsync(ProcessMessageAsync, Environment.ProcessorCount);
 
+            var watch = System.Diagnostics.Stopwatch.StartNew();
+            await context.Children.ParallelForEachAsync(ProcessMessageAsync, Environment.ProcessorCount);
+            watch.Stop();
+            var elapsedMs = watch.ElapsedMilliseconds;
+            await Console.Out.WriteLineAsync($"Processing Message: fini {elapsedMs} ms");
         }
 
 
@@ -101,35 +107,40 @@ namespace TreeViewCaliburn.FolderBrowser
                            .SelectMany(y => GetAllSelected(y.Children)));
         }
 
-        public  async Task ProcessMessageAsync(ABrowser i)
+        public async Task ProcessMessageAsync(ABrowser i)
         {
             if (i.Children == null && i.IsNotFile && i.IsNotDrive)
             {
                 i.Children = new BindableCollection<ABrowser>();
 
-                var folders = Directory.EnumerateDirectories(i.Name);
+                var folders = Directory.EnumerateDirectories(i.Name)
+                                       .Where(folder => (File.GetAttributes(folder) & FileAttributes.Hidden) != FileAttributes.Hidden && 
+                                                         !folder.EndsWith("OpenClassrooms_fichiers"))
+                                       .Select(folder => new FolderTreeItemViewModel(this, i, folder));
 
                 foreach (var folder in folders)
                 {
-                    if ((File.GetAttributes(folder) & FileAttributes.Hidden) == FileAttributes.Hidden)
-                        continue;
-                    i.Children.Add(new FolderTreeItemViewModel(this, i, folder));
-                    
+                    i.Children.Add(folder);
                 }
 
-                var files = Directory.EnumerateFiles(i.Name/*, "*OpenClassrooms.htm"*/);
-
+                var files = Directory.EnumerateFiles(i.Name, "*OpenClassrooms.htm")
+                                     .Select(file => new FolderTreeItemViewModel(this, i, file, true));
+                
+                i.NbFiles = 0;
                 i.IsEnabled = files.Any();
                 foreach (var file in files)
                 {
-                    i.Children.Add(new FolderTreeItemViewModel(this, i, file, true));
+                    i.Children.Add(file);
+                    i.NbFiles++;
                 }
             }
             else
             {
                 i.IsEnabled = true;
             }
-           await Console.Out.WriteLineAsync($"Processing Message: {i.Name}");
+            //await Console.Out.WriteLineAsync($"Processing Message: {i.Name}");
+            await Task.Delay(0);
+            //await Task.CompletedTask;
         }
 
 

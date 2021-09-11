@@ -15,6 +15,7 @@
     <DockPanel Background="White">
         <DockPanel Margin="4" DockPanel.Dock="Top" Background="Transparent" HorizontalAlignment="Stretch" >
             <Label FontSize="12" Name="LTitle" VerticalAlignment="Center" Margin="12 -4 0 0" Content="Sélection des dossiers"/>
+            <TextBlock FontSize="12" Name="NbFilesSelected" VerticalAlignment="Center" Margin="12 -4 0 0" />
             <StackPanel DockPanel.Dock="Right" Orientation="Horizontal" HorizontalAlignment="Right">
                 <Button   Name="Close" Opacity="0.46" Margin="0 0 6 0" Content="{materialDesign:PackIcon Kind=CloseBold, Size=22}" Background="PaleVioletRed" ToolTip="Ferme la Fenêtre"/>
             </StackPanel>

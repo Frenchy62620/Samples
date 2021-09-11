@@ -6,9 +6,16 @@ namespace TreeViewCaliburn.FolderBrowser
 {
     public abstract class ABrowser:PropertyChangedBase
     {
-        public readonly SolidColorBrush Primary = (SolidColorBrush)Application.Current.Resources["PrimaryHueMidBrush"];
-        public readonly SolidColorBrush Unselected = new SolidColorBrush(Colors.Red);
-        public readonly SolidColorBrush Selected = new SolidColorBrush(Colors.ForestGreen);
+        public static readonly SolidColorBrush Primary = (SolidColorBrush)Application.Current.Resources["PrimaryHueMidBrush"];
+        public static readonly SolidColorBrush Unselected = new SolidColorBrush(Colors.Red);
+        public static readonly SolidColorBrush Selected = new SolidColorBrush(Colors.ForestGreen);
+
+        static ABrowser()
+        {
+            Primary.Freeze();
+            Unselected.Freeze();
+            Selected.Freeze();
+        }
 
         private SolidColorBrush backColor;
         public SolidColorBrush BackColor
@@ -22,8 +29,8 @@ namespace TreeViewCaliburn.FolderBrowser
             {
                 if (backColor == value) return;
                 backColor = value;
-
                 NotifyOfPropertyChange(() => BackColor);
+                
             }
         }
 
@@ -40,7 +47,8 @@ namespace TreeViewCaliburn.FolderBrowser
         }
 
         public ImageSource Icon { get; set; }
-        //public string Name {get; set; }
+        public int NbFiles {get; set; }
+        public int NbFilesSelected { get; set; }
 
         private BindableCollection<string> files;
         public BindableCollection<string> Files
@@ -113,6 +121,12 @@ namespace TreeViewCaliburn.FolderBrowser
             set
             {
                 if (isSelected == value) return;
+
+                if (IsSelected != null && value != null && !IsNotFile)
+                {
+                    FirstParent.NbFilesSelected += value == true? 1 : -1;
+                }
+
                 isSelected = value;
 
                 if (!IsNotFile)
@@ -143,12 +157,14 @@ namespace TreeViewCaliburn.FolderBrowser
                         Parent.IsSelected = value;
                 }
 
-                FirstParent.SomethingSelected = value == false ? FirstParent.GetAnySelected(FirstParent.Children) : true;
+                //FirstParent.SomethingSelected = value == false ? FirstParent.GetAnySelected(FirstParent.Children) : true;
 
                 NotifyOfPropertyChange(() => IsSelected);
                 NotifyOfPropertyChange(() => BackColor);
             }
         }
+
+
 
 
         public bool IsNotFile { get; set; }
