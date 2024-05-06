@@ -1,0 +1,742 @@
+[
+  {
+    "name": "autres$autres-sites",
+    "imports": [ "autres$autres-sites", "pole-emploi.fr$candidat.pole-emploi.fr/Autres", "autres$chomage-independant.fr", "pole-emploi.fr (edito)$www.pole-emploi.fr/autres", "pole-emploi.fr (edito)$www.pole-emploi.fr/candidat" ],
+    "outgoing": [ "autres$autres-sites", "autres$entreprise.francetravail.fr/Accueil", "autres$francetravail.io", "francetravail.fr$gestion.francetravail.fr", "autres$www.francetravail.fr/candidat", "autres$www.francetravail.fr/employeur", "autres$www.francetravail.fr/faq", "autres$www.francetravail.fr/region", "francetravail.org$www.francetravail.org" ],
+    "rank": 0.1,
+    "pages": 34,
+    "trafic": 1860,
+    "nbin": 5,
+    "nbout": 9
+  },
+  {
+    "name": "francetravail.org$bo.francetravail.org",
+    "imports": [],
+    "outgoing": [ "francetravail.org$www.francetravail.org" ],
+    "rank": 0.0,
+    "pages": 4,
+    "trafic": 14666,
+    "nbin": 0,
+    "nbout": 1
+  },
+  {
+    "name": "autres$candidat.francetravail.fr/Autres",
+    "imports": [ "autres$candidat.francetravail.fr/Autres", "autres$candidat.francetravail.fr/MetierScope", "autres$candidat.francetravail.fr/Mobiville", "pole-emploi.fr$dataemploi.pole-emploi.fr", "autres$emplois2024.fr", "autres$entreprise.francetravail.fr/Accueil", "francetravail.fr$mesevenementsemploi.francetravail.fr", "pole-emploi.fr$messervices.pole-emploi.fr", "francetravail.fr$recrute.francetravail.fr", "francetravail.fr$salonenligne.francetravail.fr", "emploi-store.fr$www.emploi-store.fr", "autres$www.francetravail.fr/accueil", "autres$www.francetravail.fr/actualite", "autres$www.francetravail.fr/annuaire", "autres$www.francetravail.fr/autres", "autres$www.francetravail.fr/candidat", "autres$www.francetravail.fr/employeur", "autres$www.francetravail.fr/faq", "autres$www.francetravail.fr/informations", "autres$www.francetravail.fr/international", "autres$www.francetravail.fr/region", "autres$www.francetravail.fr/spectacle", "francetravail.org$www.francetravail.org", "pole-emploi.fr (edito)$www.pole-emploi.fr/accueil", "pole-emploi.fr (edito)$www.pole-emploi.fr/autres" ],
+    "outgoing": [ "autres$candidat.francetravail.fr/Autres", "autres$candidat.francetravail.fr/Mobiville", "autres$candidat.francetravail.fr/Recherche-formations", "autres$candidat.francetravail.fr/Recherche-offres", "francetravail.fr$chomage-independant.francetravail.fr", "autres$entreprise.francetravail.fr/Accueil", "autres$entreprise.francetravail.fr/Autres", "autres$francetravail.io", "emploi-store.fr$www.emploi-store.fr", "autres$www.francetravail.fr/accueil", "autres$www.francetravail.fr/actualite", "autres$www.francetravail.fr/annuaire", "autres$www.francetravail.fr/autres", "autres$www.francetravail.fr/candidat", "autres$www.francetravail.fr/employeur", "autres$www.francetravail.fr/faq", "autres$www.francetravail.fr/informations", "autres$www.francetravail.fr/international", "autres$www.francetravail.fr/region", "autres$www.francetravail.fr/spectacle", "autres$www.francetravail.fr/tv" ],
+    "rank": 2.1,
+    "pages": 52,
+    "trafic": 88053,
+    "nbin": 25,
+    "nbout": 21
+  },
+  {
+    "name": "autres$candidat.francetravail.fr/MetierScope",
+    "imports": [ "autres$candidat.francetravail.fr/MetierScope", "pole-emploi.fr$candidat.pole-emploi.fr/Recherche-formations", "pole-emploi.fr$candidat.pole-emploi.fr/Recherche-offres", "pole-emploi.fr (startup)$labonneboite.pole-emploi.fr", "pole-emploi.fr (startup)$mes-aides.pole-emploi.fr", "pole-emploi.fr (startup)$mesevenementsemploi.pole-emploi.fr", "pole-emploi.fr (edito)$www.pole-emploi.fr/accueil" ],
+    "outgoing": [ "autres$candidat.francetravail.fr/Autres", "autres$candidat.francetravail.fr/MetierScope", "autres$candidat.francetravail.fr/Recherche-formations", "autres$candidat.francetravail.fr/Recherche-offres", "pole-emploi.fr$dataemploi.pole-emploi.fr", "autres$emplois2024.fr", "autres$entreprise.francetravail.fr/Accueil", "autres$entreprise.francetravail.fr/Autres", "autres$francetravail.io", "autres$www.francetravail.fr/accueil", "autres$www.francetravail.fr/actualite", "autres$www.francetravail.fr/annuaire", "autres$www.francetravail.fr/autres", "autres$www.francetravail.fr/candidat", "autres$www.francetravail.fr/employeur", "autres$www.francetravail.fr/faq", "autres$www.francetravail.fr/informations", "autres$www.francetravail.fr/international", "autres$www.francetravail.fr/region", "autres$www.francetravail.fr/spectacle", "autres$www.francetravail.fr/tv" ],
+    "rank": 3.5,
+    "pages": 1249,
+    "trafic": 58785,
+    "nbin": 7,
+    "nbout": 21
+  },
+  {
+    "name": "autres$candidat.francetravail.fr/Mobiville",
+    "imports": [ "autres$candidat.francetravail.fr/Autres", "autres$candidat.francetravail.fr/Mobiville", "pole-emploi.fr$candidat.pole-emploi.fr/Autres", "pole-emploi.fr (startup)$labonneboite.pole-emploi.fr", "pole-emploi.fr (startup)$mesevenementsemploi.pole-emploi.fr", "pole-emploi.fr$messervices.pole-emploi.fr", "emploi-store.fr$www.emploi-store.fr", "pole-emploi.fr (edito)$www.pole-emploi.fr/accueil", "pole-emploi.fr (edito)$www.pole-emploi.fr/annuaire", "pole-emploi.fr (edito)$www.pole-emploi.fr/candidat" ],
+    "outgoing": [ "autres$candidat.francetravail.fr/Autres", "autres$candidat.francetravail.fr/Mobiville", "autres$www.francetravail.fr/candidat" ],
+    "rank": 0.0,
+    "pages": 37,
+    "trafic": 844,
+    "nbin": 10,
+    "nbout": 3
+  },
+  {
+    "name": "autres$candidat.francetravail.fr/Recherche-formations",
+    "imports": [ "autres$candidat.francetravail.fr/Autres", "autres$candidat.francetravail.fr/MetierScope", "autres$candidat.francetravail.fr/Recherche-formations", "autres$candidat.francetravail.fr/Recherche-offres", "pole-emploi.fr$candidat.pole-emploi.fr/Recherche-formations", "pole-emploi.fr$dataemploi.pole-emploi.fr", "autres$emplois2024.fr", "autres$entreprise.francetravail.fr/Accueil", "francetravail.fr$mesevenementsemploi.francetravail.fr", "francetravail.fr$recrute.francetravail.fr", "francetravail.fr$salonenligne.francetravail.fr", "emploi-store.fr$www.emploi-store.fr", "autres$www.francetravail.fr/accueil", "autres$www.francetravail.fr/actualite", "autres$www.francetravail.fr/annuaire", "autres$www.francetravail.fr/autres", "autres$www.francetravail.fr/candidat", "autres$www.francetravail.fr/employeur", "autres$www.francetravail.fr/faq", "autres$www.francetravail.fr/informations", "autres$www.francetravail.fr/international", "autres$www.francetravail.fr/region", "autres$www.francetravail.fr/spectacle", "francetravail.org$www.francetravail.org", "pole-emploi.fr (edito)$www.pole-emploi.fr/autres", "pole-emploi.fr (edito)$www.pole-emploi.fr/candidat" ],
+    "outgoing": [ "autres$candidat.francetravail.fr/Recherche-formations", "autres$candidat.francetravail.fr/Recherche-offres", "pole-emploi.fr$dataemploi.pole-emploi.fr", "autres$emplois2024.fr", "emploi-store.fr$www.emploi-store.fr", "autres$www.francetravail.fr/actualite", "autres$www.francetravail.fr/annuaire", "autres$www.francetravail.fr/autres", "autres$www.francetravail.fr/candidat", "autres$www.francetravail.fr/faq", "autres$www.francetravail.fr/informations", "autres$www.francetravail.fr/international", "autres$www.francetravail.fr/region", "autres$www.francetravail.fr/spectacle", "autres$www.francetravail.fr/tv" ],
+    "rank": 0.3,
+    "pages": 367,
+    "trafic": 185025,
+    "nbin": 26,
+    "nbout": 15
+  },
+  {
+    "name": "autres$candidat.francetravail.fr/Recherche-offres",
+    "imports": [ "autres$candidat.francetravail.fr/Autres", "autres$candidat.francetravail.fr/MetierScope", "autres$candidat.francetravail.fr/Recherche-formations", "autres$candidat.francetravail.fr/Recherche-offres", "pole-emploi.fr$dataemploi.pole-emploi.fr", "autres$emplois2024.fr", "autres$entreprise.francetravail.fr/Accueil", "pole-emploi.fr (startup)$labonneboite.pole-emploi.fr", "francetravail.fr$mesevenementsemploi.francetravail.fr", "pole-emploi.fr (startup)$mesevenementsemploi.pole-emploi.fr", "francetravail.fr$recrute.francetravail.fr", "pole-emploi.fr$recrute.pole-emploi.fr", "francetravail.fr$salonenligne.francetravail.fr", "pole-emploi.fr$salonenligne.pole-emploi.fr", "emploi-store.fr$www.emploi-store.fr", "autres$www.francetravail.fr/accueil", "autres$www.francetravail.fr/actualite", "autres$www.francetravail.fr/annuaire", "autres$www.francetravail.fr/autres", "autres$www.francetravail.fr/candidat", "autres$www.francetravail.fr/employeur", "autres$www.francetravail.fr/faq", "autres$www.francetravail.fr/informations", "autres$www.francetravail.fr/international", "autres$www.francetravail.fr/region", "autres$www.francetravail.fr/spectacle", "francetravail.org$www.francetravail.org", "pole-emploi.fr (edito)$www.pole-emploi.fr/autres", "pole-emploi.fr (edito)$www.pole-emploi.fr/candidat", "pole-emploi.org$www.pole-emploi.org" ],
+    "outgoing": [ "autres$candidat.francetravail.fr/Recherche-formations", "autres$candidat.francetravail.fr/Recherche-offres", "pole-emploi.fr$dataemploi.pole-emploi.fr", "autres$emplois2024.fr", "emploi-store.fr$www.emploi-store.fr", "autres$www.francetravail.fr/actualite", "autres$www.francetravail.fr/annuaire", "autres$www.francetravail.fr/autres", "autres$www.francetravail.fr/candidat", "autres$www.francetravail.fr/employeur", "autres$www.francetravail.fr/faq", "autres$www.francetravail.fr/informations", "autres$www.francetravail.fr/international", "autres$www.francetravail.fr/region", "autres$www.francetravail.fr/spectacle", "autres$www.francetravail.fr/tv" ],
+    "rank": 14.6,
+    "pages": 888019,
+    "trafic": 963210,
+    "nbin": 30,
+    "nbout": 16
+  },
+  {
+    "name": "pole-emploi.fr$candidat.pole-emploi.fr/Autres",
+    "imports": [],
+    "outgoing": [ "autres$autres-sites", "autres$candidat.francetravail.fr/Mobiville", "francetravail.fr$chomage-independant.francetravail.fr", "autres$entreprise.francetravail.fr/Accueil", "pole-emploi.fr$messervices.pole-emploi.fr", "emploi-store.fr$www.emploi-store.fr", "autres$www.francetravail.fr/accueil", "autres$www.francetravail.fr/candidat", "autres$www.francetravail.fr/international", "autres$www.francetravail.fr/region", "francetravail.org$www.francetravail.org" ],
+    "rank": 0.1,
+    "pages": 41,
+    "trafic": 1222694,
+    "nbin": 0,
+    "nbout": 11
+  },
+  {
+    "name": "pole-emploi.fr$candidat.pole-emploi.fr/MetierScope",
+    "imports": [],
+    "outgoing": [ "autres$emplois2024.fr", "emploi-store.fr$www.emploi-store.fr", "autres$www.francetravail.fr/actualite", "autres$www.francetravail.fr/candidat", "autres$www.francetravail.fr/region", "francetravail.org$www.francetravail.org" ],
+    "rank": 0.0,
+    "pages": 32,
+    "trafic": 17,
+    "nbin": 0,
+    "nbout": 6
+  },
+  {
+    "name": "pole-emploi.fr$candidat.pole-emploi.fr/Recherche-formations",
+    "imports": [],
+    "outgoing": [ "autres$candidat.francetravail.fr/MetierScope", "autres$candidat.francetravail.fr/Recherche-formations", "autres$emplois2024.fr", "pole-emploi.org$www.actuformation.pole-emploi.org", "autres$www.francetravail.fr/accueil", "autres$www.francetravail.fr/actualite", "autres$www.francetravail.fr/candidat", "autres$www.francetravail.fr/region", "francetravail.org$www.francetravail.org" ],
+    "rank": 0.1,
+    "pages": 214,
+    "trafic": 91126,
+    "nbin": 0,
+    "nbout": 9
+  },
+  {
+    "name": "pole-emploi.fr$candidat.pole-emploi.fr/Recherche-offres",
+    "imports": [],
+    "outgoing": [ "autres$candidat.francetravail.fr/MetierScope", "autres$www.francetravail.fr/accueil", "autres$www.francetravail.fr/actualite", "autres$www.francetravail.fr/candidat", "autres$www.francetravail.fr/region", "francetravail.org$www.francetravail.org" ],
+    "rank": 0.2,
+    "pages": 1821,
+    "trafic": 629771,
+    "nbin": 0,
+    "nbout": 6
+  },
+  {
+    "name": "autres$chomage-independant.fr",
+    "imports": [],
+    "outgoing": [ "autres$autres-sites", "emploi-store.fr$www.emploi-store.fr", "autres$www.francetravail.fr/candidat" ],
+    "rank": 0.0,
+    "pages": 2,
+    "trafic": 3,
+    "nbin": 0,
+    "nbout": 3
+  },
+  {
+    "name": "francetravail.fr$chomage-independant.francetravail.fr",
+    "imports": [ "autres$candidat.francetravail.fr/Autres", "pole-emploi.fr$candidat.pole-emploi.fr/Autres", "francetravail.fr$chomage-independant.francetravail.fr", "pole-emploi.fr (edito)$www.pole-emploi.fr/autres", "pole-emploi.fr (edito)$www.pole-emploi.fr/candidat" ],
+    "outgoing": [ "francetravail.fr$chomage-independant.francetravail.fr" ],
+    "rank": 0.0,
+    "pages": 36,
+    "trafic": 648,
+    "nbin": 5,
+    "nbout": 1
+  },
+  {
+    "name": "pole-emploi.fr$dataemploi.pole-emploi.fr",
+    "imports": [ "autres$candidat.francetravail.fr/MetierScope", "autres$candidat.francetravail.fr/Recherche-formations", "autres$candidat.francetravail.fr/Recherche-offres", "pole-emploi.fr$dataemploi.pole-emploi.fr", "autres$francetravail.io", "francetravail.fr$labonneboite.francetravail.fr", "autres$www.francetravail.fr/accueil", "autres$www.francetravail.fr/employeur", "francetravail.org$www.francetravail.org" ],
+    "outgoing": [ "autres$candidat.francetravail.fr/Autres", "autres$candidat.francetravail.fr/Recherche-formations", "autres$candidat.francetravail.fr/Recherche-offres", "pole-emploi.fr$dataemploi.pole-emploi.fr", "autres$entreprise.francetravail.fr/Accueil", "autres$entreprise.francetravail.fr/Autres", "autres$francetravail.io", "emploi-store.fr$www.emploi-store.fr", "autres$www.francetravail.fr/accueil", "autres$www.francetravail.fr/actualite", "autres$www.francetravail.fr/annuaire", "autres$www.francetravail.fr/autres", "autres$www.francetravail.fr/candidat", "autres$www.francetravail.fr/employeur", "autres$www.francetravail.fr/faq", "autres$www.francetravail.fr/informations", "autres$www.francetravail.fr/international", "autres$www.francetravail.fr/region", "autres$www.francetravail.fr/spectacle", "autres$www.francetravail.fr/tv", "francetravail.org$www.francetravail.org" ],
+    "rank": 1.1,
+    "pages": 1090,
+    "trafic": 12165,
+    "nbin": 9,
+    "nbout": 21
+  },
+  {
+    "name": "autres$emplois2024.fr",
+    "imports": [ "autres$candidat.francetravail.fr/MetierScope", "autres$candidat.francetravail.fr/Recherche-formations", "autres$candidat.francetravail.fr/Recherche-offres", "pole-emploi.fr$candidat.pole-emploi.fr/MetierScope", "pole-emploi.fr$candidat.pole-emploi.fr/Recherche-formations", "autres$emplois2024.fr", "autres$entreprise.francetravail.fr/Autres", "pole-emploi.fr$entreprise.pole-emploi.fr/Autres", "francetravail.fr$mesevenementsemploi.francetravail.fr", "pole-emploi.fr (startup)$mesevenementsemploi.pole-emploi.fr", "pole-emploi.org$www.actuformation.pole-emploi.org", "emploi-store.fr$www.emploi-store.fr", "autres$www.francetravail.fr/accueil", "autres$www.francetravail.fr/actualite", "autres$www.francetravail.fr/candidat", "pole-emploi.fr (edito)$www.pole-emploi.fr/actualite", "pole-emploi.fr (edito)$www.pole-emploi.fr/candidat", "pole-emploi.fr (edito)$www.pole-emploi.fr/faq", "pole-emploi.fr (edito)$www.pole-emploi.fr/region", "pole-emploi.org$www.pole-emploi.org" ],
+    "outgoing": [ "autres$candidat.francetravail.fr/Autres", "autres$candidat.francetravail.fr/Recherche-formations", "autres$candidat.francetravail.fr/Recherche-offres", "autres$emplois2024.fr", "autres$entreprise.francetravail.fr/Accueil", "autres$entreprise.francetravail.fr/Autres", "autres$www.francetravail.fr/accueil", "autres$www.francetravail.fr/actualite", "autres$www.francetravail.fr/annuaire", "autres$www.francetravail.fr/autres", "autres$www.francetravail.fr/candidat", "autres$www.francetravail.fr/employeur", "autres$www.francetravail.fr/faq", "autres$www.francetravail.fr/informations", "autres$www.francetravail.fr/international", "autres$www.francetravail.fr/region", "autres$www.francetravail.fr/spectacle", "autres$www.francetravail.fr/tv", "francetravail.org$www.francetravail.org" ],
+    "rank": 1.5,
+    "pages": 67,
+    "trafic": 5632,
+    "nbin": 20,
+    "nbout": 19
+  },
+  {
+    "name": "autres$entreprise.francetravail.fr/Accueil",
+    "imports": [ "autres$autres-sites", "autres$candidat.francetravail.fr/Autres", "autres$candidat.francetravail.fr/MetierScope", "pole-emploi.fr$candidat.pole-emploi.fr/Autres", "pole-emploi.fr$dataemploi.pole-emploi.fr", "autres$emplois2024.fr", "autres$entreprise.francetravail.fr/Accueil", "autres$entreprise.francetravail.fr/Autres", "pole-emploi.fr$entreprise.pole-emploi.fr/Accueil", "pole-emploi.fr$gestion.pole-emploi.fr", "pole-emploi.fr (startup)$labonnecompetencepro.pole-emploi.fr", "francetravail.fr$mesevenementsemploi.francetravail.fr", "pole-emploi.fr (startup)$mesevenementsemploi.pole-emploi.fr", "francetravail.fr$recrute.francetravail.fr", "pole-emploi.fr$recrute.pole-emploi.fr", "francetravail.fr$salonenligne.francetravail.fr", "emploi-store.fr$www.emploi-store.fr", "autres$www.francetravail.fr/accueil", "autres$www.francetravail.fr/actualite", "autres$www.francetravail.fr/annuaire", "autres$www.francetravail.fr/candidat", "autres$www.francetravail.fr/employeur", "autres$www.francetravail.fr/faq", "autres$www.francetravail.fr/informations", "autres$www.francetravail.fr/international", "autres$www.francetravail.fr/region", "autres$www.francetravail.fr/spectacle", "francetravail.org$www.francetravail.org", "autres$www.guso.fr", "pole-emploi.fr (edito)$www.pole-emploi.fr/autres", "pole-emploi.fr (edito)$www.pole-emploi.fr/employeur", "pole-emploi.fr (edito)$www.pole-emploi.fr/faq", "pole-emploi.fr (edito)$www.pole-emploi.fr/international" ],
+    "outgoing": [ "autres$candidat.francetravail.fr/Autres", "autres$candidat.francetravail.fr/Recherche-formations", "autres$candidat.francetravail.fr/Recherche-offres", "autres$entreprise.francetravail.fr/Accueil", "autres$entreprise.francetravail.fr/Autres", "autres$www.francetravail.fr/accueil", "autres$www.francetravail.fr/actualite", "autres$www.francetravail.fr/annuaire", "autres$www.francetravail.fr/autres", "autres$www.francetravail.fr/candidat", "autres$www.francetravail.fr/employeur", "autres$www.francetravail.fr/faq", "autres$www.francetravail.fr/informations", "autres$www.francetravail.fr/international", "autres$www.francetravail.fr/region", "autres$www.francetravail.fr/spectacle", "autres$www.francetravail.fr/tv" ],
+    "rank": 3.6,
+    "pages": 147,
+    "trafic": 41289,
+    "nbin": 33,
+    "nbout": 17
+  },
+  {
+    "name": "autres$entreprise.francetravail.fr/Autres",
+    "imports": [ "autres$candidat.francetravail.fr/Autres", "autres$candidat.francetravail.fr/MetierScope", "pole-emploi.fr$dataemploi.pole-emploi.fr", "autres$emplois2024.fr", "autres$entreprise.francetravail.fr/Accueil", "autres$entreprise.francetravail.fr/Autres", "pole-emploi.fr$entreprise.pole-emploi.fr/Accueil", "pole-emploi.fr$entreprise.pole-emploi.fr/Autres", "francetravail.fr$mesevenementsemploi.francetravail.fr", "pole-emploi.fr (startup)$mesevenementsemploi.pole-emploi.fr", "francetravail.fr$recrute.francetravail.fr", "pole-emploi.fr$recrute.pole-emploi.fr", "francetravail.fr$salonenligne.francetravail.fr", "pole-emploi.fr$salonenligne.pole-emploi.fr", "emploi-store.fr$www.emploi-store.fr", "pole-emploi.org$www.emploiparlonsnet.pole-emploi.org", "autres$www.francetravail.fr/accueil", "autres$www.francetravail.fr/actualite", "autres$www.francetravail.fr/annuaire", "autres$www.francetravail.fr/autres", "autres$www.francetravail.fr/candidat", "autres$www.francetravail.fr/employeur", "autres$www.francetravail.fr/faq", "autres$www.francetravail.fr/informations", "autres$www.francetravail.fr/international", "autres$www.francetravail.fr/region", "autres$www.francetravail.fr/spectacle", "francetravail.org$www.francetravail.org", "pole-emploi.fr (edito)$www.pole-emploi.fr/accueil", "pole-emploi.fr (edito)$www.pole-emploi.fr/actualite", "pole-emploi.fr (edito)$www.pole-emploi.fr/annuaire", "pole-emploi.fr (edito)$www.pole-emploi.fr/autres", "pole-emploi.fr (edito)$www.pole-emploi.fr/candidat", "pole-emploi.fr (edito)$www.pole-emploi.fr/employeur", "pole-emploi.fr (edito)$www.pole-emploi.fr/faq", "pole-emploi.fr (edito)$www.pole-emploi.fr/informations", "pole-emploi.fr (edito)$www.pole-emploi.fr/international", "pole-emploi.fr (edito)$www.pole-emploi.fr/region", "pole-emploi.fr (edito)$www.pole-emploi.fr/spectacle", "pole-emploi.fr (edito)$www.pole-emploi.fr/tv", "pole-emploi.org$www.pole-emploi.org" ],
+    "outgoing": [ "autres$emplois2024.fr", "autres$entreprise.francetravail.fr/Accueil", "autres$entreprise.francetravail.fr/Autres", "autres$www.francetravail.fr/actualite", "autres$www.francetravail.fr/employeur", "autres$www.francetravail.fr/faq", "autres$www.francetravail.fr/international", "autres$www.francetravail.fr/region" ],
+    "rank": 0.3,
+    "pages": 71,
+    "trafic": 21083,
+    "nbin": 41,
+    "nbout": 8
+  },
+  {
+    "name": "pole-emploi.fr$entreprise.pole-emploi.fr/Accueil",
+    "imports": [],
+    "outgoing": [ "autres$entreprise.francetravail.fr/Accueil", "autres$entreprise.francetravail.fr/Autres", "autres$www.francetravail.fr/accueil", "autres$www.francetravail.fr/actualite", "autres$www.francetravail.fr/employeur", "autres$www.francetravail.fr/region", "francetravail.org$www.francetravail.org" ],
+    "rank": 0.1,
+    "pages": 72,
+    "trafic": 0,
+    "nbin": 0,
+    "nbout": 7
+  },
+  {
+    "name": "pole-emploi.fr$entreprise.pole-emploi.fr/Autres",
+    "imports": [],
+    "outgoing": [ "autres$emplois2024.fr", "autres$entreprise.francetravail.fr/Autres", "pole-emploi.fr (startup)$labonnecompetencepro.pole-emploi.fr", "autres$www.francetravail.fr/actualite", "autres$www.francetravail.fr/candidat", "autres$www.francetravail.fr/employeur", "autres$www.francetravail.fr/international", "autres$www.francetravail.fr/region", "francetravail.org$www.francetravail.org" ],
+    "rank": 0.1,
+    "pages": 22,
+    "trafic": 404,
+    "nbin": 0,
+    "nbout": 9
+  },
+  {
+    "name": "autres$francetravail.io",
+    "imports": [ "autres$autres-sites", "autres$candidat.francetravail.fr/Autres", "autres$candidat.francetravail.fr/MetierScope", "pole-emploi.fr$dataemploi.pole-emploi.fr", "autres$francetravail.io", "francetravail.fr$labonneboite.francetravail.fr", "francetravail.fr$mesevenementsemploi.francetravail.fr", "pole-emploi.fr$messervices.pole-emploi.fr", "autres$pole-emploi.io", "francetravail.fr$salonenligne.francetravail.fr", "emploi-store.fr$www.emploi-store.fr", "autres$www.francetravail.fr/accueil", "autres$www.francetravail.fr/autres", "autres$www.francetravail.fr/candidat", "autres$www.francetravail.fr/employeur", "autres$www.francetravail.fr/region", "francetravail.org$www.francetravail.org", "pole-emploi.fr (edito)$www.pole-emploi.fr/actualite", "pole-emploi.fr (edito)$www.pole-emploi.fr/autres", "pole-emploi.org$www.pole-emploi.org" ],
+    "outgoing": [ "pole-emploi.fr$dataemploi.pole-emploi.fr", "autres$francetravail.io", "francetravail.fr$labonneboite.francetravail.fr", "francetravail.org$www.francetravail.org" ],
+    "rank": 3.3,
+    "pages": 222,
+    "trafic": 1870,
+    "nbin": 20,
+    "nbout": 4
+  },
+  {
+    "name": "francetravail.fr$gestion.francetravail.fr",
+    "imports": [ "autres$autres-sites", "francetravail.fr$gestion.francetravail.fr", "pole-emploi.fr (edito)$www.pole-emploi.fr/annuaire", "pole-emploi.fr (edito)$www.pole-emploi.fr/autres", "pole-emploi.fr (edito)$www.pole-emploi.fr/employeur", "pole-emploi.fr (edito)$www.pole-emploi.fr/faq", "pole-emploi.fr (edito)$www.pole-emploi.fr/informations", "pole-emploi.org$www.pole-emploi.org" ],
+    "outgoing": [ "francetravail.fr$gestion.francetravail.fr", "autres$www.francetravail.fr/employeur", "autres$www.francetravail.fr/faq", "autres$www.francetravail.fr/region", "autres$www.francetravail.fr/spectacle" ],
+    "rank": 0.1,
+    "pages": 9,
+    "trafic": 177,
+    "nbin": 8,
+    "nbout": 5
+  },
+  {
+    "name": "pole-emploi.fr$gestion.pole-emploi.fr",
+    "imports": [],
+    "outgoing": [ "autres$entreprise.francetravail.fr/Accueil", "autres$www.francetravail.fr/employeur", "autres$www.francetravail.fr/region" ],
+    "rank": 0.1,
+    "pages": 2,
+    "trafic": 2711,
+    "nbin": 0,
+    "nbout": 3
+  },
+  {
+    "name": "francetravail.fr$labonneboite.francetravail.fr",
+    "imports": [ "autres$francetravail.io", "francetravail.fr$labonneboite.francetravail.fr", "pole-emploi.fr$recrute.pole-emploi.fr", "emploi-store.fr$www.emploi-store.fr", "autres$www.francetravail.fr/autres", "pole-emploi.fr (edito)$www.pole-emploi.fr/autres", "pole-emploi.org$www.pole-emploi.org" ],
+    "outgoing": [ "pole-emploi.fr$dataemploi.pole-emploi.fr", "autres$francetravail.io", "francetravail.fr$labonneboite.francetravail.fr" ],
+    "rank": 8.3,
+    "pages": 44907,
+    "trafic": 57348,
+    "nbin": 7,
+    "nbout": 3
+  },
+  {
+    "name": "pole-emploi.fr (startup)$labonneboite.pole-emploi.fr",
+    "imports": [],
+    "outgoing": [ "autres$candidat.francetravail.fr/MetierScope", "autres$candidat.francetravail.fr/Mobiville", "autres$candidat.francetravail.fr/Recherche-offres", "emploi-store.fr$www.emploi-store.fr", "autres$www.francetravail.fr/actualite", "autres$www.francetravail.fr/candidat", "autres$www.francetravail.fr/international", "autres$www.francetravail.fr/region", "francetravail.org$www.francetravail.org" ],
+    "rank": 1.6,
+    "pages": 108591,
+    "trafic": 1400,
+    "nbin": 0,
+    "nbout": 9
+  },
+  {
+    "name": "pole-emploi.fr (startup)$labonnecompetencepro.pole-emploi.fr",
+    "imports": [ "pole-emploi.fr$entreprise.pole-emploi.fr/Autres", "pole-emploi.fr (startup)$labonnecompetencepro.pole-emploi.fr", "pole-emploi.fr (edito)$www.pole-emploi.fr/informations" ],
+    "outgoing": [ "autres$entreprise.francetravail.fr/Accueil", "pole-emploi.fr (startup)$labonnecompetencepro.pole-emploi.fr", "autres$www.francetravail.fr/region", "francetravail.org$www.francetravail.org" ],
+    "rank": 0.0,
+    "pages": 3,
+    "trafic": 195,
+    "nbin": 3,
+    "nbout": 4
+  },
+  {
+    "name": "francetravail.fr$lesclubs-sportifs-engages.francetravail.fr",
+    "imports": [ "francetravail.fr$lesclubs-sportifs-engages.francetravail.fr", "autres$lesclubs-sportifs-engages.pole-emploi.fr" ],
+    "outgoing": [ "francetravail.fr$lesclubs-sportifs-engages.francetravail.fr", "autres$www.francetravail.fr/actualite", "francetravail.org$www.francetravail.org" ],
+    "rank": 0.0,
+    "pages": 45,
+    "trafic": 105,
+    "nbin": 2,
+    "nbout": 3
+  },
+  {
+    "name": "autres$lesclubs-sportifs-engages.pole-emploi.fr",
+    "imports": [],
+    "outgoing": [ "francetravail.fr$lesclubs-sportifs-engages.francetravail.fr" ],
+    "rank": 0.0,
+    "pages": 2,
+    "trafic": 0,
+    "nbin": 0,
+    "nbout": 1
+  },
+  {
+    "name": "francetravail.fr$mes-aides.francetravail.fr",
+    "imports": [ "francetravail.fr$mes-aides.francetravail.fr", "autres$www.francetravail.fr/candidat", "pole-emploi.fr (edito)$www.pole-emploi.fr/candidat" ],
+    "outgoing": [ "francetravail.fr$mes-aides.francetravail.fr", "emploi-store.fr$www.emploi-store.fr", "autres$www.francetravail.fr/actualite", "autres$www.francetravail.fr/candidat", "autres$www.francetravail.fr/region" ],
+    "rank": 0.3,
+    "pages": 1117,
+    "trafic": 27122,
+    "nbin": 3,
+    "nbout": 5
+  },
+  {
+    "name": "pole-emploi.fr (startup)$mes-aides.pole-emploi.fr",
+    "imports": [],
+    "outgoing": [ "autres$candidat.francetravail.fr/MetierScope", "autres$www.francetravail.fr/actualite", "autres$www.francetravail.fr/candidat", "autres$www.francetravail.fr/region", "francetravail.org$www.francetravail.org" ],
+    "rank": 0.0,
+    "pages": 3,
+    "trafic": 101,
+    "nbin": 0,
+    "nbout": 5
+  },
+  {
+    "name": "francetravail.fr$mesevenementsemploi.francetravail.fr",
+    "imports": [ "francetravail.fr$mesevenementsemploi.francetravail.fr", "pole-emploi.fr (startup)$mesevenementsemploi.pole-emploi.fr", "pole-emploi.fr (edito)$www.pole-emploi.fr/accueil", "pole-emploi.fr (edito)$www.pole-emploi.fr/actualite", "pole-emploi.fr (edito)$www.pole-emploi.fr/autres" ],
+    "outgoing": [ "autres$candidat.francetravail.fr/Autres", "autres$candidat.francetravail.fr/Recherche-formations", "autres$candidat.francetravail.fr/Recherche-offres", "autres$emplois2024.fr", "autres$entreprise.francetravail.fr/Accueil", "autres$entreprise.francetravail.fr/Autres", "autres$francetravail.io", "francetravail.fr$mesevenementsemploi.francetravail.fr", "autres$www.francetravail.fr/accueil", "autres$www.francetravail.fr/actualite", "autres$www.francetravail.fr/annuaire", "autres$www.francetravail.fr/autres", "autres$www.francetravail.fr/candidat", "autres$www.francetravail.fr/employeur", "autres$www.francetravail.fr/faq", "autres$www.francetravail.fr/informations", "autres$www.francetravail.fr/international", "autres$www.francetravail.fr/region", "autres$www.francetravail.fr/spectacle", "autres$www.francetravail.fr/tv", "francetravail.org$www.francetravail.org" ],
+    "rank": 1.4,
+    "pages": 581,
+    "trafic": 120432,
+    "nbin": 5,
+    "nbout": 21
+  },
+  {
+    "name": "pole-emploi.fr (startup)$mesevenementsemploi.pole-emploi.fr",
+    "imports": [],
+    "outgoing": [ "autres$candidat.francetravail.fr/MetierScope", "autres$candidat.francetravail.fr/Mobiville", "autres$candidat.francetravail.fr/Recherche-offres", "autres$emplois2024.fr", "autres$entreprise.francetravail.fr/Accueil", "autres$entreprise.francetravail.fr/Autres", "francetravail.fr$mesevenementsemploi.francetravail.fr", "emploi-store.fr$www.emploi-store.fr", "autres$www.francetravail.fr/actualite", "autres$www.francetravail.fr/candidat", "autres$www.francetravail.fr/employeur", "autres$www.francetravail.fr/region", "francetravail.org$www.francetravail.org" ],
+    "rank": 0.1,
+    "pages": 177,
+    "trafic": 848,
+    "nbin": 0,
+    "nbout": 13
+  },
+  {
+    "name": "pole-emploi.fr$messervices.pole-emploi.fr",
+    "imports": [ "pole-emploi.fr$candidat.pole-emploi.fr/Autres", "pole-emploi.fr$messervices.pole-emploi.fr", "pole-emploi.fr$monallocation.pole-emploi.fr", "emploi-store.fr$www.emploi-store.fr", "autres$www.francetravail.fr/international", "pole-emploi.fr (edito)$www.pole-emploi.fr/accueil", "pole-emploi.fr (edito)$www.pole-emploi.fr/annuaire", "pole-emploi.fr (edito)$www.pole-emploi.fr/autres", "pole-emploi.fr (edito)$www.pole-emploi.fr/candidat", "pole-emploi.fr (edito)$www.pole-emploi.fr/informations" ],
+    "outgoing": [ "autres$candidat.francetravail.fr/Autres", "autres$candidat.francetravail.fr/Mobiville", "autres$francetravail.io", "pole-emploi.fr$messervices.pole-emploi.fr", "francetravail.fr$monallocation.francetravail.fr", "emploi-store.fr$www.emploi-store.fr", "autres$www.francetravail.fr/actualite", "autres$www.francetravail.fr/candidat", "autres$www.francetravail.fr/faq", "autres$www.francetravail.fr/informations", "autres$www.francetravail.fr/international", "autres$www.francetravail.fr/region" ],
+    "rank": 0.1,
+    "pages": 71,
+    "trafic": 13661,
+    "nbin": 10,
+    "nbout": 12
+  },
+  {
+    "name": "francetravail.fr$monallocation.francetravail.fr",
+    "imports": [ "pole-emploi.fr$messervices.pole-emploi.fr", "francetravail.fr$monallocation.francetravail.fr", "pole-emploi.fr (edito)$www.pole-emploi.fr/autres", "pole-emploi.fr (edito)$www.pole-emploi.fr/candidat" ],
+    "outgoing": [ "francetravail.fr$monallocation.francetravail.fr" ],
+    "rank": 0.0,
+    "pages": 25,
+    "trafic": 40,
+    "nbin": 4,
+    "nbout": 1
+  },
+  {
+    "name": "pole-emploi.fr$monallocation.pole-emploi.fr",
+    "imports": [],
+    "outgoing": [ "pole-emploi.fr$messervices.pole-emploi.fr", "emploi-store.fr$www.emploi-store.fr", "autres$www.francetravail.fr/accueil", "autres$www.francetravail.fr/actualite", "autres$www.francetravail.fr/candidat", "autres$www.francetravail.fr/informations", "autres$www.francetravail.fr/region" ],
+    "rank": 0.0,
+    "pages": 2,
+    "trafic": 903,
+    "nbin": 0,
+    "nbout": 7
+  },
+  {
+    "name": "autres$pole-emploi.io",
+    "imports": [],
+    "outgoing": [ "autres$francetravail.io", "pole-emploi.org$www.actuformation.pole-emploi.org", "emploi-store.fr$www.emploi-store.fr", "autres$www.francetravail.fr/employeur", "francetravail.org$www.francetravail.org" ],
+    "rank": 0.1,
+    "pages": 24,
+    "trafic": 0,
+    "nbin": 0,
+    "nbout": 5
+  },
+  {
+    "name": "francetravail.fr$recrute.francetravail.fr",
+    "imports": [ "francetravail.fr$recrute.francetravail.fr", "pole-emploi.fr$recrute.pole-emploi.fr", "pole-emploi.fr$salonenligne.pole-emploi.fr", "autres$www.francetravail.fr/autres", "pole-emploi.fr (edito)$www.pole-emploi.fr/accueil", "pole-emploi.fr (edito)$www.pole-emploi.fr/annuaire", "pole-emploi.fr (edito)$www.pole-emploi.fr/autres", "pole-emploi.fr (edito)$www.pole-emploi.fr/employeur", "pole-emploi.org$www.pole-emploi.org" ],
+    "outgoing": [ "autres$candidat.francetravail.fr/Autres", "autres$candidat.francetravail.fr/Recherche-formations", "autres$candidat.francetravail.fr/Recherche-offres", "autres$entreprise.francetravail.fr/Accueil", "autres$entreprise.francetravail.fr/Autres", "francetravail.fr$recrute.francetravail.fr", "autres$www.francetravail.fr/accueil", "autres$www.francetravail.fr/actualite", "autres$www.francetravail.fr/annuaire", "autres$www.francetravail.fr/autres", "autres$www.francetravail.fr/candidat", "autres$www.francetravail.fr/employeur", "autres$www.francetravail.fr/faq", "autres$www.francetravail.fr/informations", "autres$www.francetravail.fr/international", "autres$www.francetravail.fr/region", "autres$www.francetravail.fr/spectacle", "autres$www.francetravail.fr/tv" ],
+    "rank": 6.4,
+    "pages": 159078,
+    "trafic": 310,
+    "nbin": 9,
+    "nbout": 18
+  },
+  {
+    "name": "francetravail.org$recrute.francetravail.org",
+    "imports": [ "francetravail.org$recrute.francetravail.org", "pole-emploi.org$recrute.pole-emploi.org" ],
+    "outgoing": [ "francetravail.org$recrute.francetravail.org", "francetravail.org$www.francetravail.org" ],
+    "rank": 2.6,
+    "pages": 19167,
+    "trafic": 28996,
+    "nbin": 2,
+    "nbout": 2
+  },
+  {
+    "name": "pole-emploi.fr$recrute.pole-emploi.fr",
+    "imports": [],
+    "outgoing": [ "autres$candidat.francetravail.fr/Recherche-offres", "autres$entreprise.francetravail.fr/Accueil", "autres$entreprise.francetravail.fr/Autres", "francetravail.fr$labonneboite.francetravail.fr", "francetravail.fr$recrute.francetravail.fr", "autres$www.francetravail.fr/actualite" ],
+    "rank": 1.1,
+    "pages": 64204,
+    "trafic": 146248,
+    "nbin": 0,
+    "nbout": 6
+  },
+  {
+    "name": "pole-emploi.org$recrute.pole-emploi.org",
+    "imports": [],
+    "outgoing": [ "francetravail.org$recrute.francetravail.org", "autres$www.francetravail.fr/accueil", "autres$www.francetravail.fr/actualite", "autres$www.francetravail.fr/annuaire", "autres$www.francetravail.fr/autres", "autres$www.francetravail.fr/candidat", "autres$www.francetravail.fr/faq", "autres$www.francetravail.fr/informations", "autres$www.francetravail.fr/international", "autres$www.francetravail.fr/region", "autres$www.francetravail.fr/spectacle", "autres$www.francetravail.fr/tv", "francetravail.org$www.francetravail.org" ],
+    "rank": 0.3,
+    "pages": 4,
+    "trafic": 119,
+    "nbin": 0,
+    "nbout": 13
+  },
+  {
+    "name": "francetravail.fr$salonenligne.francetravail.fr",
+    "imports": [ "francetravail.fr$salonenligne.francetravail.fr" ],
+    "outgoing": [ "autres$candidat.francetravail.fr/Autres", "autres$candidat.francetravail.fr/Recherche-formations", "autres$candidat.francetravail.fr/Recherche-offres", "autres$entreprise.francetravail.fr/Accueil", "autres$entreprise.francetravail.fr/Autres", "autres$francetravail.io", "francetravail.fr$salonenligne.francetravail.fr", "emploi-store.fr$www.emploi-store.fr", "autres$www.francetravail.fr/accueil", "autres$www.francetravail.fr/actualite", "autres$www.francetravail.fr/annuaire", "autres$www.francetravail.fr/autres", "autres$www.francetravail.fr/candidat", "autres$www.francetravail.fr/employeur", "autres$www.francetravail.fr/faq", "autres$www.francetravail.fr/informations", "autres$www.francetravail.fr/international", "autres$www.francetravail.fr/region", "autres$www.francetravail.fr/spectacle", "autres$www.francetravail.fr/tv" ],
+    "rank": 1.5,
+    "pages": 22,
+    "trafic": 3790,
+    "nbin": 1,
+    "nbout": 20
+  },
+  {
+    "name": "pole-emploi.fr$salonenligne.pole-emploi.fr",
+    "imports": [],
+    "outgoing": [ "autres$candidat.francetravail.fr/Recherche-offres", "autres$entreprise.francetravail.fr/Autres", "francetravail.fr$recrute.francetravail.fr", "autres$www.francetravail.fr/actualite", "autres$www.francetravail.fr/candidat", "autres$www.francetravail.fr/employeur", "autres$www.francetravail.fr/international", "autres$www.francetravail.fr/region", "francetravail.org$www.francetravail.org" ],
+    "rank": 0.0,
+    "pages": 17,
+    "trafic": 142,
+    "nbin": 0,
+    "nbout": 9
+  },
+  {
+    "name": "autres$simucalcul.pole-emploi-services.fr",
+    "imports": [ "pole-emploi.fr (edito)$www.pole-emploi.fr/accueil", "pole-emploi.fr (edito)$www.pole-emploi.fr/spectacle" ],
+    "outgoing": [ "autres$www.francetravail.fr/region", "autres$www.francetravail.fr/spectacle" ],
+    "rank": 0.0,
+    "pages": 1,
+    "trafic": 5059,
+    "nbin": 2,
+    "nbout": 2
+  },
+  {
+    "name": "emploi-store.fr$simulateur2.emploi-store.fr",
+    "imports": [],
+    "outgoing": [ "autres$www.francetravail.fr/region" ],
+    "rank": 0.0,
+    "pages": 1,
+    "trafic": 93,
+    "nbin": 0,
+    "nbout": 1
+  },
+  {
+    "name": "pole-emploi.org$www.actuformation.pole-emploi.org",
+    "imports": [ "pole-emploi.fr$candidat.pole-emploi.fr/Recherche-formations", "autres$pole-emploi.io", "pole-emploi.org$www.actuformation.pole-emploi.org", "autres$www.francetravail.fr/accueil", "autres$www.francetravail.fr/autres", "francetravail.org$www.francetravail.org", "pole-emploi.fr (edito)$www.pole-emploi.fr/accueil", "pole-emploi.fr (edito)$www.pole-emploi.fr/autres", "pole-emploi.fr (edito)$www.pole-emploi.fr/candidat", "pole-emploi.org$www.pole-emploi.org" ],
+    "outgoing": [ "autres$emplois2024.fr", "pole-emploi.org$www.actuformation.pole-emploi.org", "autres$www.francetravail.fr/region", "francetravail.org$www.francetravail.org" ],
+    "rank": 0.0,
+    "pages": 183,
+    "trafic": 26776,
+    "nbin": 10,
+    "nbout": 4
+  },
+  {
+    "name": "pole-emploi.org$www.bo-pole-emploi.org",
+    "imports": [],
+    "outgoing": [ "francetravail.org$www.francetravail.org" ],
+    "rank": 0.0,
+    "pages": 5,
+    "trafic": 0,
+    "nbin": 0,
+    "nbout": 1
+  },
+  {
+    "name": "emploi-store.fr$www.emploi-store.fr",
+    "imports": [ "autres$candidat.francetravail.fr/Autres", "autres$candidat.francetravail.fr/Recherche-formations", "autres$candidat.francetravail.fr/Recherche-offres", "pole-emploi.fr$candidat.pole-emploi.fr/Autres", "pole-emploi.fr$candidat.pole-emploi.fr/MetierScope", "autres$chomage-independant.fr", "pole-emploi.fr$dataemploi.pole-emploi.fr", "pole-emploi.fr (startup)$labonneboite.pole-emploi.fr", "francetravail.fr$mes-aides.francetravail.fr", "pole-emploi.fr (startup)$mesevenementsemploi.pole-emploi.fr", "pole-emploi.fr$messervices.pole-emploi.fr", "pole-emploi.fr$monallocation.pole-emploi.fr", "autres$pole-emploi.io", "francetravail.fr$salonenligne.francetravail.fr", "emploi-store.fr$www.emploi-store.fr", "pole-emploi.fr (edito)$www.pole-emploi.fr/accueil", "pole-emploi.fr (edito)$www.pole-emploi.fr/actualite", "pole-emploi.fr (edito)$www.pole-emploi.fr/autres", "pole-emploi.fr (edito)$www.pole-emploi.fr/candidat", "pole-emploi.fr (edito)$www.pole-emploi.fr/informations", "pole-emploi.org$www.pole-emploi.org" ],
+    "outgoing": [ "autres$candidat.francetravail.fr/Autres", "autres$candidat.francetravail.fr/Mobiville", "autres$candidat.francetravail.fr/Recherche-formations", "autres$candidat.francetravail.fr/Recherche-offres", "autres$emplois2024.fr", "autres$entreprise.francetravail.fr/Accueil", "autres$entreprise.francetravail.fr/Autres", "autres$francetravail.io", "francetravail.fr$labonneboite.francetravail.fr", "pole-emploi.fr$messervices.pole-emploi.fr", "emploi-store.fr$www.emploi-store.fr", "autres$www.francetravail.fr/accueil", "autres$www.francetravail.fr/actualite", "autres$www.francetravail.fr/annuaire", "autres$www.francetravail.fr/autres", "autres$www.francetravail.fr/candidat", "autres$www.francetravail.fr/employeur", "autres$www.francetravail.fr/faq", "autres$www.francetravail.fr/informations", "autres$www.francetravail.fr/international", "autres$www.francetravail.fr/region", "autres$www.francetravail.fr/spectacle", "autres$www.francetravail.fr/tv", "francetravail.org$www.francetravail.org" ],
+    "rank": 4.5,
+    "pages": 486,
+    "trafic": 79758,
+    "nbin": 21,
+    "nbout": 24
+  },
+  {
+    "name": "pole-emploi.org$www.emploiparlonsnet.pole-emploi.org",
+    "imports": [],
+    "outgoing": [ "autres$entreprise.francetravail.fr/Autres", "autres$www.francetravail.fr/actualite", "autres$www.francetravail.fr/employeur", "autres$www.francetravail.fr/informations", "autres$www.francetravail.fr/region", "francetravail.org$www.francetravail.org" ],
+    "rank": 0.0,
+    "pages": 36,
+    "trafic": 0,
+    "nbin": 0,
+    "nbout": 6
+  },
+  {
+    "name": "autres$www.francetravail.fr/accueil",
+    "imports": [ "autres$candidat.francetravail.fr/Autres", "autres$candidat.francetravail.fr/MetierScope", "pole-emploi.fr$candidat.pole-emploi.fr/Autres", "pole-emploi.fr$candidat.pole-emploi.fr/Recherche-formations", "pole-emploi.fr$candidat.pole-emploi.fr/Recherche-offres", "pole-emploi.fr$dataemploi.pole-emploi.fr", "autres$emplois2024.fr", "autres$entreprise.francetravail.fr/Accueil", "pole-emploi.fr$entreprise.pole-emploi.fr/Accueil", "francetravail.fr$mesevenementsemploi.francetravail.fr", "pole-emploi.fr$monallocation.pole-emploi.fr", "francetravail.fr$recrute.francetravail.fr", "pole-emploi.org$recrute.pole-emploi.org", "francetravail.fr$salonenligne.francetravail.fr", "emploi-store.fr$www.emploi-store.fr", "autres$www.francetravail.fr/actualite", "autres$www.francetravail.fr/annuaire", "autres$www.francetravail.fr/candidat", "autres$www.francetravail.fr/employeur", "autres$www.francetravail.fr/faq", "autres$www.francetravail.fr/informations", "autres$www.francetravail.fr/international", "autres$www.francetravail.fr/region", "autres$www.francetravail.fr/spectacle", "francetravail.org$www.francetravail.org", "pole-emploi.fr (edito)$www.pole-emploi.fr/autres", "pole-emploi.fr (edito)$www.pole-emploi.fr/candidat", "pole-emploi.fr (edito)$www.pole-emploi.fr/faq" ],
+    "outgoing": [ "autres$candidat.francetravail.fr/Autres", "autres$candidat.francetravail.fr/Recherche-formations", "autres$candidat.francetravail.fr/Recherche-offres", "pole-emploi.fr$dataemploi.pole-emploi.fr", "autres$emplois2024.fr", "autres$entreprise.francetravail.fr/Accueil", "autres$entreprise.francetravail.fr/Autres", "autres$francetravail.io", "pole-emploi.org$www.actuformation.pole-emploi.org", "autres$www.francetravail.fr/actualite", "autres$www.francetravail.fr/annuaire", "autres$www.francetravail.fr/autres", "autres$www.francetravail.fr/candidat", "autres$www.francetravail.fr/employeur", "autres$www.francetravail.fr/faq", "autres$www.francetravail.fr/informations", "autres$www.francetravail.fr/international", "autres$www.francetravail.fr/region", "autres$www.francetravail.fr/spectacle", "autres$www.francetravail.fr/tv", "francetravail.org$www.francetravail.org", "autres$www.guso.fr" ],
+    "rank": 1.8,
+    "pages": 1,
+    "trafic": 9026250,
+    "nbin": 28,
+    "nbout": 22
+  },
+  {
+    "name": "autres$www.francetravail.fr/actualite",
+    "imports": [ "autres$candidat.francetravail.fr/Autres", "autres$candidat.francetravail.fr/MetierScope", "autres$candidat.francetravail.fr/Recherche-formations", "autres$candidat.francetravail.fr/Recherche-offres", "pole-emploi.fr$candidat.pole-emploi.fr/MetierScope", "pole-emploi.fr$candidat.pole-emploi.fr/Recherche-formations", "pole-emploi.fr$candidat.pole-emploi.fr/Recherche-offres", "pole-emploi.fr$dataemploi.pole-emploi.fr", "autres$emplois2024.fr", "autres$entreprise.francetravail.fr/Accueil", "autres$entreprise.francetravail.fr/Autres", "pole-emploi.fr$entreprise.pole-emploi.fr/Accueil", "pole-emploi.fr$entreprise.pole-emploi.fr/Autres", "pole-emploi.fr (startup)$labonneboite.pole-emploi.fr", "francetravail.fr$lesclubs-sportifs-engages.francetravail.fr", "francetravail.fr$mes-aides.francetravail.fr", "pole-emploi.fr (startup)$mes-aides.pole-emploi.fr", "francetravail.fr$mesevenementsemploi.francetravail.fr", "pole-emploi.fr (startup)$mesevenementsemploi.pole-emploi.fr", "pole-emploi.fr$messervices.pole-emploi.fr", "pole-emploi.fr$monallocation.pole-emploi.fr", "francetravail.fr$recrute.francetravail.fr", "pole-emploi.fr$recrute.pole-emploi.fr", "pole-emploi.org$recrute.pole-emploi.org", "francetravail.fr$salonenligne.francetravail.fr", "pole-emploi.fr$salonenligne.pole-emploi.fr", "emploi-store.fr$www.emploi-store.fr", "pole-emploi.org$www.emploiparlonsnet.pole-emploi.org", "autres$www.francetravail.fr/accueil", "autres$www.francetravail.fr/actualite", "autres$www.francetravail.fr/annuaire", "autres$www.francetravail.fr/autres", "autres$www.francetravail.fr/candidat", "autres$www.francetravail.fr/employeur", "autres$www.francetravail.fr/faq", "autres$www.francetravail.fr/informations", "autres$www.francetravail.fr/international", "autres$www.francetravail.fr/region", "autres$www.francetravail.fr/spectacle", "francetravail.org$www.francetravail.org", "pole-emploi.fr (edito)$www.pole-emploi.fr/accueil", "pole-emploi.fr (edito)$www.pole-emploi.fr/actualite", "pole-emploi.fr (edito)$www.pole-emploi.fr/autres", "pole-emploi.fr (edito)$www.pole-emploi.fr/candidat", "pole-emploi.fr (edito)$www.pole-emploi.fr/employeur", "pole-emploi.fr (edito)$www.pole-emploi.fr/faq", "pole-emploi.fr (edito)$www.pole-emploi.fr/international", "pole-emploi.fr (edito)$www.pole-emploi.fr/region", "pole-emploi.fr (edito)$www.pole-emploi.fr/spectacle", "pole-emploi.org$www.pole-emploi.org" ],
+    "outgoing": [ "autres$candidat.francetravail.fr/Autres", "autres$candidat.francetravail.fr/Recherche-formations", "autres$candidat.francetravail.fr/Recherche-offres", "autres$emplois2024.fr", "autres$entreprise.francetravail.fr/Accueil", "autres$entreprise.francetravail.fr/Autres", "autres$www.francetravail.fr/accueil", "autres$www.francetravail.fr/actualite", "autres$www.francetravail.fr/annuaire", "autres$www.francetravail.fr/autres", "autres$www.francetravail.fr/candidat", "autres$www.francetravail.fr/employeur", "autres$www.francetravail.fr/faq", "autres$www.francetravail.fr/informations", "autres$www.francetravail.fr/international", "autres$www.francetravail.fr/region", "autres$www.francetravail.fr/spectacle", "autres$www.francetravail.fr/tv", "francetravail.org$www.francetravail.org" ],
+    "rank": 4.9,
+    "pages": 937,
+    "trafic": 197145,
+    "nbin": 50,
+    "nbout": 19
+  },
+  {
+    "name": "autres$www.francetravail.fr/annuaire",
+    "imports": [ "autres$candidat.francetravail.fr/Autres", "autres$candidat.francetravail.fr/MetierScope", "autres$candidat.francetravail.fr/Recherche-formations", "autres$candidat.francetravail.fr/Recherche-offres", "pole-emploi.fr$dataemploi.pole-emploi.fr", "autres$emplois2024.fr", "autres$entreprise.francetravail.fr/Accueil", "francetravail.fr$mesevenementsemploi.francetravail.fr", "francetravail.fr$recrute.francetravail.fr", "pole-emploi.org$recrute.pole-emploi.org", "francetravail.fr$salonenligne.francetravail.fr", "emploi-store.fr$www.emploi-store.fr", "autres$www.francetravail.fr/accueil", "autres$www.francetravail.fr/actualite", "autres$www.francetravail.fr/annuaire", "autres$www.francetravail.fr/autres", "autres$www.francetravail.fr/candidat", "autres$www.francetravail.fr/employeur", "autres$www.francetravail.fr/faq", "autres$www.francetravail.fr/informations", "autres$www.francetravail.fr/international", "autres$www.francetravail.fr/region", "autres$www.francetravail.fr/spectacle", "francetravail.org$www.francetravail.org" ],
+    "outgoing": [ "autres$candidat.francetravail.fr/Autres", "autres$candidat.francetravail.fr/Recherche-formations", "autres$candidat.francetravail.fr/Recherche-offres", "autres$entreprise.francetravail.fr/Accueil", "autres$entreprise.francetravail.fr/Autres", "autres$www.francetravail.fr/accueil", "autres$www.francetravail.fr/actualite", "autres$www.francetravail.fr/annuaire", "autres$www.francetravail.fr/autres", "autres$www.francetravail.fr/candidat", "autres$www.francetravail.fr/employeur", "autres$www.francetravail.fr/faq", "autres$www.francetravail.fr/informations", "autres$www.francetravail.fr/international", "autres$www.francetravail.fr/region", "autres$www.francetravail.fr/spectacle", "autres$www.francetravail.fr/tv" ],
+    "rank": 0.6,
+    "pages": 984,
+    "trafic": 287099,
+    "nbin": 24,
+    "nbout": 17
+  },
+  {
+    "name": "autres$www.francetravail.fr/autres",
+    "imports": [ "autres$candidat.francetravail.fr/Autres", "autres$candidat.francetravail.fr/MetierScope", "autres$candidat.francetravail.fr/Recherche-formations", "autres$candidat.francetravail.fr/Recherche-offres", "pole-emploi.fr$dataemploi.pole-emploi.fr", "autres$emplois2024.fr", "autres$entreprise.francetravail.fr/Accueil", "francetravail.fr$mesevenementsemploi.francetravail.fr", "francetravail.fr$recrute.francetravail.fr", "pole-emploi.org$recrute.pole-emploi.org", "francetravail.fr$salonenligne.francetravail.fr", "emploi-store.fr$www.emploi-store.fr", "autres$www.francetravail.fr/accueil", "autres$www.francetravail.fr/actualite", "autres$www.francetravail.fr/annuaire", "autres$www.francetravail.fr/autres", "autres$www.francetravail.fr/candidat", "autres$www.francetravail.fr/employeur", "autres$www.francetravail.fr/faq", "autres$www.francetravail.fr/informations", "autres$www.francetravail.fr/international", "autres$www.francetravail.fr/region", "autres$www.francetravail.fr/spectacle", "francetravail.org$www.francetravail.org", "pole-emploi.fr (edito)$www.pole-emploi.fr/candidat" ],
+    "outgoing": [ "autres$candidat.francetravail.fr/Autres", "autres$candidat.francetravail.fr/Recherche-formations", "autres$candidat.francetravail.fr/Recherche-offres", "autres$entreprise.francetravail.fr/Autres", "autres$francetravail.io", "francetravail.fr$labonneboite.francetravail.fr", "francetravail.fr$recrute.francetravail.fr", "pole-emploi.org$www.actuformation.pole-emploi.org", "autres$www.francetravail.fr/actualite", "autres$www.francetravail.fr/annuaire", "autres$www.francetravail.fr/autres", "autres$www.francetravail.fr/candidat", "autres$www.francetravail.fr/employeur", "autres$www.francetravail.fr/faq", "autres$www.francetravail.fr/informations", "autres$www.francetravail.fr/international", "autres$www.francetravail.fr/region", "autres$www.francetravail.fr/spectacle", "autres$www.francetravail.fr/tv", "francetravail.org$www.francetravail.org" ],
+    "rank": 1.6,
+    "pages": 582,
+    "trafic": 95402,
+    "nbin": 25,
+    "nbout": 20
+  },
+  {
+    "name": "autres$www.francetravail.fr/candidat",
+    "imports": [ "autres$autres-sites", "autres$candidat.francetravail.fr/Autres", "autres$candidat.francetravail.fr/MetierScope", "autres$candidat.francetravail.fr/Mobiville", "autres$candidat.francetravail.fr/Recherche-formations", "autres$candidat.francetravail.fr/Recherche-offres", "pole-emploi.fr$candidat.pole-emploi.fr/Autres", "pole-emploi.fr$candidat.pole-emploi.fr/MetierScope", "pole-emploi.fr$candidat.pole-emploi.fr/Recherche-formations", "pole-emploi.fr$candidat.pole-emploi.fr/Recherche-offres", "autres$chomage-independant.fr", "pole-emploi.fr$dataemploi.pole-emploi.fr", "autres$emplois2024.fr", "autres$entreprise.francetravail.fr/Accueil", "pole-emploi.fr$entreprise.pole-emploi.fr/Autres", "pole-emploi.fr (startup)$labonneboite.pole-emploi.fr", "francetravail.fr$mes-aides.francetravail.fr", "pole-emploi.fr (startup)$mes-aides.pole-emploi.fr", "francetravail.fr$mesevenementsemploi.francetravail.fr", "pole-emploi.fr (startup)$mesevenementsemploi.pole-emploi.fr", "pole-emploi.fr$messervices.pole-emploi.fr", "pole-emploi.fr$monallocation.pole-emploi.fr", "francetravail.fr$recrute.francetravail.fr", "pole-emploi.org$recrute.pole-emploi.org", "francetravail.fr$salonenligne.francetravail.fr", "pole-emploi.fr$salonenligne.pole-emploi.fr", "emploi-store.fr$www.emploi-store.fr", "autres$www.francetravail.fr/accueil", "autres$www.francetravail.fr/actualite", "autres$www.francetravail.fr/annuaire", "autres$www.francetravail.fr/autres", "autres$www.francetravail.fr/candidat", "autres$www.francetravail.fr/employeur", "autres$www.francetravail.fr/faq", "autres$www.francetravail.fr/informations", "autres$www.francetravail.fr/international", "autres$www.francetravail.fr/region", "autres$www.francetravail.fr/spectacle", "francetravail.org$www.francetravail.org", "pole-emploi.fr (edito)$www.pole-emploi.fr/accueil", "pole-emploi.fr (edito)$www.pole-emploi.fr/actualite", "pole-emploi.fr (edito)$www.pole-emploi.fr/autres", "pole-emploi.fr (edito)$www.pole-emploi.fr/candidat", "pole-emploi.fr (edito)$www.pole-emploi.fr/employeur", "pole-emploi.fr (edito)$www.pole-emploi.fr/informations", "pole-emploi.fr (edito)$www.pole-emploi.fr/international", "pole-emploi.fr (edito)$www.pole-emploi.fr/region", "pole-emploi.fr (edito)$www.pole-emploi.fr/spectacle", "pole-emploi.org$www.pole-emploi.org" ],
+    "outgoing": [ "autres$candidat.francetravail.fr/Autres", "autres$candidat.francetravail.fr/Recherche-formations", "autres$candidat.francetravail.fr/Recherche-offres", "autres$emplois2024.fr", "autres$entreprise.francetravail.fr/Accueil", "autres$entreprise.francetravail.fr/Autres", "autres$francetravail.io", "francetravail.fr$mes-aides.francetravail.fr", "autres$www.francetravail.fr/accueil", "autres$www.francetravail.fr/actualite", "autres$www.francetravail.fr/annuaire", "autres$www.francetravail.fr/autres", "autres$www.francetravail.fr/candidat", "autres$www.francetravail.fr/employeur", "autres$www.francetravail.fr/faq", "autres$www.francetravail.fr/informations", "autres$www.francetravail.fr/international", "autres$www.francetravail.fr/region", "autres$www.francetravail.fr/spectacle", "autres$www.francetravail.fr/tv", "francetravail.org$www.francetravail.org" ],
+    "rank": 11.5,
+    "pages": 571,
+    "trafic": 1108108,
+    "nbin": 49,
+    "nbout": 21
+  },
+  {
+    "name": "autres$www.francetravail.fr/employeur",
+    "imports": [ "autres$autres-sites", "autres$candidat.francetravail.fr/Autres", "autres$candidat.francetravail.fr/MetierScope", "autres$candidat.francetravail.fr/Recherche-offres", "pole-emploi.fr$dataemploi.pole-emploi.fr", "autres$emplois2024.fr", "autres$entreprise.francetravail.fr/Accueil", "autres$entreprise.francetravail.fr/Autres", "pole-emploi.fr$entreprise.pole-emploi.fr/Accueil", "pole-emploi.fr$entreprise.pole-emploi.fr/Autres", "francetravail.fr$gestion.francetravail.fr", "pole-emploi.fr$gestion.pole-emploi.fr", "francetravail.fr$mesevenementsemploi.francetravail.fr", "pole-emploi.fr (startup)$mesevenementsemploi.pole-emploi.fr", "autres$pole-emploi.io", "francetravail.fr$recrute.francetravail.fr", "francetravail.fr$salonenligne.francetravail.fr", "pole-emploi.fr$salonenligne.pole-emploi.fr", "emploi-store.fr$www.emploi-store.fr", "pole-emploi.org$www.emploiparlonsnet.pole-emploi.org", "autres$www.francetravail.fr/accueil", "autres$www.francetravail.fr/actualite", "autres$www.francetravail.fr/annuaire", "autres$www.francetravail.fr/autres", "autres$www.francetravail.fr/candidat", "autres$www.francetravail.fr/employeur", "autres$www.francetravail.fr/faq", "autres$www.francetravail.fr/informations", "autres$www.francetravail.fr/international", "autres$www.francetravail.fr/region", "autres$www.francetravail.fr/spectacle", "francetravail.org$www.francetravail.org", "autres$www.guso.fr", "pole-emploi.fr (edito)$www.pole-emploi.fr/actualite", "pole-emploi.fr (edito)$www.pole-emploi.fr/autres", "pole-emploi.fr (edito)$www.pole-emploi.fr/candidat", "pole-emploi.fr (edito)$www.pole-emploi.fr/employeur", "pole-emploi.fr (edito)$www.pole-emploi.fr/region", "pole-emploi.org$www.pole-emploi.org" ],
+    "outgoing": [ "autres$candidat.francetravail.fr/Autres", "autres$candidat.francetravail.fr/Recherche-formations", "autres$candidat.francetravail.fr/Recherche-offres", "pole-emploi.fr$dataemploi.pole-emploi.fr", "autres$entreprise.francetravail.fr/Accueil", "autres$entreprise.francetravail.fr/Autres", "autres$francetravail.io", "autres$www.francetravail.fr/accueil", "autres$www.francetravail.fr/actualite", "autres$www.francetravail.fr/annuaire", "autres$www.francetravail.fr/autres", "autres$www.francetravail.fr/candidat", "autres$www.francetravail.fr/employeur", "autres$www.francetravail.fr/faq", "autres$www.francetravail.fr/informations", "autres$www.francetravail.fr/international", "autres$www.francetravail.fr/region", "autres$www.francetravail.fr/spectacle", "autres$www.francetravail.fr/tv", "francetravail.org$www.francetravail.org" ],
+    "rank": 3.1,
+    "pages": 321,
+    "trafic": 102371,
+    "nbin": 39,
+    "nbout": 20
+  },
+  {
+    "name": "autres$www.francetravail.fr/faq",
+    "imports": [ "autres$autres-sites", "autres$candidat.francetravail.fr/Autres", "autres$candidat.francetravail.fr/MetierScope", "autres$candidat.francetravail.fr/Recherche-formations", "autres$candidat.francetravail.fr/Recherche-offres", "pole-emploi.fr$dataemploi.pole-emploi.fr", "autres$emplois2024.fr", "autres$entreprise.francetravail.fr/Accueil", "autres$entreprise.francetravail.fr/Autres", "francetravail.fr$gestion.francetravail.fr", "francetravail.fr$mesevenementsemploi.francetravail.fr", "pole-emploi.fr$messervices.pole-emploi.fr", "francetravail.fr$recrute.francetravail.fr", "pole-emploi.org$recrute.pole-emploi.org", "francetravail.fr$salonenligne.francetravail.fr", "emploi-store.fr$www.emploi-store.fr", "autres$www.francetravail.fr/accueil", "autres$www.francetravail.fr/actualite", "autres$www.francetravail.fr/annuaire", "autres$www.francetravail.fr/autres", "autres$www.francetravail.fr/candidat", "autres$www.francetravail.fr/employeur", "autres$www.francetravail.fr/faq", "autres$www.francetravail.fr/informations", "autres$www.francetravail.fr/international", "autres$www.francetravail.fr/region", "autres$www.francetravail.fr/spectacle", "francetravail.org$www.francetravail.org", "autres$www.guso.fr" ],
+    "outgoing": [ "autres$candidat.francetravail.fr/Autres", "autres$candidat.francetravail.fr/Recherche-formations", "autres$candidat.francetravail.fr/Recherche-offres", "autres$entreprise.francetravail.fr/Accueil", "autres$entreprise.francetravail.fr/Autres", "autres$www.francetravail.fr/accueil", "autres$www.francetravail.fr/actualite", "autres$www.francetravail.fr/annuaire", "autres$www.francetravail.fr/autres", "autres$www.francetravail.fr/candidat", "autres$www.francetravail.fr/employeur", "autres$www.francetravail.fr/faq", "autres$www.francetravail.fr/informations", "autres$www.francetravail.fr/international", "autres$www.francetravail.fr/region", "autres$www.francetravail.fr/spectacle", "autres$www.francetravail.fr/tv" ],
+    "rank": 1.0,
+    "pages": 262,
+    "trafic": 31968,
+    "nbin": 29,
+    "nbout": 17
+  },
+  {
+    "name": "autres$www.francetravail.fr/informations",
+    "imports": [ "autres$candidat.francetravail.fr/Autres", "autres$candidat.francetravail.fr/MetierScope", "autres$candidat.francetravail.fr/Recherche-formations", "autres$candidat.francetravail.fr/Recherche-offres", "pole-emploi.fr$dataemploi.pole-emploi.fr", "autres$emplois2024.fr", "autres$entreprise.francetravail.fr/Accueil", "francetravail.fr$mesevenementsemploi.francetravail.fr", "pole-emploi.fr$messervices.pole-emploi.fr", "pole-emploi.fr$monallocation.pole-emploi.fr", "francetravail.fr$recrute.francetravail.fr", "pole-emploi.org$recrute.pole-emploi.org", "francetravail.fr$salonenligne.francetravail.fr", "emploi-store.fr$www.emploi-store.fr", "pole-emploi.org$www.emploiparlonsnet.pole-emploi.org", "autres$www.francetravail.fr/accueil", "autres$www.francetravail.fr/actualite", "autres$www.francetravail.fr/annuaire", "autres$www.francetravail.fr/autres", "autres$www.francetravail.fr/candidat", "autres$www.francetravail.fr/employeur", "autres$www.francetravail.fr/faq", "autres$www.francetravail.fr/informations", "autres$www.francetravail.fr/international", "autres$www.francetravail.fr/region", "autres$www.francetravail.fr/spectacle", "autres$www.francetravail.fr/tv", "francetravail.org$www.francetravail.org", "pole-emploi.fr (edito)$www.pole-emploi.fr/autres", "pole-emploi.fr (edito)$www.pole-emploi.fr/candidat" ],
+    "outgoing": [ "autres$candidat.francetravail.fr/Autres", "autres$candidat.francetravail.fr/Recherche-formations", "autres$candidat.francetravail.fr/Recherche-offres", "autres$entreprise.francetravail.fr/Accueil", "autres$entreprise.francetravail.fr/Autres", "autres$www.francetravail.fr/accueil", "autres$www.francetravail.fr/actualite", "autres$www.francetravail.fr/annuaire", "autres$www.francetravail.fr/autres", "autres$www.francetravail.fr/candidat", "autres$www.francetravail.fr/employeur", "autres$www.francetravail.fr/faq", "autres$www.francetravail.fr/informations", "autres$www.francetravail.fr/international", "autres$www.francetravail.fr/region", "autres$www.francetravail.fr/spectacle", "autres$www.francetravail.fr/tv" ],
+    "rank": 3.4,
+    "pages": 43,
+    "trafic": 5124,
+    "nbin": 30,
+    "nbout": 17
+  },
+  {
+    "name": "autres$www.francetravail.fr/international",
+    "imports": [ "autres$candidat.francetravail.fr/Autres", "autres$candidat.francetravail.fr/MetierScope", "autres$candidat.francetravail.fr/Recherche-formations", "autres$candidat.francetravail.fr/Recherche-offres", "pole-emploi.fr$candidat.pole-emploi.fr/Autres", "pole-emploi.fr$dataemploi.pole-emploi.fr", "autres$emplois2024.fr", "autres$entreprise.francetravail.fr/Accueil", "autres$entreprise.francetravail.fr/Autres", "pole-emploi.fr$entreprise.pole-emploi.fr/Autres", "pole-emploi.fr (startup)$labonneboite.pole-emploi.fr", "francetravail.fr$mesevenementsemploi.francetravail.fr", "pole-emploi.fr$messervices.pole-emploi.fr", "francetravail.fr$recrute.francetravail.fr", "pole-emploi.org$recrute.pole-emploi.org", "francetravail.fr$salonenligne.francetravail.fr", "pole-emploi.fr$salonenligne.pole-emploi.fr", "emploi-store.fr$www.emploi-store.fr", "autres$www.francetravail.fr/accueil", "autres$www.francetravail.fr/actualite", "autres$www.francetravail.fr/annuaire", "autres$www.francetravail.fr/autres", "autres$www.francetravail.fr/candidat", "autres$www.francetravail.fr/employeur", "autres$www.francetravail.fr/faq", "autres$www.francetravail.fr/informations", "autres$www.francetravail.fr/international", "autres$www.francetravail.fr/region", "autres$www.francetravail.fr/spectacle", "francetravail.org$www.francetravail.org", "pole-emploi.fr (edito)$www.pole-emploi.fr/actualite", "pole-emploi.fr (edito)$www.pole-emploi.fr/employeur", "pole-emploi.fr (edito)$www.pole-emploi.fr/international", "pole-emploi.fr (edito)$www.pole-emploi.fr/region" ],
+    "outgoing": [ "autres$candidat.francetravail.fr/Autres", "autres$candidat.francetravail.fr/Recherche-formations", "autres$candidat.francetravail.fr/Recherche-offres", "autres$entreprise.francetravail.fr/Accueil", "autres$entreprise.francetravail.fr/Autres", "pole-emploi.fr$messervices.pole-emploi.fr", "autres$www.francetravail.fr/accueil", "autres$www.francetravail.fr/actualite", "autres$www.francetravail.fr/annuaire", "autres$www.francetravail.fr/autres", "autres$www.francetravail.fr/candidat", "autres$www.francetravail.fr/employeur", "autres$www.francetravail.fr/faq", "autres$www.francetravail.fr/informations", "autres$www.francetravail.fr/international", "autres$www.francetravail.fr/region", "autres$www.francetravail.fr/spectacle", "autres$www.francetravail.fr/tv" ],
+    "rank": 1.4,
+    "pages": 65,
+    "trafic": 10612,
+    "nbin": 34,
+    "nbout": 18
+  },
+  {
+    "name": "autres$www.francetravail.fr/region",
+    "imports": [ "autres$autres-sites", "autres$candidat.francetravail.fr/Autres", "autres$candidat.francetravail.fr/MetierScope", "autres$candidat.francetravail.fr/Recherche-formations", "autres$candidat.francetravail.fr/Recherche-offres", "pole-emploi.fr$candidat.pole-emploi.fr/Autres", "pole-emploi.fr$candidat.pole-emploi.fr/MetierScope", "pole-emploi.fr$candidat.pole-emploi.fr/Recherche-formations", "pole-emploi.fr$candidat.pole-emploi.fr/Recherche-offres", "pole-emploi.fr$dataemploi.pole-emploi.fr", "autres$emplois2024.fr", "autres$entreprise.francetravail.fr/Accueil", "autres$entreprise.francetravail.fr/Autres", "pole-emploi.fr$entreprise.pole-emploi.fr/Accueil", "pole-emploi.fr$entreprise.pole-emploi.fr/Autres", "francetravail.fr$gestion.francetravail.fr", "pole-emploi.fr$gestion.pole-emploi.fr", "pole-emploi.fr (startup)$labonneboite.pole-emploi.fr", "pole-emploi.fr (startup)$labonnecompetencepro.pole-emploi.fr", "francetravail.fr$mes-aides.francetravail.fr", "pole-emploi.fr (startup)$mes-aides.pole-emploi.fr", "francetravail.fr$mesevenementsemploi.francetravail.fr", "pole-emploi.fr (startup)$mesevenementsemploi.pole-emploi.fr", "pole-emploi.fr$messervices.pole-emploi.fr", "pole-emploi.fr$monallocation.pole-emploi.fr", "francetravail.fr$recrute.francetravail.fr", "pole-emploi.org$recrute.pole-emploi.org", "francetravail.fr$salonenligne.francetravail.fr", "pole-emploi.fr$salonenligne.pole-emploi.fr", "autres$simucalcul.pole-emploi-services.fr", "emploi-store.fr$simulateur2.emploi-store.fr", "pole-emploi.org$www.actuformation.pole-emploi.org", "emploi-store.fr$www.emploi-store.fr", "pole-emploi.org$www.emploiparlonsnet.pole-emploi.org", "autres$www.francetravail.fr/accueil", "autres$www.francetravail.fr/actualite", "autres$www.francetravail.fr/annuaire", "autres$www.francetravail.fr/autres", "autres$www.francetravail.fr/candidat", "autres$www.francetravail.fr/employeur", "autres$www.francetravail.fr/faq", "autres$www.francetravail.fr/informations", "autres$www.francetravail.fr/international", "autres$www.francetravail.fr/region", "autres$www.francetravail.fr/spectacle", "autres$www.francetravail.fr/tv", "francetravail.org$www.francetravail.org", "autres$www.guso.fr", "pole-emploi.fr (edito)$www.pole-emploi.fr/accueil", "pole-emploi.fr (edito)$www.pole-emploi.fr/actualite", "pole-emploi.fr (edito)$www.pole-emploi.fr/annuaire", "pole-emploi.fr (edito)$www.pole-emploi.fr/autres", "pole-emploi.fr (edito)$www.pole-emploi.fr/candidat", "pole-emploi.fr (edito)$www.pole-emploi.fr/employeur", "pole-emploi.fr (edito)$www.pole-emploi.fr/faq", "pole-emploi.fr (edito)$www.pole-emploi.fr/informations", "pole-emploi.fr (edito)$www.pole-emploi.fr/international", "pole-emploi.fr (edito)$www.pole-emploi.fr/region", "pole-emploi.fr (edito)$www.pole-emploi.fr/spectacle", "pole-emploi.fr (edito)$www.pole-emploi.fr/tv", "pole-emploi.org$www.pole-emploi.org" ],
+    "outgoing": [ "autres$candidat.francetravail.fr/Autres", "autres$candidat.francetravail.fr/Recherche-formations", "autres$candidat.francetravail.fr/Recherche-offres", "autres$entreprise.francetravail.fr/Accueil", "autres$entreprise.francetravail.fr/Autres", "autres$francetravail.io", "autres$www.francetravail.fr/accueil", "autres$www.francetravail.fr/actualite", "autres$www.francetravail.fr/annuaire", "autres$www.francetravail.fr/autres", "autres$www.francetravail.fr/candidat", "autres$www.francetravail.fr/employeur", "autres$www.francetravail.fr/faq", "autres$www.francetravail.fr/informations", "autres$www.francetravail.fr/international", "autres$www.francetravail.fr/region", "autres$www.francetravail.fr/spectacle", "autres$www.francetravail.fr/tv", "francetravail.org$www.francetravail.org" ],
+    "rank": 6.7,
+    "pages": 1708,
+    "trafic": 334148,
+    "nbin": 61,
+    "nbout": 19
+  },
+  {
+    "name": "autres$www.francetravail.fr/spectacle",
+    "imports": [ "autres$candidat.francetravail.fr/Autres", "autres$candidat.francetravail.fr/MetierScope", "autres$candidat.francetravail.fr/Recherche-formations", "autres$candidat.francetravail.fr/Recherche-offres", "pole-emploi.fr$dataemploi.pole-emploi.fr", "autres$emplois2024.fr", "autres$entreprise.francetravail.fr/Accueil", "francetravail.fr$gestion.francetravail.fr", "francetravail.fr$mesevenementsemploi.francetravail.fr", "francetravail.fr$recrute.francetravail.fr", "pole-emploi.org$recrute.pole-emploi.org", "francetravail.fr$salonenligne.francetravail.fr", "autres$simucalcul.pole-emploi-services.fr", "emploi-store.fr$www.emploi-store.fr", "autres$www.francetravail.fr/accueil", "autres$www.francetravail.fr/actualite", "autres$www.francetravail.fr/annuaire", "autres$www.francetravail.fr/autres", "autres$www.francetravail.fr/candidat", "autres$www.francetravail.fr/employeur", "autres$www.francetravail.fr/faq", "autres$www.francetravail.fr/informations", "autres$www.francetravail.fr/international", "autres$www.francetravail.fr/region", "autres$www.francetravail.fr/spectacle", "francetravail.org$www.francetravail.org", "autres$www.guso.fr", "pole-emploi.fr (edito)$www.pole-emploi.fr/candidat", "pole-emploi.fr (edito)$www.pole-emploi.fr/informations", "pole-emploi.fr (edito)$www.pole-emploi.fr/spectacle" ],
+    "outgoing": [ "autres$candidat.francetravail.fr/Autres", "autres$candidat.francetravail.fr/Recherche-formations", "autres$candidat.francetravail.fr/Recherche-offres", "autres$entreprise.francetravail.fr/Accueil", "autres$entreprise.francetravail.fr/Autres", "autres$www.francetravail.fr/accueil", "autres$www.francetravail.fr/actualite", "autres$www.francetravail.fr/annuaire", "autres$www.francetravail.fr/autres", "autres$www.francetravail.fr/candidat", "autres$www.francetravail.fr/employeur", "autres$www.francetravail.fr/faq", "autres$www.francetravail.fr/informations", "autres$www.francetravail.fr/international", "autres$www.francetravail.fr/region", "autres$www.francetravail.fr/spectacle", "autres$www.francetravail.fr/tv", "autres$www.guso.fr" ],
+    "rank": 0.6,
+    "pages": 35,
+    "trafic": 19436,
+    "nbin": 30,
+    "nbout": 18
+  },
+  {
+    "name": "autres$www.francetravail.fr/tv",
+    "imports": [ "autres$candidat.francetravail.fr/Autres", "autres$candidat.francetravail.fr/MetierScope", "autres$candidat.francetravail.fr/Recherche-formations", "autres$candidat.francetravail.fr/Recherche-offres", "pole-emploi.fr$dataemploi.pole-emploi.fr", "autres$emplois2024.fr", "autres$entreprise.francetravail.fr/Accueil", "francetravail.fr$mesevenementsemploi.francetravail.fr", "francetravail.fr$recrute.francetravail.fr", "pole-emploi.org$recrute.pole-emploi.org", "francetravail.fr$salonenligne.francetravail.fr", "emploi-store.fr$www.emploi-store.fr", "autres$www.francetravail.fr/accueil", "autres$www.francetravail.fr/actualite", "autres$www.francetravail.fr/annuaire", "autres$www.francetravail.fr/autres", "autres$www.francetravail.fr/candidat", "autres$www.francetravail.fr/employeur", "autres$www.francetravail.fr/faq", "autres$www.francetravail.fr/informations", "autres$www.francetravail.fr/international", "autres$www.francetravail.fr/region", "autres$www.francetravail.fr/spectacle", "autres$www.francetravail.fr/tv", "francetravail.org$www.francetravail.org", "pole-emploi.fr (edito)$www.pole-emploi.fr/region" ],
+    "outgoing": [ "autres$www.francetravail.fr/informations", "autres$www.francetravail.fr/region", "autres$www.francetravail.fr/tv" ],
+    "rank": 0.0,
+    "pages": 51,
+    "trafic": 262,
+    "nbin": 26,
+    "nbout": 3
+  },
+  {
+    "name": "francetravail.org$www.francetravail.org",
+    "imports": [ "autres$autres-sites", "francetravail.org$bo.francetravail.org", "pole-emploi.fr$candidat.pole-emploi.fr/Autres", "pole-emploi.fr$candidat.pole-emploi.fr/MetierScope", "pole-emploi.fr$candidat.pole-emploi.fr/Recherche-formations", "pole-emploi.fr$candidat.pole-emploi.fr/Recherche-offres", "pole-emploi.fr$dataemploi.pole-emploi.fr", "autres$emplois2024.fr", "pole-emploi.fr$entreprise.pole-emploi.fr/Accueil", "pole-emploi.fr$entreprise.pole-emploi.fr/Autres", "autres$francetravail.io", "pole-emploi.fr (startup)$labonneboite.pole-emploi.fr", "pole-emploi.fr (startup)$labonnecompetencepro.pole-emploi.fr", "francetravail.fr$lesclubs-sportifs-engages.francetravail.fr", "pole-emploi.fr (startup)$mes-aides.pole-emploi.fr", "francetravail.fr$mesevenementsemploi.francetravail.fr", "pole-emploi.fr (startup)$mesevenementsemploi.pole-emploi.fr", "autres$pole-emploi.io", "francetravail.org$recrute.francetravail.org", "pole-emploi.org$recrute.pole-emploi.org", "pole-emploi.fr$salonenligne.pole-emploi.fr", "pole-emploi.org$www.actuformation.pole-emploi.org", "pole-emploi.org$www.bo-pole-emploi.org", "emploi-store.fr$www.emploi-store.fr", "pole-emploi.org$www.emploiparlonsnet.pole-emploi.org", "autres$www.francetravail.fr/accueil", "autres$www.francetravail.fr/actualite", "autres$www.francetravail.fr/autres", "autres$www.francetravail.fr/candidat", "autres$www.francetravail.fr/employeur", "autres$www.francetravail.fr/region", "francetravail.org$www.francetravail.org", "pole-emploi.fr (edito)$www.pole-emploi.fr/accueil", "pole-emploi.fr (edito)$www.pole-emploi.fr/actualite", "pole-emploi.fr (edito)$www.pole-emploi.fr/autres", "pole-emploi.fr (edito)$www.pole-emploi.fr/candidat", "pole-emploi.fr (edito)$www.pole-emploi.fr/employeur", "pole-emploi.fr (edito)$www.pole-emploi.fr/informations", "pole-emploi.fr (edito)$www.pole-emploi.fr/international", "pole-emploi.fr (edito)$www.pole-emploi.fr/region", "pole-emploi.fr (edito)$www.pole-emploi.fr/tv", "pole-emploi.org$www.pole-emploi.org" ],
+    "outgoing": [ "autres$candidat.francetravail.fr/Autres", "autres$candidat.francetravail.fr/Recherche-formations", "autres$candidat.francetravail.fr/Recherche-offres", "pole-emploi.fr$dataemploi.pole-emploi.fr", "autres$entreprise.francetravail.fr/Accueil", "autres$entreprise.francetravail.fr/Autres", "autres$francetravail.io", "pole-emploi.org$www.actuformation.pole-emploi.org", "autres$www.francetravail.fr/accueil", "autres$www.francetravail.fr/actualite", "autres$www.francetravail.fr/annuaire", "autres$www.francetravail.fr/autres", "autres$www.francetravail.fr/candidat", "autres$www.francetravail.fr/employeur", "autres$www.francetravail.fr/faq", "autres$www.francetravail.fr/informations", "autres$www.francetravail.fr/international", "autres$www.francetravail.fr/region", "autres$www.francetravail.fr/spectacle", "autres$www.francetravail.fr/tv", "francetravail.org$www.francetravail.org", "autres$www.guso.fr" ],
+    "rank": 2.2,
+    "pages": 3323,
+    "trafic": 99576,
+    "nbin": 42,
+    "nbout": 22
+  },
+  {
+    "name": "autres$www.guso.fr",
+    "imports": [ "autres$www.francetravail.fr/accueil", "autres$www.francetravail.fr/spectacle", "francetravail.org$www.francetravail.org", "autres$www.guso.fr" ],
+    "outgoing": [ "autres$entreprise.francetravail.fr/Accueil", "autres$www.francetravail.fr/employeur", "autres$www.francetravail.fr/faq", "autres$www.francetravail.fr/region", "autres$www.francetravail.fr/spectacle", "autres$www.guso.fr" ],
+    "rank": 0.0,
+    "pages": 24,
+    "trafic": 58113,
+    "nbin": 4,
+    "nbout": 6
+  },
+  {
+    "name": "pole-emploi.fr (edito)$www.pole-emploi.fr/accueil",
+    "imports": [],
+    "outgoing": [ "autres$candidat.francetravail.fr/Autres", "autres$candidat.francetravail.fr/MetierScope", "autres$candidat.francetravail.fr/Mobiville", "autres$entreprise.francetravail.fr/Autres", "francetravail.fr$mesevenementsemploi.francetravail.fr", "pole-emploi.fr$messervices.pole-emploi.fr", "francetravail.fr$recrute.francetravail.fr", "autres$simucalcul.pole-emploi-services.fr", "pole-emploi.org$www.actuformation.pole-emploi.org", "emploi-store.fr$www.emploi-store.fr", "autres$www.francetravail.fr/actualite", "autres$www.francetravail.fr/candidat", "autres$www.francetravail.fr/region", "francetravail.org$www.francetravail.org" ],
+    "rank": 0.3,
+    "pages": 2,
+    "trafic": 345,
+    "nbin": 0,
+    "nbout": 14
+  },
+  {
+    "name": "pole-emploi.fr (edito)$www.pole-emploi.fr/actualite",
+    "imports": [],
+    "outgoing": [ "autres$emplois2024.fr", "autres$entreprise.francetravail.fr/Autres", "autres$francetravail.io", "francetravail.fr$mesevenementsemploi.francetravail.fr", "emploi-store.fr$www.emploi-store.fr", "autres$www.francetravail.fr/actualite", "autres$www.francetravail.fr/candidat", "autres$www.francetravail.fr/employeur", "autres$www.francetravail.fr/international", "autres$www.francetravail.fr/region", "francetravail.org$www.francetravail.org" ],
+    "rank": 0.0,
+    "pages": 261,
+    "trafic": 33,
+    "nbin": 0,
+    "nbout": 11
+  },
+  {
+    "name": "pole-emploi.fr (edito)$www.pole-emploi.fr/annuaire",
+    "imports": [],
+    "outgoing": [ "autres$candidat.francetravail.fr/Mobiville", "autres$entreprise.francetravail.fr/Autres", "francetravail.fr$gestion.francetravail.fr", "pole-emploi.fr$messervices.pole-emploi.fr", "francetravail.fr$recrute.francetravail.fr", "autres$www.francetravail.fr/region" ],
+    "rank": 0.0,
+    "pages": 50,
+    "trafic": 1339,
+    "nbin": 0,
+    "nbout": 6
+  },
+  {
+    "name": "pole-emploi.fr (edito)$www.pole-emploi.fr/autres",
+    "imports": [],
+    "outgoing": [ "autres$autres-sites", "autres$candidat.francetravail.fr/Autres", "autres$candidat.francetravail.fr/Recherche-formations", "autres$candidat.francetravail.fr/Recherche-offres", "francetravail.fr$chomage-independant.francetravail.fr", "autres$entreprise.francetravail.fr/Accueil", "autres$entreprise.francetravail.fr/Autres", "autres$francetravail.io", "francetravail.fr$gestion.francetravail.fr", "francetravail.fr$labonneboite.francetravail.fr", "francetravail.fr$mesevenementsemploi.francetravail.fr", "pole-emploi.fr$messervices.pole-emploi.fr", "francetravail.fr$monallocation.francetravail.fr", "francetravail.fr$recrute.francetravail.fr", "pole-emploi.org$www.actuformation.pole-emploi.org", "emploi-store.fr$www.emploi-store.fr", "autres$www.francetravail.fr/accueil", "autres$www.francetravail.fr/actualite", "autres$www.francetravail.fr/candidat", "autres$www.francetravail.fr/employeur", "autres$www.francetravail.fr/informations", "autres$www.francetravail.fr/region", "francetravail.org$www.francetravail.org" ],
+    "rank": 0.4,
+    "pages": 44,
+    "trafic": 4519,
+    "nbin": 0,
+    "nbout": 23
+  },
+  {
+    "name": "pole-emploi.fr (edito)$www.pole-emploi.fr/candidat",
+    "imports": [],
+    "outgoing": [ "autres$autres-sites", "autres$candidat.francetravail.fr/Mobiville", "autres$candidat.francetravail.fr/Recherche-formations", "autres$candidat.francetravail.fr/Recherche-offres", "francetravail.fr$chomage-independant.francetravail.fr", "autres$emplois2024.fr", "autres$entreprise.francetravail.fr/Autres", "francetravail.fr$mes-aides.francetravail.fr", "pole-emploi.fr$messervices.pole-emploi.fr", "francetravail.fr$monallocation.francetravail.fr", "pole-emploi.org$www.actuformation.pole-emploi.org", "emploi-store.fr$www.emploi-store.fr", "autres$www.francetravail.fr/accueil", "autres$www.francetravail.fr/actualite", "autres$www.francetravail.fr/autres", "autres$www.francetravail.fr/candidat", "autres$www.francetravail.fr/employeur", "autres$www.francetravail.fr/informations", "autres$www.francetravail.fr/region", "autres$www.francetravail.fr/spectacle", "francetravail.org$www.francetravail.org" ],
+    "rank": 0.2,
+    "pages": 220,
+    "trafic": 948,
+    "nbin": 0,
+    "nbout": 21
+  },
+  {
+    "name": "pole-emploi.fr (edito)$www.pole-emploi.fr/employeur",
+    "imports": [],
+    "outgoing": [ "autres$entreprise.francetravail.fr/Accueil", "autres$entreprise.francetravail.fr/Autres", "francetravail.fr$gestion.francetravail.fr", "francetravail.fr$recrute.francetravail.fr", "autres$www.francetravail.fr/actualite", "autres$www.francetravail.fr/candidat", "autres$www.francetravail.fr/employeur", "autres$www.francetravail.fr/international", "autres$www.francetravail.fr/region", "francetravail.org$www.francetravail.org" ],
+    "rank": 0.0,
+    "pages": 76,
+    "trafic": 23,
+    "nbin": 0,
+    "nbout": 10
+  },
+  {
+    "name": "pole-emploi.fr (edito)$www.pole-emploi.fr/faq",
+    "imports": [],
+    "outgoing": [ "autres$emplois2024.fr", "autres$entreprise.francetravail.fr/Accueil", "autres$entreprise.francetravail.fr/Autres", "francetravail.fr$gestion.francetravail.fr", "autres$www.francetravail.fr/accueil", "autres$www.francetravail.fr/actualite", "autres$www.francetravail.fr/region" ],
+    "rank": 0.1,
+    "pages": 5,
+    "trafic": 10360,
+    "nbin": 0,
+    "nbout": 7
+  },
+  {
+    "name": "pole-emploi.fr (edito)$www.pole-emploi.fr/informations",
+    "imports": [],
+    "outgoing": [ "autres$entreprise.francetravail.fr/Autres", "francetravail.fr$gestion.francetravail.fr", "pole-emploi.fr (startup)$labonnecompetencepro.pole-emploi.fr", "pole-emploi.fr$messervices.pole-emploi.fr", "emploi-store.fr$www.emploi-store.fr", "autres$www.francetravail.fr/candidat", "autres$www.francetravail.fr/region", "autres$www.francetravail.fr/spectacle", "francetravail.org$www.francetravail.org" ],
+    "rank": 0.0,
+    "pages": 23,
+    "trafic": 52,
+    "nbin": 0,
+    "nbout": 9
+  },
+  {
+    "name": "pole-emploi.fr (edito)$www.pole-emploi.fr/international",
+    "imports": [],
+    "outgoing": [ "autres$entreprise.francetravail.fr/Accueil", "autres$entreprise.francetravail.fr/Autres", "autres$www.francetravail.fr/actualite", "autres$www.francetravail.fr/candidat", "autres$www.francetravail.fr/international", "autres$www.francetravail.fr/region", "francetravail.org$www.francetravail.org" ],
+    "rank": 0.0,
+    "pages": 13,
+    "trafic": 181,
+    "nbin": 0,
+    "nbout": 7
+  },
+  {
+    "name": "pole-emploi.fr (edito)$www.pole-emploi.fr/region",
+    "imports": [],
+    "outgoing": [ "autres$emplois2024.fr", "autres$entreprise.francetravail.fr/Autres", "autres$www.francetravail.fr/actualite", "autres$www.francetravail.fr/candidat", "autres$www.francetravail.fr/employeur", "autres$www.francetravail.fr/international", "autres$www.francetravail.fr/region", "autres$www.francetravail.fr/tv", "francetravail.org$www.francetravail.org" ],
+    "rank": 0.0,
+    "pages": 212,
+    "trafic": 16933,
+    "nbin": 0,
+    "nbout": 9
+  },
+  {
+    "name": "pole-emploi.fr (edito)$www.pole-emploi.fr/spectacle",
+    "imports": [],
+    "outgoing": [ "autres$entreprise.francetravail.fr/Autres", "autres$simucalcul.pole-emploi-services.fr", "autres$www.francetravail.fr/actualite", "autres$www.francetravail.fr/candidat", "autres$www.francetravail.fr/region", "autres$www.francetravail.fr/spectacle" ],
+    "rank": 0.0,
+    "pages": 5,
+    "trafic": 0,
+    "nbin": 0,
+    "nbout": 6
+  },
+  {
+    "name": "pole-emploi.fr (edito)$www.pole-emploi.fr/tv",
+    "imports": [],
+    "outgoing": [ "autres$entreprise.francetravail.fr/Autres", "autres$www.francetravail.fr/region", "francetravail.org$www.francetravail.org" ],
+    "rank": 0.0,
+    "pages": 3,
+    "trafic": 2,
+    "nbin": 0,
+    "nbout": 3
+  },
+  {
+    "name": "pole-emploi.org$www.pole-emploi.org",
+    "imports": [],
+    "outgoing": [ "autres$candidat.francetravail.fr/Recherche-offres", "autres$emplois2024.fr", "autres$entreprise.francetravail.fr/Autres", "autres$francetravail.io", "francetravail.fr$gestion.francetravail.fr", "francetravail.fr$labonneboite.francetravail.fr", "francetravail.fr$recrute.francetravail.fr", "pole-emploi.org$www.actuformation.pole-emploi.org", "emploi-store.fr$www.emploi-store.fr", "autres$www.francetravail.fr/actualite", "autres$www.francetravail.fr/candidat", "autres$www.francetravail.fr/employeur", "autres$www.francetravail.fr/region", "francetravail.org$www.francetravail.org" ],
+    "rank": 0.1,
+    "pages": 469,
+    "trafic": 51,
+    "nbin": 0,
+    "nbout": 14
+  }
+]
