@@ -1,0 +1,8031 @@
+[
+  {
+    "name": "autres-sites",
+    "groupe": "autres",
+    "rank": 0.1,
+    "pages": 34,
+    "trafic": 1860,
+    "nbin": 5,
+    "nbout": 9,
+    "imports": [
+      {
+        "site": "autres-sites",
+        "groupe": "autres",
+        "metric": 16
+      },
+      {
+        "site": "candidat.pole-emploi.fr/Autres",
+        "groupe": "pole-emploi.fr",
+        "metric": 1
+      },
+      {
+        "site": "chomage-independant.fr",
+        "groupe": "autres",
+        "metric": 13
+      },
+      {
+        "site": "www.pole-emploi.fr/autres",
+        "groupe": "pole-emploi.fr (edito)",
+        "metric": 15
+      },
+      {
+        "site": "www.pole-emploi.fr/candidat",
+        "groupe": "pole-emploi.fr (edito)",
+        "metric": 1
+      }
+    ],
+    "outgoing": [
+      {
+        "site": "autres-sites",
+        "groupe": "autres"
+      },
+      {
+        "site": "entreprise.francetravail.fr/Accueil",
+        "groupe": "autres"
+      },
+      {
+        "site": "francetravail.io",
+        "groupe": "autres"
+      },
+      {
+        "site": "gestion.francetravail.fr",
+        "groupe": "francetravail.fr"
+      },
+      {
+        "site": "www.francetravail.fr/candidat",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/employeur",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/faq",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/region",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.org",
+        "groupe": "francetravail.org"
+      }
+    ]
+  },
+  {
+    "name": "bo.francetravail.org",
+    "groupe": "francetravail.org",
+    "rank": 0.0,
+    "pages": 4,
+    "trafic": 14666,
+    "nbin": 0,
+    "nbout": 1,
+    "imports": [],
+    "outgoing": [
+      {
+        "site": "www.francetravail.org",
+        "groupe": "francetravail.org"
+      }
+    ]
+  },
+  {
+    "name": "candidat.francetravail.fr/Autres",
+    "groupe": "autres",
+    "rank": 2.1,
+    "pages": 52,
+    "trafic": 88053,
+    "nbin": 25,
+    "nbout": 21,
+    "imports": [
+      {
+        "site": "candidat.francetravail.fr/Autres",
+        "groupe": "autres",
+        "metric": 5
+      },
+      {
+        "site": "candidat.francetravail.fr/MetierScope",
+        "groupe": "autres",
+        "metric": 1
+      },
+      {
+        "site": "candidat.francetravail.fr/Mobiville",
+        "groupe": "autres",
+        "metric": 1
+      },
+      {
+        "site": "dataemploi.pole-emploi.fr",
+        "groupe": "pole-emploi.fr",
+        "metric": 1
+      },
+      {
+        "site": "emplois2024.fr",
+        "groupe": "autres",
+        "metric": 1
+      },
+      {
+        "site": "entreprise.francetravail.fr/Accueil",
+        "groupe": "autres",
+        "metric": 1
+      },
+      {
+        "site": "mesevenementsemploi.francetravail.fr",
+        "groupe": "francetravail.fr",
+        "metric": 1
+      },
+      {
+        "site": "messervices.pole-emploi.fr",
+        "groupe": "pole-emploi.fr",
+        "metric": 1
+      },
+      {
+        "site": "recrute.francetravail.fr",
+        "groupe": "francetravail.fr",
+        "metric": 1
+      },
+      {
+        "site": "salonenligne.francetravail.fr",
+        "groupe": "francetravail.fr",
+        "metric": 1
+      },
+      {
+        "site": "www.emploi-store.fr",
+        "groupe": "emploi-store.fr",
+        "metric": 1
+      },
+      {
+        "site": "www.francetravail.fr/accueil",
+        "groupe": "autres",
+        "metric": 1
+      },
+      {
+        "site": "www.francetravail.fr/actualite",
+        "groupe": "autres",
+        "metric": 1
+      },
+      {
+        "site": "www.francetravail.fr/annuaire",
+        "groupe": "autres",
+        "metric": 1
+      },
+      {
+        "site": "www.francetravail.fr/autres",
+        "groupe": "autres",
+        "metric": 1
+      },
+      {
+        "site": "www.francetravail.fr/candidat",
+        "groupe": "autres",
+        "metric": 2
+      },
+      {
+        "site": "www.francetravail.fr/employeur",
+        "groupe": "autres",
+        "metric": 1
+      },
+      {
+        "site": "www.francetravail.fr/faq",
+        "groupe": "autres",
+        "metric": 1
+      },
+      {
+        "site": "www.francetravail.fr/informations",
+        "groupe": "autres",
+        "metric": 4
+      },
+      {
+        "site": "www.francetravail.fr/international",
+        "groupe": "autres",
+        "metric": 1
+      },
+      {
+        "site": "www.francetravail.fr/region",
+        "groupe": "autres",
+        "metric": 1
+      },
+      {
+        "site": "www.francetravail.fr/spectacle",
+        "groupe": "autres",
+        "metric": 1
+      },
+      {
+        "site": "www.francetravail.org",
+        "groupe": "francetravail.org",
+        "metric": 1
+      },
+      {
+        "site": "www.pole-emploi.fr/accueil",
+        "groupe": "pole-emploi.fr (edito)",
+        "metric": 2
+      },
+      {
+        "site": "www.pole-emploi.fr/autres",
+        "groupe": "pole-emploi.fr (edito)",
+        "metric": 1
+      }
+    ],
+    "outgoing": [
+      {
+        "site": "candidat.francetravail.fr/Autres",
+        "groupe": "autres"
+      },
+      {
+        "site": "candidat.francetravail.fr/Mobiville",
+        "groupe": "autres"
+      },
+      {
+        "site": "candidat.francetravail.fr/Recherche-formations",
+        "groupe": "autres"
+      },
+      {
+        "site": "candidat.francetravail.fr/Recherche-offres",
+        "groupe": "autres"
+      },
+      {
+        "site": "chomage-independant.francetravail.fr",
+        "groupe": "francetravail.fr"
+      },
+      {
+        "site": "entreprise.francetravail.fr/Accueil",
+        "groupe": "autres"
+      },
+      {
+        "site": "entreprise.francetravail.fr/Autres",
+        "groupe": "autres"
+      },
+      {
+        "site": "francetravail.io",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.emploi-store.fr",
+        "groupe": "emploi-store.fr"
+      },
+      {
+        "site": "www.francetravail.fr/accueil",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/actualite",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/annuaire",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/autres",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/candidat",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/employeur",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/faq",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/informations",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/international",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/region",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/spectacle",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/tv",
+        "groupe": "autres"
+      }
+    ]
+  },
+  {
+    "name": "candidat.francetravail.fr/MetierScope",
+    "groupe": "autres",
+    "rank": 3.5,
+    "pages": 1249,
+    "trafic": 58785,
+    "nbin": 7,
+    "nbout": 21,
+    "imports": [
+      {
+        "site": "candidat.francetravail.fr/MetierScope",
+        "groupe": "autres",
+        "metric": 643
+      },
+      {
+        "site": "candidat.pole-emploi.fr/Recherche-formations",
+        "groupe": "pole-emploi.fr",
+        "metric": 573
+      },
+      {
+        "site": "candidat.pole-emploi.fr/Recherche-offres",
+        "groupe": "pole-emploi.fr",
+        "metric": 567
+      },
+      {
+        "site": "labonneboite.pole-emploi.fr",
+        "groupe": "pole-emploi.fr (startup)",
+        "metric": 573
+      },
+      {
+        "site": "mes-aides.pole-emploi.fr",
+        "groupe": "pole-emploi.fr (startup)",
+        "metric": 573
+      },
+      {
+        "site": "mesevenementsemploi.pole-emploi.fr",
+        "groupe": "pole-emploi.fr (startup)",
+        "metric": 573
+      },
+      {
+        "site": "www.pole-emploi.fr/accueil",
+        "groupe": "pole-emploi.fr (edito)",
+        "metric": 643
+      }
+    ],
+    "outgoing": [
+      {
+        "site": "candidat.francetravail.fr/Autres",
+        "groupe": "autres"
+      },
+      {
+        "site": "candidat.francetravail.fr/MetierScope",
+        "groupe": "autres"
+      },
+      {
+        "site": "candidat.francetravail.fr/Recherche-formations",
+        "groupe": "autres"
+      },
+      {
+        "site": "candidat.francetravail.fr/Recherche-offres",
+        "groupe": "autres"
+      },
+      {
+        "site": "dataemploi.pole-emploi.fr",
+        "groupe": "pole-emploi.fr"
+      },
+      {
+        "site": "emplois2024.fr",
+        "groupe": "autres"
+      },
+      {
+        "site": "entreprise.francetravail.fr/Accueil",
+        "groupe": "autres"
+      },
+      {
+        "site": "entreprise.francetravail.fr/Autres",
+        "groupe": "autres"
+      },
+      {
+        "site": "francetravail.io",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/accueil",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/actualite",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/annuaire",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/autres",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/candidat",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/employeur",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/faq",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/informations",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/international",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/region",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/spectacle",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/tv",
+        "groupe": "autres"
+      }
+    ]
+  },
+  {
+    "name": "candidat.francetravail.fr/Mobiville",
+    "groupe": "autres",
+    "rank": 0.0,
+    "pages": 37,
+    "trafic": 844,
+    "nbin": 10,
+    "nbout": 3,
+    "imports": [
+      {
+        "site": "candidat.francetravail.fr/Autres",
+        "groupe": "autres",
+        "metric": 35
+      },
+      {
+        "site": "candidat.francetravail.fr/Mobiville",
+        "groupe": "autres",
+        "metric": 23
+      },
+      {
+        "site": "candidat.pole-emploi.fr/Autres",
+        "groupe": "pole-emploi.fr",
+        "metric": 3
+      },
+      {
+        "site": "labonneboite.pole-emploi.fr",
+        "groupe": "pole-emploi.fr (startup)",
+        "metric": 1
+      },
+      {
+        "site": "mesevenementsemploi.pole-emploi.fr",
+        "groupe": "pole-emploi.fr (startup)",
+        "metric": 1
+      },
+      {
+        "site": "messervices.pole-emploi.fr",
+        "groupe": "pole-emploi.fr",
+        "metric": 1
+      },
+      {
+        "site": "www.emploi-store.fr",
+        "groupe": "emploi-store.fr",
+        "metric": 1
+      },
+      {
+        "site": "www.pole-emploi.fr/accueil",
+        "groupe": "pole-emploi.fr (edito)",
+        "metric": 30
+      },
+      {
+        "site": "www.pole-emploi.fr/annuaire",
+        "groupe": "pole-emploi.fr (edito)",
+        "metric": 1
+      },
+      {
+        "site": "www.pole-emploi.fr/candidat",
+        "groupe": "pole-emploi.fr (edito)",
+        "metric": 2
+      }
+    ],
+    "outgoing": [
+      {
+        "site": "candidat.francetravail.fr/Autres",
+        "groupe": "autres"
+      },
+      {
+        "site": "candidat.francetravail.fr/Mobiville",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/candidat",
+        "groupe": "autres"
+      }
+    ]
+  },
+  {
+    "name": "candidat.francetravail.fr/Recherche-formations",
+    "groupe": "autres",
+    "rank": 0.3,
+    "pages": 367,
+    "trafic": 185025,
+    "nbin": 26,
+    "nbout": 15,
+    "imports": [
+      {
+        "site": "candidat.francetravail.fr/Autres",
+        "groupe": "autres",
+        "metric": 8
+      },
+      {
+        "site": "candidat.francetravail.fr/MetierScope",
+        "groupe": "autres",
+        "metric": 8
+      },
+      {
+        "site": "candidat.francetravail.fr/Recherche-formations",
+        "groupe": "autres",
+        "metric": 8
+      },
+      {
+        "site": "candidat.francetravail.fr/Recherche-offres",
+        "groupe": "autres",
+        "metric": 8
+      },
+      {
+        "site": "candidat.pole-emploi.fr/Recherche-formations",
+        "groupe": "pole-emploi.fr",
+        "metric": 8
+      },
+      {
+        "site": "dataemploi.pole-emploi.fr",
+        "groupe": "pole-emploi.fr",
+        "metric": 8
+      },
+      {
+        "site": "emplois2024.fr",
+        "groupe": "autres",
+        "metric": 8
+      },
+      {
+        "site": "entreprise.francetravail.fr/Accueil",
+        "groupe": "autres",
+        "metric": 8
+      },
+      {
+        "site": "mesevenementsemploi.francetravail.fr",
+        "groupe": "francetravail.fr",
+        "metric": 8
+      },
+      {
+        "site": "recrute.francetravail.fr",
+        "groupe": "francetravail.fr",
+        "metric": 8
+      },
+      {
+        "site": "salonenligne.francetravail.fr",
+        "groupe": "francetravail.fr",
+        "metric": 8
+      },
+      {
+        "site": "www.emploi-store.fr",
+        "groupe": "emploi-store.fr",
+        "metric": 8
+      },
+      {
+        "site": "www.francetravail.fr/accueil",
+        "groupe": "autres",
+        "metric": 8
+      },
+      {
+        "site": "www.francetravail.fr/actualite",
+        "groupe": "autres",
+        "metric": 8
+      },
+      {
+        "site": "www.francetravail.fr/annuaire",
+        "groupe": "autres",
+        "metric": 8
+      },
+      {
+        "site": "www.francetravail.fr/autres",
+        "groupe": "autres",
+        "metric": 8
+      },
+      {
+        "site": "www.francetravail.fr/candidat",
+        "groupe": "autres",
+        "metric": 8
+      },
+      {
+        "site": "www.francetravail.fr/employeur",
+        "groupe": "autres",
+        "metric": 8
+      },
+      {
+        "site": "www.francetravail.fr/faq",
+        "groupe": "autres",
+        "metric": 8
+      },
+      {
+        "site": "www.francetravail.fr/informations",
+        "groupe": "autres",
+        "metric": 8
+      },
+      {
+        "site": "www.francetravail.fr/international",
+        "groupe": "autres",
+        "metric": 8
+      },
+      {
+        "site": "www.francetravail.fr/region",
+        "groupe": "autres",
+        "metric": 8
+      },
+      {
+        "site": "www.francetravail.fr/spectacle",
+        "groupe": "autres",
+        "metric": 8
+      },
+      {
+        "site": "www.francetravail.org",
+        "groupe": "francetravail.org",
+        "metric": 8
+      },
+      {
+        "site": "www.pole-emploi.fr/autres",
+        "groupe": "pole-emploi.fr (edito)",
+        "metric": 8
+      },
+      {
+        "site": "www.pole-emploi.fr/candidat",
+        "groupe": "pole-emploi.fr (edito)",
+        "metric": 5
+      }
+    ],
+    "outgoing": [
+      {
+        "site": "candidat.francetravail.fr/Recherche-formations",
+        "groupe": "autres"
+      },
+      {
+        "site": "candidat.francetravail.fr/Recherche-offres",
+        "groupe": "autres"
+      },
+      {
+        "site": "dataemploi.pole-emploi.fr",
+        "groupe": "pole-emploi.fr"
+      },
+      {
+        "site": "emplois2024.fr",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.emploi-store.fr",
+        "groupe": "emploi-store.fr"
+      },
+      {
+        "site": "www.francetravail.fr/actualite",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/annuaire",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/autres",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/candidat",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/faq",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/informations",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/international",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/region",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/spectacle",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/tv",
+        "groupe": "autres"
+      }
+    ]
+  },
+  {
+    "name": "candidat.francetravail.fr/Recherche-offres",
+    "groupe": "autres",
+    "rank": 14.6,
+    "pages": 888019,
+    "trafic": 963210,
+    "nbin": 30,
+    "nbout": 16,
+    "imports": [
+      {
+        "site": "candidat.francetravail.fr/Autres",
+        "groupe": "autres",
+        "metric": 882668
+      },
+      {
+        "site": "candidat.francetravail.fr/MetierScope",
+        "groupe": "autres",
+        "metric": 882668
+      },
+      {
+        "site": "candidat.francetravail.fr/Recherche-formations",
+        "groupe": "autres",
+        "metric": 882668
+      },
+      {
+        "site": "candidat.francetravail.fr/Recherche-offres",
+        "groupe": "autres",
+        "metric": 882668
+      },
+      {
+        "site": "dataemploi.pole-emploi.fr",
+        "groupe": "pole-emploi.fr",
+        "metric": 882668
+      },
+      {
+        "site": "emplois2024.fr",
+        "groupe": "autres",
+        "metric": 882668
+      },
+      {
+        "site": "entreprise.francetravail.fr/Accueil",
+        "groupe": "autres",
+        "metric": 882668
+      },
+      {
+        "site": "labonneboite.pole-emploi.fr",
+        "groupe": "pole-emploi.fr (startup)",
+        "metric": 57871
+      },
+      {
+        "site": "mesevenementsemploi.francetravail.fr",
+        "groupe": "francetravail.fr",
+        "metric": 882668
+      },
+      {
+        "site": "mesevenementsemploi.pole-emploi.fr",
+        "groupe": "pole-emploi.fr (startup)",
+        "metric": 19
+      },
+      {
+        "site": "recrute.francetravail.fr",
+        "groupe": "francetravail.fr",
+        "metric": 882668
+      },
+      {
+        "site": "recrute.pole-emploi.fr",
+        "groupe": "pole-emploi.fr",
+        "metric": 1
+      },
+      {
+        "site": "salonenligne.francetravail.fr",
+        "groupe": "francetravail.fr",
+        "metric": 882668
+      },
+      {
+        "site": "salonenligne.pole-emploi.fr",
+        "groupe": "pole-emploi.fr",
+        "metric": 6
+      },
+      {
+        "site": "www.emploi-store.fr",
+        "groupe": "emploi-store.fr",
+        "metric": 882668
+      },
+      {
+        "site": "www.francetravail.fr/accueil",
+        "groupe": "autres",
+        "metric": 882668
+      },
+      {
+        "site": "www.francetravail.fr/actualite",
+        "groupe": "autres",
+        "metric": 882668
+      },
+      {
+        "site": "www.francetravail.fr/annuaire",
+        "groupe": "autres",
+        "metric": 882668
+      },
+      {
+        "site": "www.francetravail.fr/autres",
+        "groupe": "autres",
+        "metric": 882981
+      },
+      {
+        "site": "www.francetravail.fr/candidat",
+        "groupe": "autres",
+        "metric": 882668
+      },
+      {
+        "site": "www.francetravail.fr/employeur",
+        "groupe": "autres",
+        "metric": 882668
+      },
+      {
+        "site": "www.francetravail.fr/faq",
+        "groupe": "autres",
+        "metric": 882668
+      },
+      {
+        "site": "www.francetravail.fr/informations",
+        "groupe": "autres",
+        "metric": 882668
+      },
+      {
+        "site": "www.francetravail.fr/international",
+        "groupe": "autres",
+        "metric": 882668
+      },
+      {
+        "site": "www.francetravail.fr/region",
+        "groupe": "autres",
+        "metric": 882668
+      },
+      {
+        "site": "www.francetravail.fr/spectacle",
+        "groupe": "autres",
+        "metric": 882668
+      },
+      {
+        "site": "www.francetravail.org",
+        "groupe": "francetravail.org",
+        "metric": 882668
+      },
+      {
+        "site": "www.pole-emploi.fr/autres",
+        "groupe": "pole-emploi.fr (edito)",
+        "metric": 1
+      },
+      {
+        "site": "www.pole-emploi.fr/candidat",
+        "groupe": "pole-emploi.fr (edito)",
+        "metric": 3
+      },
+      {
+        "site": "www.pole-emploi.org",
+        "groupe": "pole-emploi.org",
+        "metric": 2
+      }
+    ],
+    "outgoing": [
+      {
+        "site": "candidat.francetravail.fr/Recherche-formations",
+        "groupe": "autres"
+      },
+      {
+        "site": "candidat.francetravail.fr/Recherche-offres",
+        "groupe": "autres"
+      },
+      {
+        "site": "dataemploi.pole-emploi.fr",
+        "groupe": "pole-emploi.fr"
+      },
+      {
+        "site": "emplois2024.fr",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.emploi-store.fr",
+        "groupe": "emploi-store.fr"
+      },
+      {
+        "site": "www.francetravail.fr/actualite",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/annuaire",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/autres",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/candidat",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/employeur",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/faq",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/informations",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/international",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/region",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/spectacle",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/tv",
+        "groupe": "autres"
+      }
+    ]
+  },
+  {
+    "name": "candidat.pole-emploi.fr/Autres",
+    "groupe": "pole-emploi.fr",
+    "rank": 0.1,
+    "pages": 41,
+    "trafic": 1222694,
+    "nbin": 0,
+    "nbout": 11,
+    "imports": [],
+    "outgoing": [
+      {
+        "site": "autres-sites",
+        "groupe": "autres"
+      },
+      {
+        "site": "candidat.francetravail.fr/Mobiville",
+        "groupe": "autres"
+      },
+      {
+        "site": "chomage-independant.francetravail.fr",
+        "groupe": "francetravail.fr"
+      },
+      {
+        "site": "entreprise.francetravail.fr/Accueil",
+        "groupe": "autres"
+      },
+      {
+        "site": "messervices.pole-emploi.fr",
+        "groupe": "pole-emploi.fr"
+      },
+      {
+        "site": "www.emploi-store.fr",
+        "groupe": "emploi-store.fr"
+      },
+      {
+        "site": "www.francetravail.fr/accueil",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/candidat",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/international",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/region",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.org",
+        "groupe": "francetravail.org"
+      }
+    ]
+  },
+  {
+    "name": "candidat.pole-emploi.fr/MetierScope",
+    "groupe": "pole-emploi.fr",
+    "rank": 0.0,
+    "pages": 32,
+    "trafic": 17,
+    "nbin": 0,
+    "nbout": 6,
+    "imports": [],
+    "outgoing": [
+      {
+        "site": "emplois2024.fr",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.emploi-store.fr",
+        "groupe": "emploi-store.fr"
+      },
+      {
+        "site": "www.francetravail.fr/actualite",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/candidat",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/region",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.org",
+        "groupe": "francetravail.org"
+      }
+    ]
+  },
+  {
+    "name": "candidat.pole-emploi.fr/Recherche-formations",
+    "groupe": "pole-emploi.fr",
+    "rank": 0.1,
+    "pages": 214,
+    "trafic": 91126,
+    "nbin": 0,
+    "nbout": 9,
+    "imports": [],
+    "outgoing": [
+      {
+        "site": "candidat.francetravail.fr/MetierScope",
+        "groupe": "autres"
+      },
+      {
+        "site": "candidat.francetravail.fr/Recherche-formations",
+        "groupe": "autres"
+      },
+      {
+        "site": "emplois2024.fr",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.actuformation.pole-emploi.org",
+        "groupe": "pole-emploi.org"
+      },
+      {
+        "site": "www.francetravail.fr/accueil",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/actualite",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/candidat",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/region",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.org",
+        "groupe": "francetravail.org"
+      }
+    ]
+  },
+  {
+    "name": "candidat.pole-emploi.fr/Recherche-offres",
+    "groupe": "pole-emploi.fr",
+    "rank": 0.2,
+    "pages": 1821,
+    "trafic": 629771,
+    "nbin": 0,
+    "nbout": 6,
+    "imports": [],
+    "outgoing": [
+      {
+        "site": "candidat.francetravail.fr/MetierScope",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/accueil",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/actualite",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/candidat",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/region",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.org",
+        "groupe": "francetravail.org"
+      }
+    ]
+  },
+  {
+    "name": "chomage-independant.fr",
+    "groupe": "autres",
+    "rank": 0.0,
+    "pages": 2,
+    "trafic": 3,
+    "nbin": 0,
+    "nbout": 3,
+    "imports": [],
+    "outgoing": [
+      {
+        "site": "autres-sites",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.emploi-store.fr",
+        "groupe": "emploi-store.fr"
+      },
+      {
+        "site": "www.francetravail.fr/candidat",
+        "groupe": "autres"
+      }
+    ]
+  },
+  {
+    "name": "chomage-independant.francetravail.fr",
+    "groupe": "francetravail.fr",
+    "rank": 0.0,
+    "pages": 36,
+    "trafic": 648,
+    "nbin": 5,
+    "nbout": 1,
+    "imports": [
+      {
+        "site": "candidat.francetravail.fr/Autres",
+        "groupe": "autres",
+        "metric": 2
+      },
+      {
+        "site": "candidat.pole-emploi.fr/Autres",
+        "groupe": "pole-emploi.fr",
+        "metric": 1
+      },
+      {
+        "site": "chomage-independant.francetravail.fr",
+        "groupe": "francetravail.fr",
+        "metric": 31
+      },
+      {
+        "site": "www.pole-emploi.fr/autres",
+        "groupe": "pole-emploi.fr (edito)",
+        "metric": 23
+      },
+      {
+        "site": "www.pole-emploi.fr/candidat",
+        "groupe": "pole-emploi.fr (edito)",
+        "metric": 2
+      }
+    ],
+    "outgoing": [
+      {
+        "site": "chomage-independant.francetravail.fr",
+        "groupe": "francetravail.fr"
+      }
+    ]
+  },
+  {
+    "name": "dataemploi.pole-emploi.fr",
+    "groupe": "pole-emploi.fr",
+    "rank": 1.1,
+    "pages": 1090,
+    "trafic": 12165,
+    "nbin": 9,
+    "nbout": 21,
+    "imports": [
+      {
+        "site": "candidat.francetravail.fr/MetierScope",
+        "groupe": "autres",
+        "metric": 1080
+      },
+      {
+        "site": "candidat.francetravail.fr/Recherche-formations",
+        "groupe": "autres",
+        "metric": 593
+      },
+      {
+        "site": "candidat.francetravail.fr/Recherche-offres",
+        "groupe": "autres",
+        "metric": 950
+      },
+      {
+        "site": "dataemploi.pole-emploi.fr",
+        "groupe": "pole-emploi.fr",
+        "metric": 1080
+      },
+      {
+        "site": "francetravail.io",
+        "groupe": "autres",
+        "metric": 1080
+      },
+      {
+        "site": "labonneboite.francetravail.fr",
+        "groupe": "francetravail.fr",
+        "metric": 712
+      },
+      {
+        "site": "www.francetravail.fr/accueil",
+        "groupe": "autres",
+        "metric": 1080
+      },
+      {
+        "site": "www.francetravail.fr/employeur",
+        "groupe": "autres",
+        "metric": 831
+      },
+      {
+        "site": "www.francetravail.org",
+        "groupe": "francetravail.org",
+        "metric": 1080
+      }
+    ],
+    "outgoing": [
+      {
+        "site": "candidat.francetravail.fr/Autres",
+        "groupe": "autres"
+      },
+      {
+        "site": "candidat.francetravail.fr/Recherche-formations",
+        "groupe": "autres"
+      },
+      {
+        "site": "candidat.francetravail.fr/Recherche-offres",
+        "groupe": "autres"
+      },
+      {
+        "site": "dataemploi.pole-emploi.fr",
+        "groupe": "pole-emploi.fr"
+      },
+      {
+        "site": "entreprise.francetravail.fr/Accueil",
+        "groupe": "autres"
+      },
+      {
+        "site": "entreprise.francetravail.fr/Autres",
+        "groupe": "autres"
+      },
+      {
+        "site": "francetravail.io",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.emploi-store.fr",
+        "groupe": "emploi-store.fr"
+      },
+      {
+        "site": "www.francetravail.fr/accueil",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/actualite",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/annuaire",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/autres",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/candidat",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/employeur",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/faq",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/informations",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/international",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/region",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/spectacle",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/tv",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.org",
+        "groupe": "francetravail.org"
+      }
+    ]
+  },
+  {
+    "name": "emplois2024.fr",
+    "groupe": "autres",
+    "rank": 1.5,
+    "pages": 67,
+    "trafic": 5632,
+    "nbin": 20,
+    "nbout": 19,
+    "imports": [
+      {
+        "site": "candidat.francetravail.fr/MetierScope",
+        "groupe": "autres",
+        "metric": 1
+      },
+      {
+        "site": "candidat.francetravail.fr/Recherche-formations",
+        "groupe": "autres",
+        "metric": 59
+      },
+      {
+        "site": "candidat.francetravail.fr/Recherche-offres",
+        "groupe": "autres",
+        "metric": 1
+      },
+      {
+        "site": "candidat.pole-emploi.fr/MetierScope",
+        "groupe": "pole-emploi.fr",
+        "metric": 6
+      },
+      {
+        "site": "candidat.pole-emploi.fr/Recherche-formations",
+        "groupe": "pole-emploi.fr",
+        "metric": 2
+      },
+      {
+        "site": "emplois2024.fr",
+        "groupe": "autres",
+        "metric": 63
+      },
+      {
+        "site": "entreprise.francetravail.fr/Autres",
+        "groupe": "autres",
+        "metric": 59
+      },
+      {
+        "site": "entreprise.pole-emploi.fr/Autres",
+        "groupe": "pole-emploi.fr",
+        "metric": 1
+      },
+      {
+        "site": "mesevenementsemploi.francetravail.fr",
+        "groupe": "francetravail.fr",
+        "metric": 59
+      },
+      {
+        "site": "mesevenementsemploi.pole-emploi.fr",
+        "groupe": "pole-emploi.fr (startup)",
+        "metric": 9
+      },
+      {
+        "site": "www.actuformation.pole-emploi.org",
+        "groupe": "pole-emploi.org",
+        "metric": 1
+      },
+      {
+        "site": "www.emploi-store.fr",
+        "groupe": "emploi-store.fr",
+        "metric": 1
+      },
+      {
+        "site": "www.francetravail.fr/accueil",
+        "groupe": "autres",
+        "metric": 2
+      },
+      {
+        "site": "www.francetravail.fr/actualite",
+        "groupe": "autres",
+        "metric": 1
+      },
+      {
+        "site": "www.francetravail.fr/candidat",
+        "groupe": "autres",
+        "metric": 60
+      },
+      {
+        "site": "www.pole-emploi.fr/actualite",
+        "groupe": "pole-emploi.fr (edito)",
+        "metric": 6
+      },
+      {
+        "site": "www.pole-emploi.fr/candidat",
+        "groupe": "pole-emploi.fr (edito)",
+        "metric": 3
+      },
+      {
+        "site": "www.pole-emploi.fr/faq",
+        "groupe": "pole-emploi.fr (edito)",
+        "metric": 7
+      },
+      {
+        "site": "www.pole-emploi.fr/region",
+        "groupe": "pole-emploi.fr (edito)",
+        "metric": 1
+      },
+      {
+        "site": "www.pole-emploi.org",
+        "groupe": "pole-emploi.org",
+        "metric": 1
+      }
+    ],
+    "outgoing": [
+      {
+        "site": "candidat.francetravail.fr/Autres",
+        "groupe": "autres"
+      },
+      {
+        "site": "candidat.francetravail.fr/Recherche-formations",
+        "groupe": "autres"
+      },
+      {
+        "site": "candidat.francetravail.fr/Recherche-offres",
+        "groupe": "autres"
+      },
+      {
+        "site": "emplois2024.fr",
+        "groupe": "autres"
+      },
+      {
+        "site": "entreprise.francetravail.fr/Accueil",
+        "groupe": "autres"
+      },
+      {
+        "site": "entreprise.francetravail.fr/Autres",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/accueil",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/actualite",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/annuaire",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/autres",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/candidat",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/employeur",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/faq",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/informations",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/international",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/region",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/spectacle",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/tv",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.org",
+        "groupe": "francetravail.org"
+      }
+    ]
+  },
+  {
+    "name": "entreprise.francetravail.fr/Accueil",
+    "groupe": "autres",
+    "rank": 3.6,
+    "pages": 147,
+    "trafic": 41289,
+    "nbin": 33,
+    "nbout": 17,
+    "imports": [
+      {
+        "site": "autres-sites",
+        "groupe": "autres",
+        "metric": 44
+      },
+      {
+        "site": "candidat.francetravail.fr/Autres",
+        "groupe": "autres",
+        "metric": 44
+      },
+      {
+        "site": "candidat.francetravail.fr/MetierScope",
+        "groupe": "autres",
+        "metric": 44
+      },
+      {
+        "site": "candidat.pole-emploi.fr/Autres",
+        "groupe": "pole-emploi.fr",
+        "metric": 44
+      },
+      {
+        "site": "dataemploi.pole-emploi.fr",
+        "groupe": "pole-emploi.fr",
+        "metric": 44
+      },
+      {
+        "site": "emplois2024.fr",
+        "groupe": "autres",
+        "metric": 44
+      },
+      {
+        "site": "entreprise.francetravail.fr/Accueil",
+        "groupe": "autres",
+        "metric": 90
+      },
+      {
+        "site": "entreprise.francetravail.fr/Autres",
+        "groupe": "autres",
+        "metric": 9
+      },
+      {
+        "site": "entreprise.pole-emploi.fr/Accueil",
+        "groupe": "pole-emploi.fr",
+        "metric": 44
+      },
+      {
+        "site": "gestion.pole-emploi.fr",
+        "groupe": "pole-emploi.fr",
+        "metric": 50
+      },
+      {
+        "site": "labonnecompetencepro.pole-emploi.fr",
+        "groupe": "pole-emploi.fr (startup)",
+        "metric": 1
+      },
+      {
+        "site": "mesevenementsemploi.francetravail.fr",
+        "groupe": "francetravail.fr",
+        "metric": 44
+      },
+      {
+        "site": "mesevenementsemploi.pole-emploi.fr",
+        "groupe": "pole-emploi.fr (startup)",
+        "metric": 1
+      },
+      {
+        "site": "recrute.francetravail.fr",
+        "groupe": "francetravail.fr",
+        "metric": 44
+      },
+      {
+        "site": "recrute.pole-emploi.fr",
+        "groupe": "pole-emploi.fr",
+        "metric": 1
+      },
+      {
+        "site": "salonenligne.francetravail.fr",
+        "groupe": "francetravail.fr",
+        "metric": 44
+      },
+      {
+        "site": "www.emploi-store.fr",
+        "groupe": "emploi-store.fr",
+        "metric": 44
+      },
+      {
+        "site": "www.francetravail.fr/accueil",
+        "groupe": "autres",
+        "metric": 44
+      },
+      {
+        "site": "www.francetravail.fr/actualite",
+        "groupe": "autres",
+        "metric": 44
+      },
+      {
+        "site": "www.francetravail.fr/annuaire",
+        "groupe": "autres",
+        "metric": 44
+      },
+      {
+        "site": "www.francetravail.fr/candidat",
+        "groupe": "autres",
+        "metric": 44
+      },
+      {
+        "site": "www.francetravail.fr/employeur",
+        "groupe": "autres",
+        "metric": 44
+      },
+      {
+        "site": "www.francetravail.fr/faq",
+        "groupe": "autres",
+        "metric": 44
+      },
+      {
+        "site": "www.francetravail.fr/informations",
+        "groupe": "autres",
+        "metric": 44
+      },
+      {
+        "site": "www.francetravail.fr/international",
+        "groupe": "autres",
+        "metric": 44
+      },
+      {
+        "site": "www.francetravail.fr/region",
+        "groupe": "autres",
+        "metric": 44
+      },
+      {
+        "site": "www.francetravail.fr/spectacle",
+        "groupe": "autres",
+        "metric": 44
+      },
+      {
+        "site": "www.francetravail.org",
+        "groupe": "francetravail.org",
+        "metric": 44
+      },
+      {
+        "site": "www.guso.fr",
+        "groupe": "autres",
+        "metric": 1
+      },
+      {
+        "site": "www.pole-emploi.fr/autres",
+        "groupe": "pole-emploi.fr (edito)",
+        "metric": 1
+      },
+      {
+        "site": "www.pole-emploi.fr/employeur",
+        "groupe": "pole-emploi.fr (edito)",
+        "metric": 2
+      },
+      {
+        "site": "www.pole-emploi.fr/faq",
+        "groupe": "pole-emploi.fr (edito)",
+        "metric": 47
+      },
+      {
+        "site": "www.pole-emploi.fr/international",
+        "groupe": "pole-emploi.fr (edito)",
+        "metric": 25
+      }
+    ],
+    "outgoing": [
+      {
+        "site": "candidat.francetravail.fr/Autres",
+        "groupe": "autres"
+      },
+      {
+        "site": "candidat.francetravail.fr/Recherche-formations",
+        "groupe": "autres"
+      },
+      {
+        "site": "candidat.francetravail.fr/Recherche-offres",
+        "groupe": "autres"
+      },
+      {
+        "site": "entreprise.francetravail.fr/Accueil",
+        "groupe": "autres"
+      },
+      {
+        "site": "entreprise.francetravail.fr/Autres",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/accueil",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/actualite",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/annuaire",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/autres",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/candidat",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/employeur",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/faq",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/informations",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/international",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/region",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/spectacle",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/tv",
+        "groupe": "autres"
+      }
+    ]
+  },
+  {
+    "name": "entreprise.francetravail.fr/Autres",
+    "groupe": "autres",
+    "rank": 0.3,
+    "pages": 71,
+    "trafic": 21083,
+    "nbin": 41,
+    "nbout": 8,
+    "imports": [
+      {
+        "site": "candidat.francetravail.fr/Autres",
+        "groupe": "autres",
+        "metric": 2
+      },
+      {
+        "site": "candidat.francetravail.fr/MetierScope",
+        "groupe": "autres",
+        "metric": 2
+      },
+      {
+        "site": "dataemploi.pole-emploi.fr",
+        "groupe": "pole-emploi.fr",
+        "metric": 2
+      },
+      {
+        "site": "emplois2024.fr",
+        "groupe": "autres",
+        "metric": 4
+      },
+      {
+        "site": "entreprise.francetravail.fr/Accueil",
+        "groupe": "autres",
+        "metric": 4
+      },
+      {
+        "site": "entreprise.francetravail.fr/Autres",
+        "groupe": "autres",
+        "metric": 5
+      },
+      {
+        "site": "entreprise.pole-emploi.fr/Accueil",
+        "groupe": "pole-emploi.fr",
+        "metric": 5
+      },
+      {
+        "site": "entreprise.pole-emploi.fr/Autres",
+        "groupe": "pole-emploi.fr",
+        "metric": 16
+      },
+      {
+        "site": "mesevenementsemploi.francetravail.fr",
+        "groupe": "francetravail.fr",
+        "metric": 2
+      },
+      {
+        "site": "mesevenementsemploi.pole-emploi.fr",
+        "groupe": "pole-emploi.fr (startup)",
+        "metric": 2
+      },
+      {
+        "site": "recrute.francetravail.fr",
+        "groupe": "francetravail.fr",
+        "metric": 2
+      },
+      {
+        "site": "recrute.pole-emploi.fr",
+        "groupe": "pole-emploi.fr",
+        "metric": 2
+      },
+      {
+        "site": "salonenligne.francetravail.fr",
+        "groupe": "francetravail.fr",
+        "metric": 2
+      },
+      {
+        "site": "salonenligne.pole-emploi.fr",
+        "groupe": "pole-emploi.fr",
+        "metric": 2
+      },
+      {
+        "site": "www.emploi-store.fr",
+        "groupe": "emploi-store.fr",
+        "metric": 4
+      },
+      {
+        "site": "www.emploiparlonsnet.pole-emploi.org",
+        "groupe": "pole-emploi.org",
+        "metric": 2
+      },
+      {
+        "site": "www.francetravail.fr/accueil",
+        "groupe": "autres",
+        "metric": 4
+      },
+      {
+        "site": "www.francetravail.fr/actualite",
+        "groupe": "autres",
+        "metric": 4
+      },
+      {
+        "site": "www.francetravail.fr/annuaire",
+        "groupe": "autres",
+        "metric": 2
+      },
+      {
+        "site": "www.francetravail.fr/autres",
+        "groupe": "autres",
+        "metric": 3
+      },
+      {
+        "site": "www.francetravail.fr/candidat",
+        "groupe": "autres",
+        "metric": 2
+      },
+      {
+        "site": "www.francetravail.fr/employeur",
+        "groupe": "autres",
+        "metric": 7
+      },
+      {
+        "site": "www.francetravail.fr/faq",
+        "groupe": "autres",
+        "metric": 2
+      },
+      {
+        "site": "www.francetravail.fr/informations",
+        "groupe": "autres",
+        "metric": 4
+      },
+      {
+        "site": "www.francetravail.fr/international",
+        "groupe": "autres",
+        "metric": 4
+      },
+      {
+        "site": "www.francetravail.fr/region",
+        "groupe": "autres",
+        "metric": 4
+      },
+      {
+        "site": "www.francetravail.fr/spectacle",
+        "groupe": "autres",
+        "metric": 4
+      },
+      {
+        "site": "www.francetravail.org",
+        "groupe": "francetravail.org",
+        "metric": 2
+      },
+      {
+        "site": "www.pole-emploi.fr/accueil",
+        "groupe": "pole-emploi.fr (edito)",
+        "metric": 4
+      },
+      {
+        "site": "www.pole-emploi.fr/actualite",
+        "groupe": "pole-emploi.fr (edito)",
+        "metric": 2
+      },
+      {
+        "site": "www.pole-emploi.fr/annuaire",
+        "groupe": "pole-emploi.fr (edito)",
+        "metric": 2
+      },
+      {
+        "site": "www.pole-emploi.fr/autres",
+        "groupe": "pole-emploi.fr (edito)",
+        "metric": 3
+      },
+      {
+        "site": "www.pole-emploi.fr/candidat",
+        "groupe": "pole-emploi.fr (edito)",
+        "metric": 2
+      },
+      {
+        "site": "www.pole-emploi.fr/employeur",
+        "groupe": "pole-emploi.fr (edito)",
+        "metric": 13
+      },
+      {
+        "site": "www.pole-emploi.fr/faq",
+        "groupe": "pole-emploi.fr (edito)",
+        "metric": 2
+      },
+      {
+        "site": "www.pole-emploi.fr/informations",
+        "groupe": "pole-emploi.fr (edito)",
+        "metric": 2
+      },
+      {
+        "site": "www.pole-emploi.fr/international",
+        "groupe": "pole-emploi.fr (edito)",
+        "metric": 2
+      },
+      {
+        "site": "www.pole-emploi.fr/region",
+        "groupe": "pole-emploi.fr (edito)",
+        "metric": 2
+      },
+      {
+        "site": "www.pole-emploi.fr/spectacle",
+        "groupe": "pole-emploi.fr (edito)",
+        "metric": 2
+      },
+      {
+        "site": "www.pole-emploi.fr/tv",
+        "groupe": "pole-emploi.fr (edito)",
+        "metric": 2
+      },
+      {
+        "site": "www.pole-emploi.org",
+        "groupe": "pole-emploi.org",
+        "metric": 2
+      }
+    ],
+    "outgoing": [
+      {
+        "site": "emplois2024.fr",
+        "groupe": "autres"
+      },
+      {
+        "site": "entreprise.francetravail.fr/Accueil",
+        "groupe": "autres"
+      },
+      {
+        "site": "entreprise.francetravail.fr/Autres",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/actualite",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/employeur",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/faq",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/international",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/region",
+        "groupe": "autres"
+      }
+    ]
+  },
+  {
+    "name": "entreprise.pole-emploi.fr/Accueil",
+    "groupe": "pole-emploi.fr",
+    "rank": 0.1,
+    "pages": 72,
+    "trafic": 0,
+    "nbin": 0,
+    "nbout": 7,
+    "imports": [],
+    "outgoing": [
+      {
+        "site": "entreprise.francetravail.fr/Accueil",
+        "groupe": "autres"
+      },
+      {
+        "site": "entreprise.francetravail.fr/Autres",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/accueil",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/actualite",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/employeur",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/region",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.org",
+        "groupe": "francetravail.org"
+      }
+    ]
+  },
+  {
+    "name": "entreprise.pole-emploi.fr/Autres",
+    "groupe": "pole-emploi.fr",
+    "rank": 0.1,
+    "pages": 22,
+    "trafic": 404,
+    "nbin": 0,
+    "nbout": 9,
+    "imports": [],
+    "outgoing": [
+      {
+        "site": "emplois2024.fr",
+        "groupe": "autres"
+      },
+      {
+        "site": "entreprise.francetravail.fr/Autres",
+        "groupe": "autres"
+      },
+      {
+        "site": "labonnecompetencepro.pole-emploi.fr",
+        "groupe": "pole-emploi.fr (startup)"
+      },
+      {
+        "site": "www.francetravail.fr/actualite",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/candidat",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/employeur",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/international",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/region",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.org",
+        "groupe": "francetravail.org"
+      }
+    ]
+  },
+  {
+    "name": "francetravail.io",
+    "groupe": "autres",
+    "rank": 3.3,
+    "pages": 222,
+    "trafic": 1870,
+    "nbin": 20,
+    "nbout": 4,
+    "imports": [
+      {
+        "site": "autres-sites",
+        "groupe": "autres",
+        "metric": 3
+      },
+      {
+        "site": "candidat.francetravail.fr/Autres",
+        "groupe": "autres",
+        "metric": 1
+      },
+      {
+        "site": "candidat.francetravail.fr/MetierScope",
+        "groupe": "autres",
+        "metric": 3
+      },
+      {
+        "site": "dataemploi.pole-emploi.fr",
+        "groupe": "pole-emploi.fr",
+        "metric": 9
+      },
+      {
+        "site": "francetravail.io",
+        "groupe": "autres",
+        "metric": 168
+      },
+      {
+        "site": "labonneboite.francetravail.fr",
+        "groupe": "francetravail.fr",
+        "metric": 4
+      },
+      {
+        "site": "mesevenementsemploi.francetravail.fr",
+        "groupe": "francetravail.fr",
+        "metric": 1
+      },
+      {
+        "site": "messervices.pole-emploi.fr",
+        "groupe": "pole-emploi.fr",
+        "metric": 1
+      },
+      {
+        "site": "pole-emploi.io",
+        "groupe": "autres",
+        "metric": 28
+      },
+      {
+        "site": "salonenligne.francetravail.fr",
+        "groupe": "francetravail.fr",
+        "metric": 1
+      },
+      {
+        "site": "www.emploi-store.fr",
+        "groupe": "emploi-store.fr",
+        "metric": 168
+      },
+      {
+        "site": "www.francetravail.fr/accueil",
+        "groupe": "autres",
+        "metric": 4
+      },
+      {
+        "site": "www.francetravail.fr/autres",
+        "groupe": "autres",
+        "metric": 168
+      },
+      {
+        "site": "www.francetravail.fr/candidat",
+        "groupe": "autres",
+        "metric": 1
+      },
+      {
+        "site": "www.francetravail.fr/employeur",
+        "groupe": "autres",
+        "metric": 2
+      },
+      {
+        "site": "www.francetravail.fr/region",
+        "groupe": "autres",
+        "metric": 1
+      },
+      {
+        "site": "www.francetravail.org",
+        "groupe": "francetravail.org",
+        "metric": 168
+      },
+      {
+        "site": "www.pole-emploi.fr/actualite",
+        "groupe": "pole-emploi.fr (edito)",
+        "metric": 1
+      },
+      {
+        "site": "www.pole-emploi.fr/autres",
+        "groupe": "pole-emploi.fr (edito)",
+        "metric": 2
+      },
+      {
+        "site": "www.pole-emploi.org",
+        "groupe": "pole-emploi.org",
+        "metric": 1
+      }
+    ],
+    "outgoing": [
+      {
+        "site": "dataemploi.pole-emploi.fr",
+        "groupe": "pole-emploi.fr"
+      },
+      {
+        "site": "francetravail.io",
+        "groupe": "autres"
+      },
+      {
+        "site": "labonneboite.francetravail.fr",
+        "groupe": "francetravail.fr"
+      },
+      {
+        "site": "www.francetravail.org",
+        "groupe": "francetravail.org"
+      }
+    ]
+  },
+  {
+    "name": "gestion.francetravail.fr",
+    "groupe": "francetravail.fr",
+    "rank": 0.1,
+    "pages": 9,
+    "trafic": 177,
+    "nbin": 8,
+    "nbout": 5,
+    "imports": [
+      {
+        "site": "autres-sites",
+        "groupe": "autres",
+        "metric": 3
+      },
+      {
+        "site": "gestion.francetravail.fr",
+        "groupe": "francetravail.fr",
+        "metric": 4
+      },
+      {
+        "site": "www.pole-emploi.fr/annuaire",
+        "groupe": "pole-emploi.fr (edito)",
+        "metric": 4
+      },
+      {
+        "site": "www.pole-emploi.fr/autres",
+        "groupe": "pole-emploi.fr (edito)",
+        "metric": 4
+      },
+      {
+        "site": "www.pole-emploi.fr/employeur",
+        "groupe": "pole-emploi.fr (edito)",
+        "metric": 1
+      },
+      {
+        "site": "www.pole-emploi.fr/faq",
+        "groupe": "pole-emploi.fr (edito)",
+        "metric": 4
+      },
+      {
+        "site": "www.pole-emploi.fr/informations",
+        "groupe": "pole-emploi.fr (edito)",
+        "metric": 4
+      },
+      {
+        "site": "www.pole-emploi.org",
+        "groupe": "pole-emploi.org",
+        "metric": 4
+      }
+    ],
+    "outgoing": [
+      {
+        "site": "gestion.francetravail.fr",
+        "groupe": "francetravail.fr"
+      },
+      {
+        "site": "www.francetravail.fr/employeur",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/faq",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/region",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/spectacle",
+        "groupe": "autres"
+      }
+    ]
+  },
+  {
+    "name": "gestion.pole-emploi.fr",
+    "groupe": "pole-emploi.fr",
+    "rank": 0.1,
+    "pages": 2,
+    "trafic": 2711,
+    "nbin": 0,
+    "nbout": 3,
+    "imports": [],
+    "outgoing": [
+      {
+        "site": "entreprise.francetravail.fr/Accueil",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/employeur",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/region",
+        "groupe": "autres"
+      }
+    ]
+  },
+  {
+    "name": "labonneboite.francetravail.fr",
+    "groupe": "francetravail.fr",
+    "rank": 8.3,
+    "pages": 44907,
+    "trafic": 57348,
+    "nbin": 7,
+    "nbout": 3,
+    "imports": [
+      {
+        "site": "francetravail.io",
+        "groupe": "autres",
+        "metric": 40052
+      },
+      {
+        "site": "labonneboite.francetravail.fr",
+        "groupe": "francetravail.fr",
+        "metric": 40052
+      },
+      {
+        "site": "recrute.pole-emploi.fr",
+        "groupe": "pole-emploi.fr",
+        "metric": 1
+      },
+      {
+        "site": "www.emploi-store.fr",
+        "groupe": "emploi-store.fr",
+        "metric": 1
+      },
+      {
+        "site": "www.francetravail.fr/autres",
+        "groupe": "autres",
+        "metric": 1
+      },
+      {
+        "site": "www.pole-emploi.fr/autres",
+        "groupe": "pole-emploi.fr (edito)",
+        "metric": 3
+      },
+      {
+        "site": "www.pole-emploi.org",
+        "groupe": "pole-emploi.org",
+        "metric": 1
+      }
+    ],
+    "outgoing": [
+      {
+        "site": "dataemploi.pole-emploi.fr",
+        "groupe": "pole-emploi.fr"
+      },
+      {
+        "site": "francetravail.io",
+        "groupe": "autres"
+      },
+      {
+        "site": "labonneboite.francetravail.fr",
+        "groupe": "francetravail.fr"
+      }
+    ]
+  },
+  {
+    "name": "labonneboite.pole-emploi.fr",
+    "groupe": "pole-emploi.fr (startup)",
+    "rank": 1.6,
+    "pages": 108591,
+    "trafic": 1400,
+    "nbin": 0,
+    "nbout": 9,
+    "imports": [],
+    "outgoing": [
+      {
+        "site": "candidat.francetravail.fr/MetierScope",
+        "groupe": "autres"
+      },
+      {
+        "site": "candidat.francetravail.fr/Mobiville",
+        "groupe": "autres"
+      },
+      {
+        "site": "candidat.francetravail.fr/Recherche-offres",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.emploi-store.fr",
+        "groupe": "emploi-store.fr"
+      },
+      {
+        "site": "www.francetravail.fr/actualite",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/candidat",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/international",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/region",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.org",
+        "groupe": "francetravail.org"
+      }
+    ]
+  },
+  {
+    "name": "labonnecompetencepro.pole-emploi.fr",
+    "groupe": "pole-emploi.fr (startup)",
+    "rank": 0.0,
+    "pages": 3,
+    "trafic": 195,
+    "nbin": 3,
+    "nbout": 4,
+    "imports": [
+      {
+        "site": "entreprise.pole-emploi.fr/Autres",
+        "groupe": "pole-emploi.fr",
+        "metric": 1
+      },
+      {
+        "site": "labonnecompetencepro.pole-emploi.fr",
+        "groupe": "pole-emploi.fr (startup)",
+        "metric": 3
+      },
+      {
+        "site": "www.pole-emploi.fr/informations",
+        "groupe": "pole-emploi.fr (edito)",
+        "metric": 1
+      }
+    ],
+    "outgoing": [
+      {
+        "site": "entreprise.francetravail.fr/Accueil",
+        "groupe": "autres"
+      },
+      {
+        "site": "labonnecompetencepro.pole-emploi.fr",
+        "groupe": "pole-emploi.fr (startup)"
+      },
+      {
+        "site": "www.francetravail.fr/region",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.org",
+        "groupe": "francetravail.org"
+      }
+    ]
+  },
+  {
+    "name": "lesclubs-sportifs-engages.francetravail.fr",
+    "groupe": "francetravail.fr",
+    "rank": 0.0,
+    "pages": 45,
+    "trafic": 105,
+    "nbin": 2,
+    "nbout": 3,
+    "imports": [
+      {
+        "site": "lesclubs-sportifs-engages.francetravail.fr",
+        "groupe": "francetravail.fr",
+        "metric": 31
+      },
+      {
+        "site": "lesclubs-sportifs-engages.pole-emploi.fr",
+        "groupe": "autres",
+        "metric": 2
+      }
+    ],
+    "outgoing": [
+      {
+        "site": "lesclubs-sportifs-engages.francetravail.fr",
+        "groupe": "francetravail.fr"
+      },
+      {
+        "site": "www.francetravail.fr/actualite",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.org",
+        "groupe": "francetravail.org"
+      }
+    ]
+  },
+  {
+    "name": "lesclubs-sportifs-engages.pole-emploi.fr",
+    "groupe": "autres",
+    "rank": 0.0,
+    "pages": 2,
+    "trafic": 0,
+    "nbin": 0,
+    "nbout": 1,
+    "imports": [],
+    "outgoing": [
+      {
+        "site": "lesclubs-sportifs-engages.francetravail.fr",
+        "groupe": "francetravail.fr"
+      }
+    ]
+  },
+  {
+    "name": "mes-aides.francetravail.fr",
+    "groupe": "francetravail.fr",
+    "rank": 0.3,
+    "pages": 1117,
+    "trafic": 27122,
+    "nbin": 3,
+    "nbout": 5,
+    "imports": [
+      {
+        "site": "mes-aides.francetravail.fr",
+        "groupe": "francetravail.fr",
+        "metric": 1111
+      },
+      {
+        "site": "www.francetravail.fr/candidat",
+        "groupe": "autres",
+        "metric": 1
+      },
+      {
+        "site": "www.pole-emploi.fr/candidat",
+        "groupe": "pole-emploi.fr (edito)",
+        "metric": 3
+      }
+    ],
+    "outgoing": [
+      {
+        "site": "mes-aides.francetravail.fr",
+        "groupe": "francetravail.fr"
+      },
+      {
+        "site": "www.emploi-store.fr",
+        "groupe": "emploi-store.fr"
+      },
+      {
+        "site": "www.francetravail.fr/actualite",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/candidat",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/region",
+        "groupe": "autres"
+      }
+    ]
+  },
+  {
+    "name": "mes-aides.pole-emploi.fr",
+    "groupe": "pole-emploi.fr (startup)",
+    "rank": 0.0,
+    "pages": 3,
+    "trafic": 101,
+    "nbin": 0,
+    "nbout": 5,
+    "imports": [],
+    "outgoing": [
+      {
+        "site": "candidat.francetravail.fr/MetierScope",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/actualite",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/candidat",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/region",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.org",
+        "groupe": "francetravail.org"
+      }
+    ]
+  },
+  {
+    "name": "mesevenementsemploi.francetravail.fr",
+    "groupe": "francetravail.fr",
+    "rank": 1.4,
+    "pages": 581,
+    "trafic": 120432,
+    "nbin": 5,
+    "nbout": 21,
+    "imports": [
+      {
+        "site": "mesevenementsemploi.francetravail.fr",
+        "groupe": "francetravail.fr",
+        "metric": 520
+      },
+      {
+        "site": "mesevenementsemploi.pole-emploi.fr",
+        "groupe": "pole-emploi.fr (startup)",
+        "metric": 2
+      },
+      {
+        "site": "www.pole-emploi.fr/accueil",
+        "groupe": "pole-emploi.fr (edito)",
+        "metric": 520
+      },
+      {
+        "site": "www.pole-emploi.fr/actualite",
+        "groupe": "pole-emploi.fr (edito)",
+        "metric": 1
+      },
+      {
+        "site": "www.pole-emploi.fr/autres",
+        "groupe": "pole-emploi.fr (edito)",
+        "metric": 1
+      }
+    ],
+    "outgoing": [
+      {
+        "site": "candidat.francetravail.fr/Autres",
+        "groupe": "autres"
+      },
+      {
+        "site": "candidat.francetravail.fr/Recherche-formations",
+        "groupe": "autres"
+      },
+      {
+        "site": "candidat.francetravail.fr/Recherche-offres",
+        "groupe": "autres"
+      },
+      {
+        "site": "emplois2024.fr",
+        "groupe": "autres"
+      },
+      {
+        "site": "entreprise.francetravail.fr/Accueil",
+        "groupe": "autres"
+      },
+      {
+        "site": "entreprise.francetravail.fr/Autres",
+        "groupe": "autres"
+      },
+      {
+        "site": "francetravail.io",
+        "groupe": "autres"
+      },
+      {
+        "site": "mesevenementsemploi.francetravail.fr",
+        "groupe": "francetravail.fr"
+      },
+      {
+        "site": "www.francetravail.fr/accueil",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/actualite",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/annuaire",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/autres",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/candidat",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/employeur",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/faq",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/informations",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/international",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/region",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/spectacle",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/tv",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.org",
+        "groupe": "francetravail.org"
+      }
+    ]
+  },
+  {
+    "name": "mesevenementsemploi.pole-emploi.fr",
+    "groupe": "pole-emploi.fr (startup)",
+    "rank": 0.1,
+    "pages": 177,
+    "trafic": 848,
+    "nbin": 0,
+    "nbout": 13,
+    "imports": [],
+    "outgoing": [
+      {
+        "site": "candidat.francetravail.fr/MetierScope",
+        "groupe": "autres"
+      },
+      {
+        "site": "candidat.francetravail.fr/Mobiville",
+        "groupe": "autres"
+      },
+      {
+        "site": "candidat.francetravail.fr/Recherche-offres",
+        "groupe": "autres"
+      },
+      {
+        "site": "emplois2024.fr",
+        "groupe": "autres"
+      },
+      {
+        "site": "entreprise.francetravail.fr/Accueil",
+        "groupe": "autres"
+      },
+      {
+        "site": "entreprise.francetravail.fr/Autres",
+        "groupe": "autres"
+      },
+      {
+        "site": "mesevenementsemploi.francetravail.fr",
+        "groupe": "francetravail.fr"
+      },
+      {
+        "site": "www.emploi-store.fr",
+        "groupe": "emploi-store.fr"
+      },
+      {
+        "site": "www.francetravail.fr/actualite",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/candidat",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/employeur",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/region",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.org",
+        "groupe": "francetravail.org"
+      }
+    ]
+  },
+  {
+    "name": "messervices.pole-emploi.fr",
+    "groupe": "pole-emploi.fr",
+    "rank": 0.1,
+    "pages": 71,
+    "trafic": 13661,
+    "nbin": 10,
+    "nbout": 12,
+    "imports": [
+      {
+        "site": "candidat.pole-emploi.fr/Autres",
+        "groupe": "pole-emploi.fr",
+        "metric": 27
+      },
+      {
+        "site": "messervices.pole-emploi.fr",
+        "groupe": "pole-emploi.fr",
+        "metric": 59
+      },
+      {
+        "site": "monallocation.pole-emploi.fr",
+        "groupe": "pole-emploi.fr",
+        "metric": 3
+      },
+      {
+        "site": "www.emploi-store.fr",
+        "groupe": "emploi-store.fr",
+        "metric": 8
+      },
+      {
+        "site": "www.francetravail.fr/international",
+        "groupe": "autres",
+        "metric": 1
+      },
+      {
+        "site": "www.pole-emploi.fr/accueil",
+        "groupe": "pole-emploi.fr (edito)",
+        "metric": 56
+      },
+      {
+        "site": "www.pole-emploi.fr/annuaire",
+        "groupe": "pole-emploi.fr (edito)",
+        "metric": 3
+      },
+      {
+        "site": "www.pole-emploi.fr/autres",
+        "groupe": "pole-emploi.fr (edito)",
+        "metric": 1
+      },
+      {
+        "site": "www.pole-emploi.fr/candidat",
+        "groupe": "pole-emploi.fr (edito)",
+        "metric": 1
+      },
+      {
+        "site": "www.pole-emploi.fr/informations",
+        "groupe": "pole-emploi.fr (edito)",
+        "metric": 3
+      }
+    ],
+    "outgoing": [
+      {
+        "site": "candidat.francetravail.fr/Autres",
+        "groupe": "autres"
+      },
+      {
+        "site": "candidat.francetravail.fr/Mobiville",
+        "groupe": "autres"
+      },
+      {
+        "site": "francetravail.io",
+        "groupe": "autres"
+      },
+      {
+        "site": "messervices.pole-emploi.fr",
+        "groupe": "pole-emploi.fr"
+      },
+      {
+        "site": "monallocation.francetravail.fr",
+        "groupe": "francetravail.fr"
+      },
+      {
+        "site": "www.emploi-store.fr",
+        "groupe": "emploi-store.fr"
+      },
+      {
+        "site": "www.francetravail.fr/actualite",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/candidat",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/faq",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/informations",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/international",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/region",
+        "groupe": "autres"
+      }
+    ]
+  },
+  {
+    "name": "monallocation.francetravail.fr",
+    "groupe": "francetravail.fr",
+    "rank": 0.0,
+    "pages": 25,
+    "trafic": 40,
+    "nbin": 4,
+    "nbout": 1,
+    "imports": [
+      {
+        "site": "messervices.pole-emploi.fr",
+        "groupe": "pole-emploi.fr",
+        "metric": 1
+      },
+      {
+        "site": "monallocation.francetravail.fr",
+        "groupe": "francetravail.fr",
+        "metric": 25
+      },
+      {
+        "site": "www.pole-emploi.fr/autres",
+        "groupe": "pole-emploi.fr (edito)",
+        "metric": 25
+      },
+      {
+        "site": "www.pole-emploi.fr/candidat",
+        "groupe": "pole-emploi.fr (edito)",
+        "metric": 7
+      }
+    ],
+    "outgoing": [
+      {
+        "site": "monallocation.francetravail.fr",
+        "groupe": "francetravail.fr"
+      }
+    ]
+  },
+  {
+    "name": "monallocation.pole-emploi.fr",
+    "groupe": "pole-emploi.fr",
+    "rank": 0.0,
+    "pages": 2,
+    "trafic": 903,
+    "nbin": 0,
+    "nbout": 7,
+    "imports": [],
+    "outgoing": [
+      {
+        "site": "messervices.pole-emploi.fr",
+        "groupe": "pole-emploi.fr"
+      },
+      {
+        "site": "www.emploi-store.fr",
+        "groupe": "emploi-store.fr"
+      },
+      {
+        "site": "www.francetravail.fr/accueil",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/actualite",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/candidat",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/informations",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/region",
+        "groupe": "autres"
+      }
+    ]
+  },
+  {
+    "name": "pole-emploi.io",
+    "groupe": "autres",
+    "rank": 0.1,
+    "pages": 24,
+    "trafic": 0,
+    "nbin": 0,
+    "nbout": 5,
+    "imports": [],
+    "outgoing": [
+      {
+        "site": "francetravail.io",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.actuformation.pole-emploi.org",
+        "groupe": "pole-emploi.org"
+      },
+      {
+        "site": "www.emploi-store.fr",
+        "groupe": "emploi-store.fr"
+      },
+      {
+        "site": "www.francetravail.fr/employeur",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.org",
+        "groupe": "francetravail.org"
+      }
+    ]
+  },
+  {
+    "name": "recrute.francetravail.fr",
+    "groupe": "francetravail.fr",
+    "rank": 6.4,
+    "pages": 159078,
+    "trafic": 310,
+    "nbin": 9,
+    "nbout": 18,
+    "imports": [
+      {
+        "site": "recrute.francetravail.fr",
+        "groupe": "francetravail.fr",
+        "metric": 63571
+      },
+      {
+        "site": "recrute.pole-emploi.fr",
+        "groupe": "pole-emploi.fr",
+        "metric": 34
+      },
+      {
+        "site": "salonenligne.pole-emploi.fr",
+        "groupe": "pole-emploi.fr",
+        "metric": 1
+      },
+      {
+        "site": "www.francetravail.fr/autres",
+        "groupe": "autres",
+        "metric": 2
+      },
+      {
+        "site": "www.pole-emploi.fr/accueil",
+        "groupe": "pole-emploi.fr (edito)",
+        "metric": 12
+      },
+      {
+        "site": "www.pole-emploi.fr/annuaire",
+        "groupe": "pole-emploi.fr (edito)",
+        "metric": 1
+      },
+      {
+        "site": "www.pole-emploi.fr/autres",
+        "groupe": "pole-emploi.fr (edito)",
+        "metric": 45
+      },
+      {
+        "site": "www.pole-emploi.fr/employeur",
+        "groupe": "pole-emploi.fr (edito)",
+        "metric": 1
+      },
+      {
+        "site": "www.pole-emploi.org",
+        "groupe": "pole-emploi.org",
+        "metric": 9
+      }
+    ],
+    "outgoing": [
+      {
+        "site": "candidat.francetravail.fr/Autres",
+        "groupe": "autres"
+      },
+      {
+        "site": "candidat.francetravail.fr/Recherche-formations",
+        "groupe": "autres"
+      },
+      {
+        "site": "candidat.francetravail.fr/Recherche-offres",
+        "groupe": "autres"
+      },
+      {
+        "site": "entreprise.francetravail.fr/Accueil",
+        "groupe": "autres"
+      },
+      {
+        "site": "entreprise.francetravail.fr/Autres",
+        "groupe": "autres"
+      },
+      {
+        "site": "recrute.francetravail.fr",
+        "groupe": "francetravail.fr"
+      },
+      {
+        "site": "www.francetravail.fr/accueil",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/actualite",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/annuaire",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/autres",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/candidat",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/employeur",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/faq",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/informations",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/international",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/region",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/spectacle",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/tv",
+        "groupe": "autres"
+      }
+    ]
+  },
+  {
+    "name": "recrute.francetravail.org",
+    "groupe": "francetravail.org",
+    "rank": 2.6,
+    "pages": 19167,
+    "trafic": 28996,
+    "nbin": 2,
+    "nbout": 2,
+    "imports": [
+      {
+        "site": "recrute.francetravail.org",
+        "groupe": "francetravail.org",
+        "metric": 17042
+      },
+      {
+        "site": "recrute.pole-emploi.org",
+        "groupe": "pole-emploi.org",
+        "metric": 8
+      }
+    ],
+    "outgoing": [
+      {
+        "site": "recrute.francetravail.org",
+        "groupe": "francetravail.org"
+      },
+      {
+        "site": "www.francetravail.org",
+        "groupe": "francetravail.org"
+      }
+    ]
+  },
+  {
+    "name": "recrute.pole-emploi.fr",
+    "groupe": "pole-emploi.fr",
+    "rank": 1.1,
+    "pages": 64204,
+    "trafic": 146248,
+    "nbin": 0,
+    "nbout": 6,
+    "imports": [],
+    "outgoing": [
+      {
+        "site": "candidat.francetravail.fr/Recherche-offres",
+        "groupe": "autres"
+      },
+      {
+        "site": "entreprise.francetravail.fr/Accueil",
+        "groupe": "autres"
+      },
+      {
+        "site": "entreprise.francetravail.fr/Autres",
+        "groupe": "autres"
+      },
+      {
+        "site": "labonneboite.francetravail.fr",
+        "groupe": "francetravail.fr"
+      },
+      {
+        "site": "recrute.francetravail.fr",
+        "groupe": "francetravail.fr"
+      },
+      {
+        "site": "www.francetravail.fr/actualite",
+        "groupe": "autres"
+      }
+    ]
+  },
+  {
+    "name": "recrute.pole-emploi.org",
+    "groupe": "pole-emploi.org",
+    "rank": 0.3,
+    "pages": 4,
+    "trafic": 119,
+    "nbin": 0,
+    "nbout": 13,
+    "imports": [],
+    "outgoing": [
+      {
+        "site": "recrute.francetravail.org",
+        "groupe": "francetravail.org"
+      },
+      {
+        "site": "www.francetravail.fr/accueil",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/actualite",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/annuaire",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/autres",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/candidat",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/faq",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/informations",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/international",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/region",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/spectacle",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/tv",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.org",
+        "groupe": "francetravail.org"
+      }
+    ]
+  },
+  {
+    "name": "salonenligne.francetravail.fr",
+    "groupe": "francetravail.fr",
+    "rank": 1.5,
+    "pages": 22,
+    "trafic": 3790,
+    "nbin": 1,
+    "nbout": 20,
+    "imports": [
+      {
+        "site": "salonenligne.francetravail.fr",
+        "groupe": "francetravail.fr",
+        "metric": 7
+      }
+    ],
+    "outgoing": [
+      {
+        "site": "candidat.francetravail.fr/Autres",
+        "groupe": "autres"
+      },
+      {
+        "site": "candidat.francetravail.fr/Recherche-formations",
+        "groupe": "autres"
+      },
+      {
+        "site": "candidat.francetravail.fr/Recherche-offres",
+        "groupe": "autres"
+      },
+      {
+        "site": "entreprise.francetravail.fr/Accueil",
+        "groupe": "autres"
+      },
+      {
+        "site": "entreprise.francetravail.fr/Autres",
+        "groupe": "autres"
+      },
+      {
+        "site": "francetravail.io",
+        "groupe": "autres"
+      },
+      {
+        "site": "salonenligne.francetravail.fr",
+        "groupe": "francetravail.fr"
+      },
+      {
+        "site": "www.emploi-store.fr",
+        "groupe": "emploi-store.fr"
+      },
+      {
+        "site": "www.francetravail.fr/accueil",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/actualite",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/annuaire",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/autres",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/candidat",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/employeur",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/faq",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/informations",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/international",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/region",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/spectacle",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/tv",
+        "groupe": "autres"
+      }
+    ]
+  },
+  {
+    "name": "salonenligne.pole-emploi.fr",
+    "groupe": "pole-emploi.fr",
+    "rank": 0.0,
+    "pages": 17,
+    "trafic": 142,
+    "nbin": 0,
+    "nbout": 9,
+    "imports": [],
+    "outgoing": [
+      {
+        "site": "candidat.francetravail.fr/Recherche-offres",
+        "groupe": "autres"
+      },
+      {
+        "site": "entreprise.francetravail.fr/Autres",
+        "groupe": "autres"
+      },
+      {
+        "site": "recrute.francetravail.fr",
+        "groupe": "francetravail.fr"
+      },
+      {
+        "site": "www.francetravail.fr/actualite",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/candidat",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/employeur",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/international",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/region",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.org",
+        "groupe": "francetravail.org"
+      }
+    ]
+  },
+  {
+    "name": "simucalcul.pole-emploi-services.fr",
+    "groupe": "autres",
+    "rank": 0.0,
+    "pages": 1,
+    "trafic": 5059,
+    "nbin": 2,
+    "nbout": 2,
+    "imports": [
+      {
+        "site": "www.pole-emploi.fr/accueil",
+        "groupe": "pole-emploi.fr (edito)",
+        "metric": 1
+      },
+      {
+        "site": "www.pole-emploi.fr/spectacle",
+        "groupe": "pole-emploi.fr (edito)",
+        "metric": 1
+      }
+    ],
+    "outgoing": [
+      {
+        "site": "www.francetravail.fr/region",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/spectacle",
+        "groupe": "autres"
+      }
+    ]
+  },
+  {
+    "name": "simulateur2.emploi-store.fr",
+    "groupe": "emploi-store.fr",
+    "rank": 0.0,
+    "pages": 1,
+    "trafic": 93,
+    "nbin": 0,
+    "nbout": 1,
+    "imports": [],
+    "outgoing": [
+      {
+        "site": "www.francetravail.fr/region",
+        "groupe": "autres"
+      }
+    ]
+  },
+  {
+    "name": "www.actuformation.pole-emploi.org",
+    "groupe": "pole-emploi.org",
+    "rank": 0.0,
+    "pages": 183,
+    "trafic": 26776,
+    "nbin": 10,
+    "nbout": 4,
+    "imports": [
+      {
+        "site": "candidat.pole-emploi.fr/Recherche-formations",
+        "groupe": "pole-emploi.fr",
+        "metric": 4
+      },
+      {
+        "site": "pole-emploi.io",
+        "groupe": "autres",
+        "metric": 1
+      },
+      {
+        "site": "www.actuformation.pole-emploi.org",
+        "groupe": "pole-emploi.org",
+        "metric": 161
+      },
+      {
+        "site": "www.francetravail.fr/accueil",
+        "groupe": "autres",
+        "metric": 4
+      },
+      {
+        "site": "www.francetravail.fr/autres",
+        "groupe": "autres",
+        "metric": 1
+      },
+      {
+        "site": "www.francetravail.org",
+        "groupe": "francetravail.org",
+        "metric": 161
+      },
+      {
+        "site": "www.pole-emploi.fr/accueil",
+        "groupe": "pole-emploi.fr (edito)",
+        "metric": 1
+      },
+      {
+        "site": "www.pole-emploi.fr/autres",
+        "groupe": "pole-emploi.fr (edito)",
+        "metric": 1
+      },
+      {
+        "site": "www.pole-emploi.fr/candidat",
+        "groupe": "pole-emploi.fr (edito)",
+        "metric": 6
+      },
+      {
+        "site": "www.pole-emploi.org",
+        "groupe": "pole-emploi.org",
+        "metric": 1
+      }
+    ],
+    "outgoing": [
+      {
+        "site": "emplois2024.fr",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.actuformation.pole-emploi.org",
+        "groupe": "pole-emploi.org"
+      },
+      {
+        "site": "www.francetravail.fr/region",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.org",
+        "groupe": "francetravail.org"
+      }
+    ]
+  },
+  {
+    "name": "www.bo-pole-emploi.org",
+    "groupe": "pole-emploi.org",
+    "rank": 0.0,
+    "pages": 5,
+    "trafic": 0,
+    "nbin": 0,
+    "nbout": 1,
+    "imports": [],
+    "outgoing": [
+      {
+        "site": "www.francetravail.org",
+        "groupe": "francetravail.org"
+      }
+    ]
+  },
+  {
+    "name": "www.emploi-store.fr",
+    "groupe": "emploi-store.fr",
+    "rank": 4.5,
+    "pages": 486,
+    "trafic": 79758,
+    "nbin": 21,
+    "nbout": 24,
+    "imports": [
+      {
+        "site": "candidat.francetravail.fr/Autres",
+        "groupe": "autres",
+        "metric": 1
+      },
+      {
+        "site": "candidat.francetravail.fr/Recherche-formations",
+        "groupe": "autres",
+        "metric": 1
+      },
+      {
+        "site": "candidat.francetravail.fr/Recherche-offres",
+        "groupe": "autres",
+        "metric": 1
+      },
+      {
+        "site": "candidat.pole-emploi.fr/Autres",
+        "groupe": "pole-emploi.fr",
+        "metric": 5
+      },
+      {
+        "site": "candidat.pole-emploi.fr/MetierScope",
+        "groupe": "pole-emploi.fr",
+        "metric": 1
+      },
+      {
+        "site": "chomage-independant.fr",
+        "groupe": "autres",
+        "metric": 1
+      },
+      {
+        "site": "dataemploi.pole-emploi.fr",
+        "groupe": "pole-emploi.fr",
+        "metric": 1
+      },
+      {
+        "site": "labonneboite.pole-emploi.fr",
+        "groupe": "pole-emploi.fr (startup)",
+        "metric": 1
+      },
+      {
+        "site": "mes-aides.francetravail.fr",
+        "groupe": "francetravail.fr",
+        "metric": 1
+      },
+      {
+        "site": "mesevenementsemploi.pole-emploi.fr",
+        "groupe": "pole-emploi.fr (startup)",
+        "metric": 1
+      },
+      {
+        "site": "messervices.pole-emploi.fr",
+        "groupe": "pole-emploi.fr",
+        "metric": 1
+      },
+      {
+        "site": "monallocation.pole-emploi.fr",
+        "groupe": "pole-emploi.fr",
+        "metric": 1
+      },
+      {
+        "site": "pole-emploi.io",
+        "groupe": "autres",
+        "metric": 360
+      },
+      {
+        "site": "salonenligne.francetravail.fr",
+        "groupe": "francetravail.fr",
+        "metric": 1
+      },
+      {
+        "site": "www.emploi-store.fr",
+        "groupe": "emploi-store.fr",
+        "metric": 360
+      },
+      {
+        "site": "www.pole-emploi.fr/accueil",
+        "groupe": "pole-emploi.fr (edito)",
+        "metric": 1
+      },
+      {
+        "site": "www.pole-emploi.fr/actualite",
+        "groupe": "pole-emploi.fr (edito)",
+        "metric": 4
+      },
+      {
+        "site": "www.pole-emploi.fr/autres",
+        "groupe": "pole-emploi.fr (edito)",
+        "metric": 360
+      },
+      {
+        "site": "www.pole-emploi.fr/candidat",
+        "groupe": "pole-emploi.fr (edito)",
+        "metric": 360
+      },
+      {
+        "site": "www.pole-emploi.fr/informations",
+        "groupe": "pole-emploi.fr (edito)",
+        "metric": 1
+      },
+      {
+        "site": "www.pole-emploi.org",
+        "groupe": "pole-emploi.org",
+        "metric": 360
+      }
+    ],
+    "outgoing": [
+      {
+        "site": "candidat.francetravail.fr/Autres",
+        "groupe": "autres"
+      },
+      {
+        "site": "candidat.francetravail.fr/Mobiville",
+        "groupe": "autres"
+      },
+      {
+        "site": "candidat.francetravail.fr/Recherche-formations",
+        "groupe": "autres"
+      },
+      {
+        "site": "candidat.francetravail.fr/Recherche-offres",
+        "groupe": "autres"
+      },
+      {
+        "site": "emplois2024.fr",
+        "groupe": "autres"
+      },
+      {
+        "site": "entreprise.francetravail.fr/Accueil",
+        "groupe": "autres"
+      },
+      {
+        "site": "entreprise.francetravail.fr/Autres",
+        "groupe": "autres"
+      },
+      {
+        "site": "francetravail.io",
+        "groupe": "autres"
+      },
+      {
+        "site": "labonneboite.francetravail.fr",
+        "groupe": "francetravail.fr"
+      },
+      {
+        "site": "messervices.pole-emploi.fr",
+        "groupe": "pole-emploi.fr"
+      },
+      {
+        "site": "www.emploi-store.fr",
+        "groupe": "emploi-store.fr"
+      },
+      {
+        "site": "www.francetravail.fr/accueil",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/actualite",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/annuaire",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/autres",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/candidat",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/employeur",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/faq",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/informations",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/international",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/region",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/spectacle",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/tv",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.org",
+        "groupe": "francetravail.org"
+      }
+    ]
+  },
+  {
+    "name": "www.emploiparlonsnet.pole-emploi.org",
+    "groupe": "pole-emploi.org",
+    "rank": 0.0,
+    "pages": 36,
+    "trafic": 0,
+    "nbin": 0,
+    "nbout": 6,
+    "imports": [],
+    "outgoing": [
+      {
+        "site": "entreprise.francetravail.fr/Autres",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/actualite",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/employeur",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/informations",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/region",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.org",
+        "groupe": "francetravail.org"
+      }
+    ]
+  },
+  {
+    "name": "www.francetravail.fr/accueil",
+    "groupe": "autres",
+    "rank": 1.8,
+    "pages": 1,
+    "trafic": 9026250,
+    "nbin": 28,
+    "nbout": 22,
+    "imports": [
+      {
+        "site": "candidat.francetravail.fr/Autres",
+        "groupe": "autres",
+        "metric": 1
+      },
+      {
+        "site": "candidat.francetravail.fr/MetierScope",
+        "groupe": "autres",
+        "metric": 1
+      },
+      {
+        "site": "candidat.pole-emploi.fr/Autres",
+        "groupe": "pole-emploi.fr",
+        "metric": 1
+      },
+      {
+        "site": "candidat.pole-emploi.fr/Recherche-formations",
+        "groupe": "pole-emploi.fr",
+        "metric": 1
+      },
+      {
+        "site": "candidat.pole-emploi.fr/Recherche-offres",
+        "groupe": "pole-emploi.fr",
+        "metric": 1
+      },
+      {
+        "site": "dataemploi.pole-emploi.fr",
+        "groupe": "pole-emploi.fr",
+        "metric": 1
+      },
+      {
+        "site": "emplois2024.fr",
+        "groupe": "autres",
+        "metric": 1
+      },
+      {
+        "site": "entreprise.francetravail.fr/Accueil",
+        "groupe": "autres",
+        "metric": 1
+      },
+      {
+        "site": "entreprise.pole-emploi.fr/Accueil",
+        "groupe": "pole-emploi.fr",
+        "metric": 1
+      },
+      {
+        "site": "mesevenementsemploi.francetravail.fr",
+        "groupe": "francetravail.fr",
+        "metric": 1
+      },
+      {
+        "site": "monallocation.pole-emploi.fr",
+        "groupe": "pole-emploi.fr",
+        "metric": 1
+      },
+      {
+        "site": "recrute.francetravail.fr",
+        "groupe": "francetravail.fr",
+        "metric": 1
+      },
+      {
+        "site": "recrute.pole-emploi.org",
+        "groupe": "pole-emploi.org",
+        "metric": 1
+      },
+      {
+        "site": "salonenligne.francetravail.fr",
+        "groupe": "francetravail.fr",
+        "metric": 1
+      },
+      {
+        "site": "www.emploi-store.fr",
+        "groupe": "emploi-store.fr",
+        "metric": 1
+      },
+      {
+        "site": "www.francetravail.fr/actualite",
+        "groupe": "autres",
+        "metric": 1
+      },
+      {
+        "site": "www.francetravail.fr/annuaire",
+        "groupe": "autres",
+        "metric": 1
+      },
+      {
+        "site": "www.francetravail.fr/candidat",
+        "groupe": "autres",
+        "metric": 1
+      },
+      {
+        "site": "www.francetravail.fr/employeur",
+        "groupe": "autres",
+        "metric": 1
+      },
+      {
+        "site": "www.francetravail.fr/faq",
+        "groupe": "autres",
+        "metric": 1
+      },
+      {
+        "site": "www.francetravail.fr/informations",
+        "groupe": "autres",
+        "metric": 1
+      },
+      {
+        "site": "www.francetravail.fr/international",
+        "groupe": "autres",
+        "metric": 1
+      },
+      {
+        "site": "www.francetravail.fr/region",
+        "groupe": "autres",
+        "metric": 1
+      },
+      {
+        "site": "www.francetravail.fr/spectacle",
+        "groupe": "autres",
+        "metric": 1
+      },
+      {
+        "site": "www.francetravail.org",
+        "groupe": "francetravail.org",
+        "metric": 1
+      },
+      {
+        "site": "www.pole-emploi.fr/autres",
+        "groupe": "pole-emploi.fr (edito)",
+        "metric": 1
+      },
+      {
+        "site": "www.pole-emploi.fr/candidat",
+        "groupe": "pole-emploi.fr (edito)",
+        "metric": 1
+      },
+      {
+        "site": "www.pole-emploi.fr/faq",
+        "groupe": "pole-emploi.fr (edito)",
+        "metric": 1
+      }
+    ],
+    "outgoing": [
+      {
+        "site": "candidat.francetravail.fr/Autres",
+        "groupe": "autres"
+      },
+      {
+        "site": "candidat.francetravail.fr/Recherche-formations",
+        "groupe": "autres"
+      },
+      {
+        "site": "candidat.francetravail.fr/Recherche-offres",
+        "groupe": "autres"
+      },
+      {
+        "site": "dataemploi.pole-emploi.fr",
+        "groupe": "pole-emploi.fr"
+      },
+      {
+        "site": "emplois2024.fr",
+        "groupe": "autres"
+      },
+      {
+        "site": "entreprise.francetravail.fr/Accueil",
+        "groupe": "autres"
+      },
+      {
+        "site": "entreprise.francetravail.fr/Autres",
+        "groupe": "autres"
+      },
+      {
+        "site": "francetravail.io",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.actuformation.pole-emploi.org",
+        "groupe": "pole-emploi.org"
+      },
+      {
+        "site": "www.francetravail.fr/actualite",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/annuaire",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/autres",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/candidat",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/employeur",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/faq",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/informations",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/international",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/region",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/spectacle",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/tv",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.org",
+        "groupe": "francetravail.org"
+      },
+      {
+        "site": "www.guso.fr",
+        "groupe": "autres"
+      }
+    ]
+  },
+  {
+    "name": "www.francetravail.fr/actualite",
+    "groupe": "autres",
+    "rank": 4.9,
+    "pages": 937,
+    "trafic": 197145,
+    "nbin": 50,
+    "nbout": 19,
+    "imports": [
+      {
+        "site": "candidat.francetravail.fr/Autres",
+        "groupe": "autres",
+        "metric": 833
+      },
+      {
+        "site": "candidat.francetravail.fr/MetierScope",
+        "groupe": "autres",
+        "metric": 833
+      },
+      {
+        "site": "candidat.francetravail.fr/Recherche-formations",
+        "groupe": "autres",
+        "metric": 833
+      },
+      {
+        "site": "candidat.francetravail.fr/Recherche-offres",
+        "groupe": "autres",
+        "metric": 833
+      },
+      {
+        "site": "candidat.pole-emploi.fr/MetierScope",
+        "groupe": "pole-emploi.fr",
+        "metric": 6
+      },
+      {
+        "site": "candidat.pole-emploi.fr/Recherche-formations",
+        "groupe": "pole-emploi.fr",
+        "metric": 45
+      },
+      {
+        "site": "candidat.pole-emploi.fr/Recherche-offres",
+        "groupe": "pole-emploi.fr",
+        "metric": 51
+      },
+      {
+        "site": "dataemploi.pole-emploi.fr",
+        "groupe": "pole-emploi.fr",
+        "metric": 833
+      },
+      {
+        "site": "emplois2024.fr",
+        "groupe": "autres",
+        "metric": 833
+      },
+      {
+        "site": "entreprise.francetravail.fr/Accueil",
+        "groupe": "autres",
+        "metric": 833
+      },
+      {
+        "site": "entreprise.francetravail.fr/Autres",
+        "groupe": "autres",
+        "metric": 1
+      },
+      {
+        "site": "entreprise.pole-emploi.fr/Accueil",
+        "groupe": "pole-emploi.fr",
+        "metric": 2
+      },
+      {
+        "site": "entreprise.pole-emploi.fr/Autres",
+        "groupe": "pole-emploi.fr",
+        "metric": 1
+      },
+      {
+        "site": "labonneboite.pole-emploi.fr",
+        "groupe": "pole-emploi.fr (startup)",
+        "metric": 1
+      },
+      {
+        "site": "lesclubs-sportifs-engages.francetravail.fr",
+        "groupe": "francetravail.fr",
+        "metric": 4
+      },
+      {
+        "site": "mes-aides.francetravail.fr",
+        "groupe": "francetravail.fr",
+        "metric": 1
+      },
+      {
+        "site": "mes-aides.pole-emploi.fr",
+        "groupe": "pole-emploi.fr (startup)",
+        "metric": 2
+      },
+      {
+        "site": "mesevenementsemploi.francetravail.fr",
+        "groupe": "francetravail.fr",
+        "metric": 833
+      },
+      {
+        "site": "mesevenementsemploi.pole-emploi.fr",
+        "groupe": "pole-emploi.fr (startup)",
+        "metric": 7
+      },
+      {
+        "site": "messervices.pole-emploi.fr",
+        "groupe": "pole-emploi.fr",
+        "metric": 6
+      },
+      {
+        "site": "monallocation.pole-emploi.fr",
+        "groupe": "pole-emploi.fr",
+        "metric": 1
+      },
+      {
+        "site": "recrute.francetravail.fr",
+        "groupe": "francetravail.fr",
+        "metric": 833
+      },
+      {
+        "site": "recrute.pole-emploi.fr",
+        "groupe": "pole-emploi.fr",
+        "metric": 2
+      },
+      {
+        "site": "recrute.pole-emploi.org",
+        "groupe": "pole-emploi.org",
+        "metric": 833
+      },
+      {
+        "site": "salonenligne.francetravail.fr",
+        "groupe": "francetravail.fr",
+        "metric": 833
+      },
+      {
+        "site": "salonenligne.pole-emploi.fr",
+        "groupe": "pole-emploi.fr",
+        "metric": 3
+      },
+      {
+        "site": "www.emploi-store.fr",
+        "groupe": "emploi-store.fr",
+        "metric": 833
+      },
+      {
+        "site": "www.emploiparlonsnet.pole-emploi.org",
+        "groupe": "pole-emploi.org",
+        "metric": 4
+      },
+      {
+        "site": "www.francetravail.fr/accueil",
+        "groupe": "autres",
+        "metric": 888
+      },
+      {
+        "site": "www.francetravail.fr/actualite",
+        "groupe": "autres",
+        "metric": 833
+      },
+      {
+        "site": "www.francetravail.fr/annuaire",
+        "groupe": "autres",
+        "metric": 833
+      },
+      {
+        "site": "www.francetravail.fr/autres",
+        "groupe": "autres",
+        "metric": 888
+      },
+      {
+        "site": "www.francetravail.fr/candidat",
+        "groupe": "autres",
+        "metric": 833
+      },
+      {
+        "site": "www.francetravail.fr/employeur",
+        "groupe": "autres",
+        "metric": 833
+      },
+      {
+        "site": "www.francetravail.fr/faq",
+        "groupe": "autres",
+        "metric": 833
+      },
+      {
+        "site": "www.francetravail.fr/informations",
+        "groupe": "autres",
+        "metric": 833
+      },
+      {
+        "site": "www.francetravail.fr/international",
+        "groupe": "autres",
+        "metric": 833
+      },
+      {
+        "site": "www.francetravail.fr/region",
+        "groupe": "autres",
+        "metric": 833
+      },
+      {
+        "site": "www.francetravail.fr/spectacle",
+        "groupe": "autres",
+        "metric": 833
+      },
+      {
+        "site": "www.francetravail.org",
+        "groupe": "francetravail.org",
+        "metric": 833
+      },
+      {
+        "site": "www.pole-emploi.fr/accueil",
+        "groupe": "pole-emploi.fr (edito)",
+        "metric": 1
+      },
+      {
+        "site": "www.pole-emploi.fr/actualite",
+        "groupe": "pole-emploi.fr (edito)",
+        "metric": 72
+      },
+      {
+        "site": "www.pole-emploi.fr/autres",
+        "groupe": "pole-emploi.fr (edito)",
+        "metric": 5
+      },
+      {
+        "site": "www.pole-emploi.fr/candidat",
+        "groupe": "pole-emploi.fr (edito)",
+        "metric": 28
+      },
+      {
+        "site": "www.pole-emploi.fr/employeur",
+        "groupe": "pole-emploi.fr (edito)",
+        "metric": 6
+      },
+      {
+        "site": "www.pole-emploi.fr/faq",
+        "groupe": "pole-emploi.fr (edito)",
+        "metric": 1
+      },
+      {
+        "site": "www.pole-emploi.fr/international",
+        "groupe": "pole-emploi.fr (edito)",
+        "metric": 1
+      },
+      {
+        "site": "www.pole-emploi.fr/region",
+        "groupe": "pole-emploi.fr (edito)",
+        "metric": 12
+      },
+      {
+        "site": "www.pole-emploi.fr/spectacle",
+        "groupe": "pole-emploi.fr (edito)",
+        "metric": 1
+      },
+      {
+        "site": "www.pole-emploi.org",
+        "groupe": "pole-emploi.org",
+        "metric": 28
+      }
+    ],
+    "outgoing": [
+      {
+        "site": "candidat.francetravail.fr/Autres",
+        "groupe": "autres"
+      },
+      {
+        "site": "candidat.francetravail.fr/Recherche-formations",
+        "groupe": "autres"
+      },
+      {
+        "site": "candidat.francetravail.fr/Recherche-offres",
+        "groupe": "autres"
+      },
+      {
+        "site": "emplois2024.fr",
+        "groupe": "autres"
+      },
+      {
+        "site": "entreprise.francetravail.fr/Accueil",
+        "groupe": "autres"
+      },
+      {
+        "site": "entreprise.francetravail.fr/Autres",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/accueil",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/actualite",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/annuaire",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/autres",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/candidat",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/employeur",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/faq",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/informations",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/international",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/region",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/spectacle",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/tv",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.org",
+        "groupe": "francetravail.org"
+      }
+    ]
+  },
+  {
+    "name": "www.francetravail.fr/annuaire",
+    "groupe": "autres",
+    "rank": 0.6,
+    "pages": 984,
+    "trafic": 287099,
+    "nbin": 24,
+    "nbout": 17,
+    "imports": [
+      {
+        "site": "candidat.francetravail.fr/Autres",
+        "groupe": "autres",
+        "metric": 889
+      },
+      {
+        "site": "candidat.francetravail.fr/MetierScope",
+        "groupe": "autres",
+        "metric": 889
+      },
+      {
+        "site": "candidat.francetravail.fr/Recherche-formations",
+        "groupe": "autres",
+        "metric": 889
+      },
+      {
+        "site": "candidat.francetravail.fr/Recherche-offres",
+        "groupe": "autres",
+        "metric": 889
+      },
+      {
+        "site": "dataemploi.pole-emploi.fr",
+        "groupe": "pole-emploi.fr",
+        "metric": 889
+      },
+      {
+        "site": "emplois2024.fr",
+        "groupe": "autres",
+        "metric": 889
+      },
+      {
+        "site": "entreprise.francetravail.fr/Accueil",
+        "groupe": "autres",
+        "metric": 889
+      },
+      {
+        "site": "mesevenementsemploi.francetravail.fr",
+        "groupe": "francetravail.fr",
+        "metric": 889
+      },
+      {
+        "site": "recrute.francetravail.fr",
+        "groupe": "francetravail.fr",
+        "metric": 889
+      },
+      {
+        "site": "recrute.pole-emploi.org",
+        "groupe": "pole-emploi.org",
+        "metric": 889
+      },
+      {
+        "site": "salonenligne.francetravail.fr",
+        "groupe": "francetravail.fr",
+        "metric": 889
+      },
+      {
+        "site": "www.emploi-store.fr",
+        "groupe": "emploi-store.fr",
+        "metric": 889
+      },
+      {
+        "site": "www.francetravail.fr/accueil",
+        "groupe": "autres",
+        "metric": 890
+      },
+      {
+        "site": "www.francetravail.fr/actualite",
+        "groupe": "autres",
+        "metric": 889
+      },
+      {
+        "site": "www.francetravail.fr/annuaire",
+        "groupe": "autres",
+        "metric": 889
+      },
+      {
+        "site": "www.francetravail.fr/autres",
+        "groupe": "autres",
+        "metric": 890
+      },
+      {
+        "site": "www.francetravail.fr/candidat",
+        "groupe": "autres",
+        "metric": 889
+      },
+      {
+        "site": "www.francetravail.fr/employeur",
+        "groupe": "autres",
+        "metric": 889
+      },
+      {
+        "site": "www.francetravail.fr/faq",
+        "groupe": "autres",
+        "metric": 889
+      },
+      {
+        "site": "www.francetravail.fr/informations",
+        "groupe": "autres",
+        "metric": 889
+      },
+      {
+        "site": "www.francetravail.fr/international",
+        "groupe": "autres",
+        "metric": 889
+      },
+      {
+        "site": "www.francetravail.fr/region",
+        "groupe": "autres",
+        "metric": 889
+      },
+      {
+        "site": "www.francetravail.fr/spectacle",
+        "groupe": "autres",
+        "metric": 889
+      },
+      {
+        "site": "www.francetravail.org",
+        "groupe": "francetravail.org",
+        "metric": 889
+      }
+    ],
+    "outgoing": [
+      {
+        "site": "candidat.francetravail.fr/Autres",
+        "groupe": "autres"
+      },
+      {
+        "site": "candidat.francetravail.fr/Recherche-formations",
+        "groupe": "autres"
+      },
+      {
+        "site": "candidat.francetravail.fr/Recherche-offres",
+        "groupe": "autres"
+      },
+      {
+        "site": "entreprise.francetravail.fr/Accueil",
+        "groupe": "autres"
+      },
+      {
+        "site": "entreprise.francetravail.fr/Autres",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/accueil",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/actualite",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/annuaire",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/autres",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/candidat",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/employeur",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/faq",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/informations",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/international",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/region",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/spectacle",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/tv",
+        "groupe": "autres"
+      }
+    ]
+  },
+  {
+    "name": "www.francetravail.fr/autres",
+    "groupe": "autres",
+    "rank": 1.6,
+    "pages": 582,
+    "trafic": 95402,
+    "nbin": 25,
+    "nbout": 20,
+    "imports": [
+      {
+        "site": "candidat.francetravail.fr/Autres",
+        "groupe": "autres",
+        "metric": 2
+      },
+      {
+        "site": "candidat.francetravail.fr/MetierScope",
+        "groupe": "autres",
+        "metric": 2
+      },
+      {
+        "site": "candidat.francetravail.fr/Recherche-formations",
+        "groupe": "autres",
+        "metric": 2
+      },
+      {
+        "site": "candidat.francetravail.fr/Recherche-offres",
+        "groupe": "autres",
+        "metric": 2
+      },
+      {
+        "site": "dataemploi.pole-emploi.fr",
+        "groupe": "pole-emploi.fr",
+        "metric": 2
+      },
+      {
+        "site": "emplois2024.fr",
+        "groupe": "autres",
+        "metric": 2
+      },
+      {
+        "site": "entreprise.francetravail.fr/Accueil",
+        "groupe": "autres",
+        "metric": 2
+      },
+      {
+        "site": "mesevenementsemploi.francetravail.fr",
+        "groupe": "francetravail.fr",
+        "metric": 2
+      },
+      {
+        "site": "recrute.francetravail.fr",
+        "groupe": "francetravail.fr",
+        "metric": 2
+      },
+      {
+        "site": "recrute.pole-emploi.org",
+        "groupe": "pole-emploi.org",
+        "metric": 2
+      },
+      {
+        "site": "salonenligne.francetravail.fr",
+        "groupe": "francetravail.fr",
+        "metric": 2
+      },
+      {
+        "site": "www.emploi-store.fr",
+        "groupe": "emploi-store.fr",
+        "metric": 2
+      },
+      {
+        "site": "www.francetravail.fr/accueil",
+        "groupe": "autres",
+        "metric": 3
+      },
+      {
+        "site": "www.francetravail.fr/actualite",
+        "groupe": "autres",
+        "metric": 2
+      },
+      {
+        "site": "www.francetravail.fr/annuaire",
+        "groupe": "autres",
+        "metric": 2
+      },
+      {
+        "site": "www.francetravail.fr/autres",
+        "groupe": "autres",
+        "metric": 24
+      },
+      {
+        "site": "www.francetravail.fr/candidat",
+        "groupe": "autres",
+        "metric": 2
+      },
+      {
+        "site": "www.francetravail.fr/employeur",
+        "groupe": "autres",
+        "metric": 2
+      },
+      {
+        "site": "www.francetravail.fr/faq",
+        "groupe": "autres",
+        "metric": 2
+      },
+      {
+        "site": "www.francetravail.fr/informations",
+        "groupe": "autres",
+        "metric": 2
+      },
+      {
+        "site": "www.francetravail.fr/international",
+        "groupe": "autres",
+        "metric": 2
+      },
+      {
+        "site": "www.francetravail.fr/region",
+        "groupe": "autres",
+        "metric": 2
+      },
+      {
+        "site": "www.francetravail.fr/spectacle",
+        "groupe": "autres",
+        "metric": 2
+      },
+      {
+        "site": "www.francetravail.org",
+        "groupe": "francetravail.org",
+        "metric": 2
+      },
+      {
+        "site": "www.pole-emploi.fr/candidat",
+        "groupe": "pole-emploi.fr (edito)",
+        "metric": 2
+      }
+    ],
+    "outgoing": [
+      {
+        "site": "candidat.francetravail.fr/Autres",
+        "groupe": "autres"
+      },
+      {
+        "site": "candidat.francetravail.fr/Recherche-formations",
+        "groupe": "autres"
+      },
+      {
+        "site": "candidat.francetravail.fr/Recherche-offres",
+        "groupe": "autres"
+      },
+      {
+        "site": "entreprise.francetravail.fr/Autres",
+        "groupe": "autres"
+      },
+      {
+        "site": "francetravail.io",
+        "groupe": "autres"
+      },
+      {
+        "site": "labonneboite.francetravail.fr",
+        "groupe": "francetravail.fr"
+      },
+      {
+        "site": "recrute.francetravail.fr",
+        "groupe": "francetravail.fr"
+      },
+      {
+        "site": "www.actuformation.pole-emploi.org",
+        "groupe": "pole-emploi.org"
+      },
+      {
+        "site": "www.francetravail.fr/actualite",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/annuaire",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/autres",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/candidat",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/employeur",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/faq",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/informations",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/international",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/region",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/spectacle",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/tv",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.org",
+        "groupe": "francetravail.org"
+      }
+    ]
+  },
+  {
+    "name": "www.francetravail.fr/candidat",
+    "groupe": "autres",
+    "rank": 11.5,
+    "pages": 571,
+    "trafic": 1108108,
+    "nbin": 49,
+    "nbout": 21,
+    "imports": [
+      {
+        "site": "autres-sites",
+        "groupe": "autres",
+        "metric": 6
+      },
+      {
+        "site": "candidat.francetravail.fr/Autres",
+        "groupe": "autres",
+        "metric": 492
+      },
+      {
+        "site": "candidat.francetravail.fr/MetierScope",
+        "groupe": "autres",
+        "metric": 492
+      },
+      {
+        "site": "candidat.francetravail.fr/Mobiville",
+        "groupe": "autres",
+        "metric": 1
+      },
+      {
+        "site": "candidat.francetravail.fr/Recherche-formations",
+        "groupe": "autres",
+        "metric": 492
+      },
+      {
+        "site": "candidat.francetravail.fr/Recherche-offres",
+        "groupe": "autres",
+        "metric": 492
+      },
+      {
+        "site": "candidat.pole-emploi.fr/Autres",
+        "groupe": "pole-emploi.fr",
+        "metric": 5
+      },
+      {
+        "site": "candidat.pole-emploi.fr/MetierScope",
+        "groupe": "pole-emploi.fr",
+        "metric": 6
+      },
+      {
+        "site": "candidat.pole-emploi.fr/Recherche-formations",
+        "groupe": "pole-emploi.fr",
+        "metric": 3
+      },
+      {
+        "site": "candidat.pole-emploi.fr/Recherche-offres",
+        "groupe": "pole-emploi.fr",
+        "metric": 2
+      },
+      {
+        "site": "chomage-independant.fr",
+        "groupe": "autres",
+        "metric": 1
+      },
+      {
+        "site": "dataemploi.pole-emploi.fr",
+        "groupe": "pole-emploi.fr",
+        "metric": 492
+      },
+      {
+        "site": "emplois2024.fr",
+        "groupe": "autres",
+        "metric": 492
+      },
+      {
+        "site": "entreprise.francetravail.fr/Accueil",
+        "groupe": "autres",
+        "metric": 492
+      },
+      {
+        "site": "entreprise.pole-emploi.fr/Autres",
+        "groupe": "pole-emploi.fr",
+        "metric": 1
+      },
+      {
+        "site": "labonneboite.pole-emploi.fr",
+        "groupe": "pole-emploi.fr (startup)",
+        "metric": 11
+      },
+      {
+        "site": "mes-aides.francetravail.fr",
+        "groupe": "francetravail.fr",
+        "metric": 1
+      },
+      {
+        "site": "mes-aides.pole-emploi.fr",
+        "groupe": "pole-emploi.fr (startup)",
+        "metric": 3
+      },
+      {
+        "site": "mesevenementsemploi.francetravail.fr",
+        "groupe": "francetravail.fr",
+        "metric": 492
+      },
+      {
+        "site": "mesevenementsemploi.pole-emploi.fr",
+        "groupe": "pole-emploi.fr (startup)",
+        "metric": 11
+      },
+      {
+        "site": "messervices.pole-emploi.fr",
+        "groupe": "pole-emploi.fr",
+        "metric": 30
+      },
+      {
+        "site": "monallocation.pole-emploi.fr",
+        "groupe": "pole-emploi.fr",
+        "metric": 5
+      },
+      {
+        "site": "recrute.francetravail.fr",
+        "groupe": "francetravail.fr",
+        "metric": 492
+      },
+      {
+        "site": "recrute.pole-emploi.org",
+        "groupe": "pole-emploi.org",
+        "metric": 492
+      },
+      {
+        "site": "salonenligne.francetravail.fr",
+        "groupe": "francetravail.fr",
+        "metric": 492
+      },
+      {
+        "site": "salonenligne.pole-emploi.fr",
+        "groupe": "pole-emploi.fr",
+        "metric": 8
+      },
+      {
+        "site": "www.emploi-store.fr",
+        "groupe": "emploi-store.fr",
+        "metric": 492
+      },
+      {
+        "site": "www.francetravail.fr/accueil",
+        "groupe": "autres",
+        "metric": 526
+      },
+      {
+        "site": "www.francetravail.fr/actualite",
+        "groupe": "autres",
+        "metric": 492
+      },
+      {
+        "site": "www.francetravail.fr/annuaire",
+        "groupe": "autres",
+        "metric": 492
+      },
+      {
+        "site": "www.francetravail.fr/autres",
+        "groupe": "autres",
+        "metric": 526
+      },
+      {
+        "site": "www.francetravail.fr/candidat",
+        "groupe": "autres",
+        "metric": 492
+      },
+      {
+        "site": "www.francetravail.fr/employeur",
+        "groupe": "autres",
+        "metric": 492
+      },
+      {
+        "site": "www.francetravail.fr/faq",
+        "groupe": "autres",
+        "metric": 492
+      },
+      {
+        "site": "www.francetravail.fr/informations",
+        "groupe": "autres",
+        "metric": 492
+      },
+      {
+        "site": "www.francetravail.fr/international",
+        "groupe": "autres",
+        "metric": 492
+      },
+      {
+        "site": "www.francetravail.fr/region",
+        "groupe": "autres",
+        "metric": 492
+      },
+      {
+        "site": "www.francetravail.fr/spectacle",
+        "groupe": "autres",
+        "metric": 492
+      },
+      {
+        "site": "www.francetravail.org",
+        "groupe": "francetravail.org",
+        "metric": 492
+      },
+      {
+        "site": "www.pole-emploi.fr/accueil",
+        "groupe": "pole-emploi.fr (edito)",
+        "metric": 1
+      },
+      {
+        "site": "www.pole-emploi.fr/actualite",
+        "groupe": "pole-emploi.fr (edito)",
+        "metric": 10
+      },
+      {
+        "site": "www.pole-emploi.fr/autres",
+        "groupe": "pole-emploi.fr (edito)",
+        "metric": 3
+      },
+      {
+        "site": "www.pole-emploi.fr/candidat",
+        "groupe": "pole-emploi.fr (edito)",
+        "metric": 52
+      },
+      {
+        "site": "www.pole-emploi.fr/employeur",
+        "groupe": "pole-emploi.fr (edito)",
+        "metric": 3
+      },
+      {
+        "site": "www.pole-emploi.fr/informations",
+        "groupe": "pole-emploi.fr (edito)",
+        "metric": 3
+      },
+      {
+        "site": "www.pole-emploi.fr/international",
+        "groupe": "pole-emploi.fr (edito)",
+        "metric": 1
+      },
+      {
+        "site": "www.pole-emploi.fr/region",
+        "groupe": "pole-emploi.fr (edito)",
+        "metric": 3
+      },
+      {
+        "site": "www.pole-emploi.fr/spectacle",
+        "groupe": "pole-emploi.fr (edito)",
+        "metric": 2
+      },
+      {
+        "site": "www.pole-emploi.org",
+        "groupe": "pole-emploi.org",
+        "metric": 10
+      }
+    ],
+    "outgoing": [
+      {
+        "site": "candidat.francetravail.fr/Autres",
+        "groupe": "autres"
+      },
+      {
+        "site": "candidat.francetravail.fr/Recherche-formations",
+        "groupe": "autres"
+      },
+      {
+        "site": "candidat.francetravail.fr/Recherche-offres",
+        "groupe": "autres"
+      },
+      {
+        "site": "emplois2024.fr",
+        "groupe": "autres"
+      },
+      {
+        "site": "entreprise.francetravail.fr/Accueil",
+        "groupe": "autres"
+      },
+      {
+        "site": "entreprise.francetravail.fr/Autres",
+        "groupe": "autres"
+      },
+      {
+        "site": "francetravail.io",
+        "groupe": "autres"
+      },
+      {
+        "site": "mes-aides.francetravail.fr",
+        "groupe": "francetravail.fr"
+      },
+      {
+        "site": "www.francetravail.fr/accueil",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/actualite",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/annuaire",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/autres",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/candidat",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/employeur",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/faq",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/informations",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/international",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/region",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/spectacle",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/tv",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.org",
+        "groupe": "francetravail.org"
+      }
+    ]
+  },
+  {
+    "name": "www.francetravail.fr/employeur",
+    "groupe": "autres",
+    "rank": 3.1,
+    "pages": 321,
+    "trafic": 102371,
+    "nbin": 39,
+    "nbout": 20,
+    "imports": [
+      {
+        "site": "autres-sites",
+        "groupe": "autres",
+        "metric": 1
+      },
+      {
+        "site": "candidat.francetravail.fr/Autres",
+        "groupe": "autres",
+        "metric": 252
+      },
+      {
+        "site": "candidat.francetravail.fr/MetierScope",
+        "groupe": "autres",
+        "metric": 252
+      },
+      {
+        "site": "candidat.francetravail.fr/Recherche-offres",
+        "groupe": "autres",
+        "metric": 2
+      },
+      {
+        "site": "dataemploi.pole-emploi.fr",
+        "groupe": "pole-emploi.fr",
+        "metric": 252
+      },
+      {
+        "site": "emplois2024.fr",
+        "groupe": "autres",
+        "metric": 252
+      },
+      {
+        "site": "entreprise.francetravail.fr/Accueil",
+        "groupe": "autres",
+        "metric": 252
+      },
+      {
+        "site": "entreprise.francetravail.fr/Autres",
+        "groupe": "autres",
+        "metric": 15
+      },
+      {
+        "site": "entreprise.pole-emploi.fr/Accueil",
+        "groupe": "pole-emploi.fr",
+        "metric": 22
+      },
+      {
+        "site": "entreprise.pole-emploi.fr/Autres",
+        "groupe": "pole-emploi.fr",
+        "metric": 9
+      },
+      {
+        "site": "gestion.francetravail.fr",
+        "groupe": "francetravail.fr",
+        "metric": 3
+      },
+      {
+        "site": "gestion.pole-emploi.fr",
+        "groupe": "pole-emploi.fr",
+        "metric": 2
+      },
+      {
+        "site": "mesevenementsemploi.francetravail.fr",
+        "groupe": "francetravail.fr",
+        "metric": 252
+      },
+      {
+        "site": "mesevenementsemploi.pole-emploi.fr",
+        "groupe": "pole-emploi.fr (startup)",
+        "metric": 1
+      },
+      {
+        "site": "pole-emploi.io",
+        "groupe": "autres",
+        "metric": 1
+      },
+      {
+        "site": "recrute.francetravail.fr",
+        "groupe": "francetravail.fr",
+        "metric": 252
+      },
+      {
+        "site": "salonenligne.francetravail.fr",
+        "groupe": "francetravail.fr",
+        "metric": 252
+      },
+      {
+        "site": "salonenligne.pole-emploi.fr",
+        "groupe": "pole-emploi.fr",
+        "metric": 1
+      },
+      {
+        "site": "www.emploi-store.fr",
+        "groupe": "emploi-store.fr",
+        "metric": 252
+      },
+      {
+        "site": "www.emploiparlonsnet.pole-emploi.org",
+        "groupe": "pole-emploi.org",
+        "metric": 1
+      },
+      {
+        "site": "www.francetravail.fr/accueil",
+        "groupe": "autres",
+        "metric": 290
+      },
+      {
+        "site": "www.francetravail.fr/actualite",
+        "groupe": "autres",
+        "metric": 252
+      },
+      {
+        "site": "www.francetravail.fr/annuaire",
+        "groupe": "autres",
+        "metric": 252
+      },
+      {
+        "site": "www.francetravail.fr/autres",
+        "groupe": "autres",
+        "metric": 290
+      },
+      {
+        "site": "www.francetravail.fr/candidat",
+        "groupe": "autres",
+        "metric": 252
+      },
+      {
+        "site": "www.francetravail.fr/employeur",
+        "groupe": "autres",
+        "metric": 252
+      },
+      {
+        "site": "www.francetravail.fr/faq",
+        "groupe": "autres",
+        "metric": 252
+      },
+      {
+        "site": "www.francetravail.fr/informations",
+        "groupe": "autres",
+        "metric": 252
+      },
+      {
+        "site": "www.francetravail.fr/international",
+        "groupe": "autres",
+        "metric": 252
+      },
+      {
+        "site": "www.francetravail.fr/region",
+        "groupe": "autres",
+        "metric": 252
+      },
+      {
+        "site": "www.francetravail.fr/spectacle",
+        "groupe": "autres",
+        "metric": 252
+      },
+      {
+        "site": "www.francetravail.org",
+        "groupe": "francetravail.org",
+        "metric": 252
+      },
+      {
+        "site": "www.guso.fr",
+        "groupe": "autres",
+        "metric": 2
+      },
+      {
+        "site": "www.pole-emploi.fr/actualite",
+        "groupe": "pole-emploi.fr (edito)",
+        "metric": 2
+      },
+      {
+        "site": "www.pole-emploi.fr/autres",
+        "groupe": "pole-emploi.fr (edito)",
+        "metric": 1
+      },
+      {
+        "site": "www.pole-emploi.fr/candidat",
+        "groupe": "pole-emploi.fr (edito)",
+        "metric": 4
+      },
+      {
+        "site": "www.pole-emploi.fr/employeur",
+        "groupe": "pole-emploi.fr (edito)",
+        "metric": 14
+      },
+      {
+        "site": "www.pole-emploi.fr/region",
+        "groupe": "pole-emploi.fr (edito)",
+        "metric": 3
+      },
+      {
+        "site": "www.pole-emploi.org",
+        "groupe": "pole-emploi.org",
+        "metric": 21
+      }
+    ],
+    "outgoing": [
+      {
+        "site": "candidat.francetravail.fr/Autres",
+        "groupe": "autres"
+      },
+      {
+        "site": "candidat.francetravail.fr/Recherche-formations",
+        "groupe": "autres"
+      },
+      {
+        "site": "candidat.francetravail.fr/Recherche-offres",
+        "groupe": "autres"
+      },
+      {
+        "site": "dataemploi.pole-emploi.fr",
+        "groupe": "pole-emploi.fr"
+      },
+      {
+        "site": "entreprise.francetravail.fr/Accueil",
+        "groupe": "autres"
+      },
+      {
+        "site": "entreprise.francetravail.fr/Autres",
+        "groupe": "autres"
+      },
+      {
+        "site": "francetravail.io",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/accueil",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/actualite",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/annuaire",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/autres",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/candidat",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/employeur",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/faq",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/informations",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/international",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/region",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/spectacle",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/tv",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.org",
+        "groupe": "francetravail.org"
+      }
+    ]
+  },
+  {
+    "name": "www.francetravail.fr/faq",
+    "groupe": "autres",
+    "rank": 1.0,
+    "pages": 262,
+    "trafic": 31968,
+    "nbin": 29,
+    "nbout": 17,
+    "imports": [
+      {
+        "site": "autres-sites",
+        "groupe": "autres",
+        "metric": 2
+      },
+      {
+        "site": "candidat.francetravail.fr/Autres",
+        "groupe": "autres",
+        "metric": 255
+      },
+      {
+        "site": "candidat.francetravail.fr/MetierScope",
+        "groupe": "autres",
+        "metric": 255
+      },
+      {
+        "site": "candidat.francetravail.fr/Recherche-formations",
+        "groupe": "autres",
+        "metric": 255
+      },
+      {
+        "site": "candidat.francetravail.fr/Recherche-offres",
+        "groupe": "autres",
+        "metric": 255
+      },
+      {
+        "site": "dataemploi.pole-emploi.fr",
+        "groupe": "pole-emploi.fr",
+        "metric": 255
+      },
+      {
+        "site": "emplois2024.fr",
+        "groupe": "autres",
+        "metric": 255
+      },
+      {
+        "site": "entreprise.francetravail.fr/Accueil",
+        "groupe": "autres",
+        "metric": 255
+      },
+      {
+        "site": "entreprise.francetravail.fr/Autres",
+        "groupe": "autres",
+        "metric": 5
+      },
+      {
+        "site": "gestion.francetravail.fr",
+        "groupe": "francetravail.fr",
+        "metric": 5
+      },
+      {
+        "site": "mesevenementsemploi.francetravail.fr",
+        "groupe": "francetravail.fr",
+        "metric": 255
+      },
+      {
+        "site": "messervices.pole-emploi.fr",
+        "groupe": "pole-emploi.fr",
+        "metric": 2
+      },
+      {
+        "site": "recrute.francetravail.fr",
+        "groupe": "francetravail.fr",
+        "metric": 255
+      },
+      {
+        "site": "recrute.pole-emploi.org",
+        "groupe": "pole-emploi.org",
+        "metric": 6
+      },
+      {
+        "site": "salonenligne.francetravail.fr",
+        "groupe": "francetravail.fr",
+        "metric": 255
+      },
+      {
+        "site": "www.emploi-store.fr",
+        "groupe": "emploi-store.fr",
+        "metric": 255
+      },
+      {
+        "site": "www.francetravail.fr/accueil",
+        "groupe": "autres",
+        "metric": 261
+      },
+      {
+        "site": "www.francetravail.fr/actualite",
+        "groupe": "autres",
+        "metric": 255
+      },
+      {
+        "site": "www.francetravail.fr/annuaire",
+        "groupe": "autres",
+        "metric": 255
+      },
+      {
+        "site": "www.francetravail.fr/autres",
+        "groupe": "autres",
+        "metric": 261
+      },
+      {
+        "site": "www.francetravail.fr/candidat",
+        "groupe": "autres",
+        "metric": 255
+      },
+      {
+        "site": "www.francetravail.fr/employeur",
+        "groupe": "autres",
+        "metric": 255
+      },
+      {
+        "site": "www.francetravail.fr/faq",
+        "groupe": "autres",
+        "metric": 255
+      },
+      {
+        "site": "www.francetravail.fr/informations",
+        "groupe": "autres",
+        "metric": 255
+      },
+      {
+        "site": "www.francetravail.fr/international",
+        "groupe": "autres",
+        "metric": 255
+      },
+      {
+        "site": "www.francetravail.fr/region",
+        "groupe": "autres",
+        "metric": 255
+      },
+      {
+        "site": "www.francetravail.fr/spectacle",
+        "groupe": "autres",
+        "metric": 255
+      },
+      {
+        "site": "www.francetravail.org",
+        "groupe": "francetravail.org",
+        "metric": 255
+      },
+      {
+        "site": "www.guso.fr",
+        "groupe": "autres",
+        "metric": 5
+      }
+    ],
+    "outgoing": [
+      {
+        "site": "candidat.francetravail.fr/Autres",
+        "groupe": "autres"
+      },
+      {
+        "site": "candidat.francetravail.fr/Recherche-formations",
+        "groupe": "autres"
+      },
+      {
+        "site": "candidat.francetravail.fr/Recherche-offres",
+        "groupe": "autres"
+      },
+      {
+        "site": "entreprise.francetravail.fr/Accueil",
+        "groupe": "autres"
+      },
+      {
+        "site": "entreprise.francetravail.fr/Autres",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/accueil",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/actualite",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/annuaire",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/autres",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/candidat",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/employeur",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/faq",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/informations",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/international",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/region",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/spectacle",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/tv",
+        "groupe": "autres"
+      }
+    ]
+  },
+  {
+    "name": "www.francetravail.fr/informations",
+    "groupe": "autres",
+    "rank": 3.4,
+    "pages": 43,
+    "trafic": 5124,
+    "nbin": 30,
+    "nbout": 17,
+    "imports": [
+      {
+        "site": "candidat.francetravail.fr/Autres",
+        "groupe": "autres",
+        "metric": 31
+      },
+      {
+        "site": "candidat.francetravail.fr/MetierScope",
+        "groupe": "autres",
+        "metric": 31
+      },
+      {
+        "site": "candidat.francetravail.fr/Recherche-formations",
+        "groupe": "autres",
+        "metric": 31
+      },
+      {
+        "site": "candidat.francetravail.fr/Recherche-offres",
+        "groupe": "autres",
+        "metric": 31
+      },
+      {
+        "site": "dataemploi.pole-emploi.fr",
+        "groupe": "pole-emploi.fr",
+        "metric": 31
+      },
+      {
+        "site": "emplois2024.fr",
+        "groupe": "autres",
+        "metric": 31
+      },
+      {
+        "site": "entreprise.francetravail.fr/Accueil",
+        "groupe": "autres",
+        "metric": 31
+      },
+      {
+        "site": "mesevenementsemploi.francetravail.fr",
+        "groupe": "francetravail.fr",
+        "metric": 31
+      },
+      {
+        "site": "messervices.pole-emploi.fr",
+        "groupe": "pole-emploi.fr",
+        "metric": 1
+      },
+      {
+        "site": "monallocation.pole-emploi.fr",
+        "groupe": "pole-emploi.fr",
+        "metric": 3
+      },
+      {
+        "site": "recrute.francetravail.fr",
+        "groupe": "francetravail.fr",
+        "metric": 31
+      },
+      {
+        "site": "recrute.pole-emploi.org",
+        "groupe": "pole-emploi.org",
+        "metric": 31
+      },
+      {
+        "site": "salonenligne.francetravail.fr",
+        "groupe": "francetravail.fr",
+        "metric": 31
+      },
+      {
+        "site": "www.emploi-store.fr",
+        "groupe": "emploi-store.fr",
+        "metric": 31
+      },
+      {
+        "site": "www.emploiparlonsnet.pole-emploi.org",
+        "groupe": "pole-emploi.org",
+        "metric": 1
+      },
+      {
+        "site": "www.francetravail.fr/accueil",
+        "groupe": "autres",
+        "metric": 35
+      },
+      {
+        "site": "www.francetravail.fr/actualite",
+        "groupe": "autres",
+        "metric": 31
+      },
+      {
+        "site": "www.francetravail.fr/annuaire",
+        "groupe": "autres",
+        "metric": 31
+      },
+      {
+        "site": "www.francetravail.fr/autres",
+        "groupe": "autres",
+        "metric": 35
+      },
+      {
+        "site": "www.francetravail.fr/candidat",
+        "groupe": "autres",
+        "metric": 31
+      },
+      {
+        "site": "www.francetravail.fr/employeur",
+        "groupe": "autres",
+        "metric": 31
+      },
+      {
+        "site": "www.francetravail.fr/faq",
+        "groupe": "autres",
+        "metric": 31
+      },
+      {
+        "site": "www.francetravail.fr/informations",
+        "groupe": "autres",
+        "metric": 31
+      },
+      {
+        "site": "www.francetravail.fr/international",
+        "groupe": "autres",
+        "metric": 31
+      },
+      {
+        "site": "www.francetravail.fr/region",
+        "groupe": "autres",
+        "metric": 31
+      },
+      {
+        "site": "www.francetravail.fr/spectacle",
+        "groupe": "autres",
+        "metric": 31
+      },
+      {
+        "site": "www.francetravail.fr/tv",
+        "groupe": "autres",
+        "metric": 1
+      },
+      {
+        "site": "www.francetravail.org",
+        "groupe": "francetravail.org",
+        "metric": 31
+      },
+      {
+        "site": "www.pole-emploi.fr/autres",
+        "groupe": "pole-emploi.fr (edito)",
+        "metric": 2
+      },
+      {
+        "site": "www.pole-emploi.fr/candidat",
+        "groupe": "pole-emploi.fr (edito)",
+        "metric": 3
+      }
+    ],
+    "outgoing": [
+      {
+        "site": "candidat.francetravail.fr/Autres",
+        "groupe": "autres"
+      },
+      {
+        "site": "candidat.francetravail.fr/Recherche-formations",
+        "groupe": "autres"
+      },
+      {
+        "site": "candidat.francetravail.fr/Recherche-offres",
+        "groupe": "autres"
+      },
+      {
+        "site": "entreprise.francetravail.fr/Accueil",
+        "groupe": "autres"
+      },
+      {
+        "site": "entreprise.francetravail.fr/Autres",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/accueil",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/actualite",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/annuaire",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/autres",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/candidat",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/employeur",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/faq",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/informations",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/international",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/region",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/spectacle",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/tv",
+        "groupe": "autres"
+      }
+    ]
+  },
+  {
+    "name": "www.francetravail.fr/international",
+    "groupe": "autres",
+    "rank": 1.4,
+    "pages": 65,
+    "trafic": 10612,
+    "nbin": 34,
+    "nbout": 18,
+    "imports": [
+      {
+        "site": "candidat.francetravail.fr/Autres",
+        "groupe": "autres",
+        "metric": 58
+      },
+      {
+        "site": "candidat.francetravail.fr/MetierScope",
+        "groupe": "autres",
+        "metric": 58
+      },
+      {
+        "site": "candidat.francetravail.fr/Recherche-formations",
+        "groupe": "autres",
+        "metric": 58
+      },
+      {
+        "site": "candidat.francetravail.fr/Recherche-offres",
+        "groupe": "autres",
+        "metric": 58
+      },
+      {
+        "site": "candidat.pole-emploi.fr/Autres",
+        "groupe": "pole-emploi.fr",
+        "metric": 1
+      },
+      {
+        "site": "dataemploi.pole-emploi.fr",
+        "groupe": "pole-emploi.fr",
+        "metric": 58
+      },
+      {
+        "site": "emplois2024.fr",
+        "groupe": "autres",
+        "metric": 58
+      },
+      {
+        "site": "entreprise.francetravail.fr/Accueil",
+        "groupe": "autres",
+        "metric": 58
+      },
+      {
+        "site": "entreprise.francetravail.fr/Autres",
+        "groupe": "autres",
+        "metric": 2
+      },
+      {
+        "site": "entreprise.pole-emploi.fr/Autres",
+        "groupe": "pole-emploi.fr",
+        "metric": 1
+      },
+      {
+        "site": "labonneboite.pole-emploi.fr",
+        "groupe": "pole-emploi.fr (startup)",
+        "metric": 1
+      },
+      {
+        "site": "mesevenementsemploi.francetravail.fr",
+        "groupe": "francetravail.fr",
+        "metric": 58
+      },
+      {
+        "site": "messervices.pole-emploi.fr",
+        "groupe": "pole-emploi.fr",
+        "metric": 1
+      },
+      {
+        "site": "recrute.francetravail.fr",
+        "groupe": "francetravail.fr",
+        "metric": 58
+      },
+      {
+        "site": "recrute.pole-emploi.org",
+        "groupe": "pole-emploi.org",
+        "metric": 58
+      },
+      {
+        "site": "salonenligne.francetravail.fr",
+        "groupe": "francetravail.fr",
+        "metric": 58
+      },
+      {
+        "site": "salonenligne.pole-emploi.fr",
+        "groupe": "pole-emploi.fr",
+        "metric": 2
+      },
+      {
+        "site": "www.emploi-store.fr",
+        "groupe": "emploi-store.fr",
+        "metric": 58
+      },
+      {
+        "site": "www.francetravail.fr/accueil",
+        "groupe": "autres",
+        "metric": 65
+      },
+      {
+        "site": "www.francetravail.fr/actualite",
+        "groupe": "autres",
+        "metric": 58
+      },
+      {
+        "site": "www.francetravail.fr/annuaire",
+        "groupe": "autres",
+        "metric": 58
+      },
+      {
+        "site": "www.francetravail.fr/autres",
+        "groupe": "autres",
+        "metric": 65
+      },
+      {
+        "site": "www.francetravail.fr/candidat",
+        "groupe": "autres",
+        "metric": 58
+      },
+      {
+        "site": "www.francetravail.fr/employeur",
+        "groupe": "autres",
+        "metric": 58
+      },
+      {
+        "site": "www.francetravail.fr/faq",
+        "groupe": "autres",
+        "metric": 58
+      },
+      {
+        "site": "www.francetravail.fr/informations",
+        "groupe": "autres",
+        "metric": 58
+      },
+      {
+        "site": "www.francetravail.fr/international",
+        "groupe": "autres",
+        "metric": 58
+      },
+      {
+        "site": "www.francetravail.fr/region",
+        "groupe": "autres",
+        "metric": 58
+      },
+      {
+        "site": "www.francetravail.fr/spectacle",
+        "groupe": "autres",
+        "metric": 58
+      },
+      {
+        "site": "www.francetravail.org",
+        "groupe": "francetravail.org",
+        "metric": 58
+      },
+      {
+        "site": "www.pole-emploi.fr/actualite",
+        "groupe": "pole-emploi.fr (edito)",
+        "metric": 1
+      },
+      {
+        "site": "www.pole-emploi.fr/employeur",
+        "groupe": "pole-emploi.fr (edito)",
+        "metric": 1
+      },
+      {
+        "site": "www.pole-emploi.fr/international",
+        "groupe": "pole-emploi.fr (edito)",
+        "metric": 2
+      },
+      {
+        "site": "www.pole-emploi.fr/region",
+        "groupe": "pole-emploi.fr (edito)",
+        "metric": 1
+      }
+    ],
+    "outgoing": [
+      {
+        "site": "candidat.francetravail.fr/Autres",
+        "groupe": "autres"
+      },
+      {
+        "site": "candidat.francetravail.fr/Recherche-formations",
+        "groupe": "autres"
+      },
+      {
+        "site": "candidat.francetravail.fr/Recherche-offres",
+        "groupe": "autres"
+      },
+      {
+        "site": "entreprise.francetravail.fr/Accueil",
+        "groupe": "autres"
+      },
+      {
+        "site": "entreprise.francetravail.fr/Autres",
+        "groupe": "autres"
+      },
+      {
+        "site": "messervices.pole-emploi.fr",
+        "groupe": "pole-emploi.fr"
+      },
+      {
+        "site": "www.francetravail.fr/accueil",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/actualite",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/annuaire",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/autres",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/candidat",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/employeur",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/faq",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/informations",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/international",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/region",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/spectacle",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/tv",
+        "groupe": "autres"
+      }
+    ]
+  },
+  {
+    "name": "www.francetravail.fr/region",
+    "groupe": "autres",
+    "rank": 6.7,
+    "pages": 1708,
+    "trafic": 334148,
+    "nbin": 61,
+    "nbout": 19,
+    "imports": [
+      {
+        "site": "autres-sites",
+        "groupe": "autres",
+        "metric": 4
+      },
+      {
+        "site": "candidat.francetravail.fr/Autres",
+        "groupe": "autres",
+        "metric": 1586
+      },
+      {
+        "site": "candidat.francetravail.fr/MetierScope",
+        "groupe": "autres",
+        "metric": 1586
+      },
+      {
+        "site": "candidat.francetravail.fr/Recherche-formations",
+        "groupe": "autres",
+        "metric": 1587
+      },
+      {
+        "site": "candidat.francetravail.fr/Recherche-offres",
+        "groupe": "autres",
+        "metric": 1586
+      },
+      {
+        "site": "candidat.pole-emploi.fr/Autres",
+        "groupe": "pole-emploi.fr",
+        "metric": 12
+      },
+      {
+        "site": "candidat.pole-emploi.fr/MetierScope",
+        "groupe": "pole-emploi.fr",
+        "metric": 7
+      },
+      {
+        "site": "candidat.pole-emploi.fr/Recherche-formations",
+        "groupe": "pole-emploi.fr",
+        "metric": 56
+      },
+      {
+        "site": "candidat.pole-emploi.fr/Recherche-offres",
+        "groupe": "pole-emploi.fr",
+        "metric": 43
+      },
+      {
+        "site": "dataemploi.pole-emploi.fr",
+        "groupe": "pole-emploi.fr",
+        "metric": 1586
+      },
+      {
+        "site": "emplois2024.fr",
+        "groupe": "autres",
+        "metric": 1586
+      },
+      {
+        "site": "entreprise.francetravail.fr/Accueil",
+        "groupe": "autres",
+        "metric": 1587
+      },
+      {
+        "site": "entreprise.francetravail.fr/Autres",
+        "groupe": "autres",
+        "metric": 4
+      },
+      {
+        "site": "entreprise.pole-emploi.fr/Accueil",
+        "groupe": "pole-emploi.fr",
+        "metric": 38
+      },
+      {
+        "site": "entreprise.pole-emploi.fr/Autres",
+        "groupe": "pole-emploi.fr",
+        "metric": 14
+      },
+      {
+        "site": "gestion.francetravail.fr",
+        "groupe": "francetravail.fr",
+        "metric": 1
+      },
+      {
+        "site": "gestion.pole-emploi.fr",
+        "groupe": "pole-emploi.fr",
+        "metric": 1
+      },
+      {
+        "site": "labonneboite.pole-emploi.fr",
+        "groupe": "pole-emploi.fr (startup)",
+        "metric": 6
+      },
+      {
+        "site": "labonnecompetencepro.pole-emploi.fr",
+        "groupe": "pole-emploi.fr (startup)",
+        "metric": 6
+      },
+      {
+        "site": "mes-aides.francetravail.fr",
+        "groupe": "francetravail.fr",
+        "metric": 3
+      },
+      {
+        "site": "mes-aides.pole-emploi.fr",
+        "groupe": "pole-emploi.fr (startup)",
+        "metric": 7
+      },
+      {
+        "site": "mesevenementsemploi.francetravail.fr",
+        "groupe": "francetravail.fr",
+        "metric": 1587
+      },
+      {
+        "site": "mesevenementsemploi.pole-emploi.fr",
+        "groupe": "pole-emploi.fr (startup)",
+        "metric": 98
+      },
+      {
+        "site": "messervices.pole-emploi.fr",
+        "groupe": "pole-emploi.fr",
+        "metric": 14
+      },
+      {
+        "site": "monallocation.pole-emploi.fr",
+        "groupe": "pole-emploi.fr",
+        "metric": 1
+      },
+      {
+        "site": "recrute.francetravail.fr",
+        "groupe": "francetravail.fr",
+        "metric": 1586
+      },
+      {
+        "site": "recrute.pole-emploi.org",
+        "groupe": "pole-emploi.org",
+        "metric": 886
+      },
+      {
+        "site": "salonenligne.francetravail.fr",
+        "groupe": "francetravail.fr",
+        "metric": 1586
+      },
+      {
+        "site": "salonenligne.pole-emploi.fr",
+        "groupe": "pole-emploi.fr",
+        "metric": 18
+      },
+      {
+        "site": "simucalcul.pole-emploi-services.fr",
+        "groupe": "autres",
+        "metric": 1
+      },
+      {
+        "site": "simulateur2.emploi-store.fr",
+        "groupe": "emploi-store.fr",
+        "metric": 1
+      },
+      {
+        "site": "www.actuformation.pole-emploi.org",
+        "groupe": "pole-emploi.org",
+        "metric": 3
+      },
+      {
+        "site": "www.emploi-store.fr",
+        "groupe": "emploi-store.fr",
+        "metric": 1586
+      },
+      {
+        "site": "www.emploiparlonsnet.pole-emploi.org",
+        "groupe": "pole-emploi.org",
+        "metric": 1
+      },
+      {
+        "site": "www.francetravail.fr/accueil",
+        "groupe": "autres",
+        "metric": 1676
+      },
+      {
+        "site": "www.francetravail.fr/actualite",
+        "groupe": "autres",
+        "metric": 1586
+      },
+      {
+        "site": "www.francetravail.fr/annuaire",
+        "groupe": "autres",
+        "metric": 1586
+      },
+      {
+        "site": "www.francetravail.fr/autres",
+        "groupe": "autres",
+        "metric": 1676
+      },
+      {
+        "site": "www.francetravail.fr/candidat",
+        "groupe": "autres",
+        "metric": 1586
+      },
+      {
+        "site": "www.francetravail.fr/employeur",
+        "groupe": "autres",
+        "metric": 1586
+      },
+      {
+        "site": "www.francetravail.fr/faq",
+        "groupe": "autres",
+        "metric": 1586
+      },
+      {
+        "site": "www.francetravail.fr/informations",
+        "groupe": "autres",
+        "metric": 1586
+      },
+      {
+        "site": "www.francetravail.fr/international",
+        "groupe": "autres",
+        "metric": 1586
+      },
+      {
+        "site": "www.francetravail.fr/region",
+        "groupe": "autres",
+        "metric": 1587
+      },
+      {
+        "site": "www.francetravail.fr/spectacle",
+        "groupe": "autres",
+        "metric": 1586
+      },
+      {
+        "site": "www.francetravail.fr/tv",
+        "groupe": "autres",
+        "metric": 1
+      },
+      {
+        "site": "www.francetravail.org",
+        "groupe": "francetravail.org",
+        "metric": 1586
+      },
+      {
+        "site": "www.guso.fr",
+        "groupe": "autres",
+        "metric": 1
+      },
+      {
+        "site": "www.pole-emploi.fr/accueil",
+        "groupe": "pole-emploi.fr (edito)",
+        "metric": 14
+      },
+      {
+        "site": "www.pole-emploi.fr/actualite",
+        "groupe": "pole-emploi.fr (edito)",
+        "metric": 88
+      },
+      {
+        "site": "www.pole-emploi.fr/annuaire",
+        "groupe": "pole-emploi.fr (edito)",
+        "metric": 7
+      },
+      {
+        "site": "www.pole-emploi.fr/autres",
+        "groupe": "pole-emploi.fr (edito)",
+        "metric": 31
+      },
+      {
+        "site": "www.pole-emploi.fr/candidat",
+        "groupe": "pole-emploi.fr (edito)",
+        "metric": 116
+      },
+      {
+        "site": "www.pole-emploi.fr/employeur",
+        "groupe": "pole-emploi.fr (edito)",
+        "metric": 51
+      },
+      {
+        "site": "www.pole-emploi.fr/faq",
+        "groupe": "pole-emploi.fr (edito)",
+        "metric": 1
+      },
+      {
+        "site": "www.pole-emploi.fr/informations",
+        "groupe": "pole-emploi.fr (edito)",
+        "metric": 9
+      },
+      {
+        "site": "www.pole-emploi.fr/international",
+        "groupe": "pole-emploi.fr (edito)",
+        "metric": 8
+      },
+      {
+        "site": "www.pole-emploi.fr/region",
+        "groupe": "pole-emploi.fr (edito)",
+        "metric": 96
+      },
+      {
+        "site": "www.pole-emploi.fr/spectacle",
+        "groupe": "pole-emploi.fr (edito)",
+        "metric": 2
+      },
+      {
+        "site": "www.pole-emploi.fr/tv",
+        "groupe": "pole-emploi.fr (edito)",
+        "metric": 1
+      },
+      {
+        "site": "www.pole-emploi.org",
+        "groupe": "pole-emploi.org",
+        "metric": 39
+      }
+    ],
+    "outgoing": [
+      {
+        "site": "candidat.francetravail.fr/Autres",
+        "groupe": "autres"
+      },
+      {
+        "site": "candidat.francetravail.fr/Recherche-formations",
+        "groupe": "autres"
+      },
+      {
+        "site": "candidat.francetravail.fr/Recherche-offres",
+        "groupe": "autres"
+      },
+      {
+        "site": "entreprise.francetravail.fr/Accueil",
+        "groupe": "autres"
+      },
+      {
+        "site": "entreprise.francetravail.fr/Autres",
+        "groupe": "autres"
+      },
+      {
+        "site": "francetravail.io",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/accueil",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/actualite",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/annuaire",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/autres",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/candidat",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/employeur",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/faq",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/informations",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/international",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/region",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/spectacle",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/tv",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.org",
+        "groupe": "francetravail.org"
+      }
+    ]
+  },
+  {
+    "name": "www.francetravail.fr/spectacle",
+    "groupe": "autres",
+    "rank": 0.6,
+    "pages": 35,
+    "trafic": 19436,
+    "nbin": 30,
+    "nbout": 18,
+    "imports": [
+      {
+        "site": "candidat.francetravail.fr/Autres",
+        "groupe": "autres",
+        "metric": 31
+      },
+      {
+        "site": "candidat.francetravail.fr/MetierScope",
+        "groupe": "autres",
+        "metric": 31
+      },
+      {
+        "site": "candidat.francetravail.fr/Recherche-formations",
+        "groupe": "autres",
+        "metric": 31
+      },
+      {
+        "site": "candidat.francetravail.fr/Recherche-offres",
+        "groupe": "autres",
+        "metric": 31
+      },
+      {
+        "site": "dataemploi.pole-emploi.fr",
+        "groupe": "pole-emploi.fr",
+        "metric": 31
+      },
+      {
+        "site": "emplois2024.fr",
+        "groupe": "autres",
+        "metric": 31
+      },
+      {
+        "site": "entreprise.francetravail.fr/Accueil",
+        "groupe": "autres",
+        "metric": 31
+      },
+      {
+        "site": "gestion.francetravail.fr",
+        "groupe": "francetravail.fr",
+        "metric": 1
+      },
+      {
+        "site": "mesevenementsemploi.francetravail.fr",
+        "groupe": "francetravail.fr",
+        "metric": 31
+      },
+      {
+        "site": "recrute.francetravail.fr",
+        "groupe": "francetravail.fr",
+        "metric": 31
+      },
+      {
+        "site": "recrute.pole-emploi.org",
+        "groupe": "pole-emploi.org",
+        "metric": 31
+      },
+      {
+        "site": "salonenligne.francetravail.fr",
+        "groupe": "francetravail.fr",
+        "metric": 31
+      },
+      {
+        "site": "simucalcul.pole-emploi-services.fr",
+        "groupe": "autres",
+        "metric": 5
+      },
+      {
+        "site": "www.emploi-store.fr",
+        "groupe": "emploi-store.fr",
+        "metric": 31
+      },
+      {
+        "site": "www.francetravail.fr/accueil",
+        "groupe": "autres",
+        "metric": 35
+      },
+      {
+        "site": "www.francetravail.fr/actualite",
+        "groupe": "autres",
+        "metric": 31
+      },
+      {
+        "site": "www.francetravail.fr/annuaire",
+        "groupe": "autres",
+        "metric": 31
+      },
+      {
+        "site": "www.francetravail.fr/autres",
+        "groupe": "autres",
+        "metric": 35
+      },
+      {
+        "site": "www.francetravail.fr/candidat",
+        "groupe": "autres",
+        "metric": 31
+      },
+      {
+        "site": "www.francetravail.fr/employeur",
+        "groupe": "autres",
+        "metric": 31
+      },
+      {
+        "site": "www.francetravail.fr/faq",
+        "groupe": "autres",
+        "metric": 31
+      },
+      {
+        "site": "www.francetravail.fr/informations",
+        "groupe": "autres",
+        "metric": 31
+      },
+      {
+        "site": "www.francetravail.fr/international",
+        "groupe": "autres",
+        "metric": 31
+      },
+      {
+        "site": "www.francetravail.fr/region",
+        "groupe": "autres",
+        "metric": 31
+      },
+      {
+        "site": "www.francetravail.fr/spectacle",
+        "groupe": "autres",
+        "metric": 31
+      },
+      {
+        "site": "www.francetravail.org",
+        "groupe": "francetravail.org",
+        "metric": 31
+      },
+      {
+        "site": "www.guso.fr",
+        "groupe": "autres",
+        "metric": 5
+      },
+      {
+        "site": "www.pole-emploi.fr/candidat",
+        "groupe": "pole-emploi.fr (edito)",
+        "metric": 1
+      },
+      {
+        "site": "www.pole-emploi.fr/informations",
+        "groupe": "pole-emploi.fr (edito)",
+        "metric": 1
+      },
+      {
+        "site": "www.pole-emploi.fr/spectacle",
+        "groupe": "pole-emploi.fr (edito)",
+        "metric": 1
+      }
+    ],
+    "outgoing": [
+      {
+        "site": "candidat.francetravail.fr/Autres",
+        "groupe": "autres"
+      },
+      {
+        "site": "candidat.francetravail.fr/Recherche-formations",
+        "groupe": "autres"
+      },
+      {
+        "site": "candidat.francetravail.fr/Recherche-offres",
+        "groupe": "autres"
+      },
+      {
+        "site": "entreprise.francetravail.fr/Accueil",
+        "groupe": "autres"
+      },
+      {
+        "site": "entreprise.francetravail.fr/Autres",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/accueil",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/actualite",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/annuaire",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/autres",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/candidat",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/employeur",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/faq",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/informations",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/international",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/region",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/spectacle",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/tv",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.guso.fr",
+        "groupe": "autres"
+      }
+    ]
+  },
+  {
+    "name": "www.francetravail.fr/tv",
+    "groupe": "autres",
+    "rank": 0.0,
+    "pages": 51,
+    "trafic": 262,
+    "nbin": 26,
+    "nbout": 3,
+    "imports": [
+      {
+        "site": "candidat.francetravail.fr/Autres",
+        "groupe": "autres",
+        "metric": 50
+      },
+      {
+        "site": "candidat.francetravail.fr/MetierScope",
+        "groupe": "autres",
+        "metric": 50
+      },
+      {
+        "site": "candidat.francetravail.fr/Recherche-formations",
+        "groupe": "autres",
+        "metric": 50
+      },
+      {
+        "site": "candidat.francetravail.fr/Recherche-offres",
+        "groupe": "autres",
+        "metric": 50
+      },
+      {
+        "site": "dataemploi.pole-emploi.fr",
+        "groupe": "pole-emploi.fr",
+        "metric": 50
+      },
+      {
+        "site": "emplois2024.fr",
+        "groupe": "autres",
+        "metric": 50
+      },
+      {
+        "site": "entreprise.francetravail.fr/Accueil",
+        "groupe": "autres",
+        "metric": 50
+      },
+      {
+        "site": "mesevenementsemploi.francetravail.fr",
+        "groupe": "francetravail.fr",
+        "metric": 50
+      },
+      {
+        "site": "recrute.francetravail.fr",
+        "groupe": "francetravail.fr",
+        "metric": 50
+      },
+      {
+        "site": "recrute.pole-emploi.org",
+        "groupe": "pole-emploi.org",
+        "metric": 50
+      },
+      {
+        "site": "salonenligne.francetravail.fr",
+        "groupe": "francetravail.fr",
+        "metric": 50
+      },
+      {
+        "site": "www.emploi-store.fr",
+        "groupe": "emploi-store.fr",
+        "metric": 50
+      },
+      {
+        "site": "www.francetravail.fr/accueil",
+        "groupe": "autres",
+        "metric": 50
+      },
+      {
+        "site": "www.francetravail.fr/actualite",
+        "groupe": "autres",
+        "metric": 50
+      },
+      {
+        "site": "www.francetravail.fr/annuaire",
+        "groupe": "autres",
+        "metric": 50
+      },
+      {
+        "site": "www.francetravail.fr/autres",
+        "groupe": "autres",
+        "metric": 50
+      },
+      {
+        "site": "www.francetravail.fr/candidat",
+        "groupe": "autres",
+        "metric": 50
+      },
+      {
+        "site": "www.francetravail.fr/employeur",
+        "groupe": "autres",
+        "metric": 50
+      },
+      {
+        "site": "www.francetravail.fr/faq",
+        "groupe": "autres",
+        "metric": 50
+      },
+      {
+        "site": "www.francetravail.fr/informations",
+        "groupe": "autres",
+        "metric": 50
+      },
+      {
+        "site": "www.francetravail.fr/international",
+        "groupe": "autres",
+        "metric": 50
+      },
+      {
+        "site": "www.francetravail.fr/region",
+        "groupe": "autres",
+        "metric": 50
+      },
+      {
+        "site": "www.francetravail.fr/spectacle",
+        "groupe": "autres",
+        "metric": 50
+      },
+      {
+        "site": "www.francetravail.fr/tv",
+        "groupe": "autres",
+        "metric": 50
+      },
+      {
+        "site": "www.francetravail.org",
+        "groupe": "francetravail.org",
+        "metric": 50
+      },
+      {
+        "site": "www.pole-emploi.fr/region",
+        "groupe": "pole-emploi.fr (edito)",
+        "metric": 1
+      }
+    ],
+    "outgoing": [
+      {
+        "site": "www.francetravail.fr/informations",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/region",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/tv",
+        "groupe": "autres"
+      }
+    ]
+  },
+  {
+    "name": "www.francetravail.org",
+    "groupe": "francetravail.org",
+    "rank": 2.2,
+    "pages": 3323,
+    "trafic": 99576,
+    "nbin": 42,
+    "nbout": 22,
+    "imports": [
+      {
+        "site": "autres-sites",
+        "groupe": "autres",
+        "metric": 99
+      },
+      {
+        "site": "bo.francetravail.org",
+        "groupe": "francetravail.org",
+        "metric": 2216
+      },
+      {
+        "site": "candidat.pole-emploi.fr/Autres",
+        "groupe": "pole-emploi.fr",
+        "metric": 2
+      },
+      {
+        "site": "candidat.pole-emploi.fr/MetierScope",
+        "groupe": "pole-emploi.fr",
+        "metric": 1
+      },
+      {
+        "site": "candidat.pole-emploi.fr/Recherche-formations",
+        "groupe": "pole-emploi.fr",
+        "metric": 2
+      },
+      {
+        "site": "candidat.pole-emploi.fr/Recherche-offres",
+        "groupe": "pole-emploi.fr",
+        "metric": 14
+      },
+      {
+        "site": "dataemploi.pole-emploi.fr",
+        "groupe": "pole-emploi.fr",
+        "metric": 22
+      },
+      {
+        "site": "emplois2024.fr",
+        "groupe": "autres",
+        "metric": 2247
+      },
+      {
+        "site": "entreprise.pole-emploi.fr/Accueil",
+        "groupe": "pole-emploi.fr",
+        "metric": 5
+      },
+      {
+        "site": "entreprise.pole-emploi.fr/Autres",
+        "groupe": "pole-emploi.fr",
+        "metric": 3
+      },
+      {
+        "site": "francetravail.io",
+        "groupe": "autres",
+        "metric": 2
+      },
+      {
+        "site": "labonneboite.pole-emploi.fr",
+        "groupe": "pole-emploi.fr (startup)",
+        "metric": 4
+      },
+      {
+        "site": "labonnecompetencepro.pole-emploi.fr",
+        "groupe": "pole-emploi.fr (startup)",
+        "metric": 1
+      },
+      {
+        "site": "lesclubs-sportifs-engages.francetravail.fr",
+        "groupe": "francetravail.fr",
+        "metric": 1
+      },
+      {
+        "site": "mes-aides.pole-emploi.fr",
+        "groupe": "pole-emploi.fr (startup)",
+        "metric": 3
+      },
+      {
+        "site": "mesevenementsemploi.francetravail.fr",
+        "groupe": "francetravail.fr",
+        "metric": 11
+      },
+      {
+        "site": "mesevenementsemploi.pole-emploi.fr",
+        "groupe": "pole-emploi.fr (startup)",
+        "metric": 27
+      },
+      {
+        "site": "pole-emploi.io",
+        "groupe": "autres",
+        "metric": 2217
+      },
+      {
+        "site": "recrute.francetravail.org",
+        "groupe": "francetravail.org",
+        "metric": 14
+      },
+      {
+        "site": "recrute.pole-emploi.org",
+        "groupe": "pole-emploi.org",
+        "metric": 2933
+      },
+      {
+        "site": "salonenligne.pole-emploi.fr",
+        "groupe": "pole-emploi.fr",
+        "metric": 9
+      },
+      {
+        "site": "www.actuformation.pole-emploi.org",
+        "groupe": "pole-emploi.org",
+        "metric": 3
+      },
+      {
+        "site": "www.bo-pole-emploi.org",
+        "groupe": "pole-emploi.org",
+        "metric": 718
+      },
+      {
+        "site": "www.emploi-store.fr",
+        "groupe": "emploi-store.fr",
+        "metric": 2933
+      },
+      {
+        "site": "www.emploiparlonsnet.pole-emploi.org",
+        "groupe": "pole-emploi.org",
+        "metric": 161
+      },
+      {
+        "site": "www.francetravail.fr/accueil",
+        "groupe": "autres",
+        "metric": 78
+      },
+      {
+        "site": "www.francetravail.fr/actualite",
+        "groupe": "autres",
+        "metric": 6
+      },
+      {
+        "site": "www.francetravail.fr/autres",
+        "groupe": "autres",
+        "metric": 2217
+      },
+      {
+        "site": "www.francetravail.fr/candidat",
+        "groupe": "autres",
+        "metric": 2
+      },
+      {
+        "site": "www.francetravail.fr/employeur",
+        "groupe": "autres",
+        "metric": 1
+      },
+      {
+        "site": "www.francetravail.fr/region",
+        "groupe": "autres",
+        "metric": 90
+      },
+      {
+        "site": "www.francetravail.org",
+        "groupe": "francetravail.org",
+        "metric": 2933
+      },
+      {
+        "site": "www.pole-emploi.fr/accueil",
+        "groupe": "pole-emploi.fr (edito)",
+        "metric": 15
+      },
+      {
+        "site": "www.pole-emploi.fr/actualite",
+        "groupe": "pole-emploi.fr (edito)",
+        "metric": 59
+      },
+      {
+        "site": "www.pole-emploi.fr/autres",
+        "groupe": "pole-emploi.fr (edito)",
+        "metric": 530
+      },
+      {
+        "site": "www.pole-emploi.fr/candidat",
+        "groupe": "pole-emploi.fr (edito)",
+        "metric": 37
+      },
+      {
+        "site": "www.pole-emploi.fr/employeur",
+        "groupe": "pole-emploi.fr (edito)",
+        "metric": 32
+      },
+      {
+        "site": "www.pole-emploi.fr/informations",
+        "groupe": "pole-emploi.fr (edito)",
+        "metric": 2
+      },
+      {
+        "site": "www.pole-emploi.fr/international",
+        "groupe": "pole-emploi.fr (edito)",
+        "metric": 3
+      },
+      {
+        "site": "www.pole-emploi.fr/region",
+        "groupe": "pole-emploi.fr (edito)",
+        "metric": 553
+      },
+      {
+        "site": "www.pole-emploi.fr/tv",
+        "groupe": "pole-emploi.fr (edito)",
+        "metric": 593
+      },
+      {
+        "site": "www.pole-emploi.org",
+        "groupe": "pole-emploi.org",
+        "metric": 1360
+      }
+    ],
+    "outgoing": [
+      {
+        "site": "candidat.francetravail.fr/Autres",
+        "groupe": "autres"
+      },
+      {
+        "site": "candidat.francetravail.fr/Recherche-formations",
+        "groupe": "autres"
+      },
+      {
+        "site": "candidat.francetravail.fr/Recherche-offres",
+        "groupe": "autres"
+      },
+      {
+        "site": "dataemploi.pole-emploi.fr",
+        "groupe": "pole-emploi.fr"
+      },
+      {
+        "site": "entreprise.francetravail.fr/Accueil",
+        "groupe": "autres"
+      },
+      {
+        "site": "entreprise.francetravail.fr/Autres",
+        "groupe": "autres"
+      },
+      {
+        "site": "francetravail.io",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.actuformation.pole-emploi.org",
+        "groupe": "pole-emploi.org"
+      },
+      {
+        "site": "www.francetravail.fr/accueil",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/actualite",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/annuaire",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/autres",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/candidat",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/employeur",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/faq",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/informations",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/international",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/region",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/spectacle",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/tv",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.org",
+        "groupe": "francetravail.org"
+      },
+      {
+        "site": "www.guso.fr",
+        "groupe": "autres"
+      }
+    ]
+  },
+  {
+    "name": "www.guso.fr",
+    "groupe": "autres",
+    "rank": 0.0,
+    "pages": 24,
+    "trafic": 58113,
+    "nbin": 4,
+    "nbout": 6,
+    "imports": [
+      {
+        "site": "www.francetravail.fr/accueil",
+        "groupe": "autres",
+        "metric": 6
+      },
+      {
+        "site": "www.francetravail.fr/spectacle",
+        "groupe": "autres",
+        "metric": 6
+      },
+      {
+        "site": "www.francetravail.org",
+        "groupe": "francetravail.org",
+        "metric": 6
+      },
+      {
+        "site": "www.guso.fr",
+        "groupe": "autres",
+        "metric": 12
+      }
+    ],
+    "outgoing": [
+      {
+        "site": "entreprise.francetravail.fr/Accueil",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/employeur",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/faq",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/region",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/spectacle",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.guso.fr",
+        "groupe": "autres"
+      }
+    ]
+  },
+  {
+    "name": "www.pole-emploi.fr/accueil",
+    "groupe": "pole-emploi.fr (edito)",
+    "rank": 0.3,
+    "pages": 2,
+    "trafic": 345,
+    "nbin": 0,
+    "nbout": 14,
+    "imports": [],
+    "outgoing": [
+      {
+        "site": "candidat.francetravail.fr/Autres",
+        "groupe": "autres"
+      },
+      {
+        "site": "candidat.francetravail.fr/MetierScope",
+        "groupe": "autres"
+      },
+      {
+        "site": "candidat.francetravail.fr/Mobiville",
+        "groupe": "autres"
+      },
+      {
+        "site": "entreprise.francetravail.fr/Autres",
+        "groupe": "autres"
+      },
+      {
+        "site": "mesevenementsemploi.francetravail.fr",
+        "groupe": "francetravail.fr"
+      },
+      {
+        "site": "messervices.pole-emploi.fr",
+        "groupe": "pole-emploi.fr"
+      },
+      {
+        "site": "recrute.francetravail.fr",
+        "groupe": "francetravail.fr"
+      },
+      {
+        "site": "simucalcul.pole-emploi-services.fr",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.actuformation.pole-emploi.org",
+        "groupe": "pole-emploi.org"
+      },
+      {
+        "site": "www.emploi-store.fr",
+        "groupe": "emploi-store.fr"
+      },
+      {
+        "site": "www.francetravail.fr/actualite",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/candidat",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/region",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.org",
+        "groupe": "francetravail.org"
+      }
+    ]
+  },
+  {
+    "name": "www.pole-emploi.fr/actualite",
+    "groupe": "pole-emploi.fr (edito)",
+    "rank": 0.0,
+    "pages": 261,
+    "trafic": 33,
+    "nbin": 0,
+    "nbout": 11,
+    "imports": [],
+    "outgoing": [
+      {
+        "site": "emplois2024.fr",
+        "groupe": "autres"
+      },
+      {
+        "site": "entreprise.francetravail.fr/Autres",
+        "groupe": "autres"
+      },
+      {
+        "site": "francetravail.io",
+        "groupe": "autres"
+      },
+      {
+        "site": "mesevenementsemploi.francetravail.fr",
+        "groupe": "francetravail.fr"
+      },
+      {
+        "site": "www.emploi-store.fr",
+        "groupe": "emploi-store.fr"
+      },
+      {
+        "site": "www.francetravail.fr/actualite",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/candidat",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/employeur",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/international",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/region",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.org",
+        "groupe": "francetravail.org"
+      }
+    ]
+  },
+  {
+    "name": "www.pole-emploi.fr/annuaire",
+    "groupe": "pole-emploi.fr (edito)",
+    "rank": 0.0,
+    "pages": 50,
+    "trafic": 1339,
+    "nbin": 0,
+    "nbout": 6,
+    "imports": [],
+    "outgoing": [
+      {
+        "site": "candidat.francetravail.fr/Mobiville",
+        "groupe": "autres"
+      },
+      {
+        "site": "entreprise.francetravail.fr/Autres",
+        "groupe": "autres"
+      },
+      {
+        "site": "gestion.francetravail.fr",
+        "groupe": "francetravail.fr"
+      },
+      {
+        "site": "messervices.pole-emploi.fr",
+        "groupe": "pole-emploi.fr"
+      },
+      {
+        "site": "recrute.francetravail.fr",
+        "groupe": "francetravail.fr"
+      },
+      {
+        "site": "www.francetravail.fr/region",
+        "groupe": "autres"
+      }
+    ]
+  },
+  {
+    "name": "www.pole-emploi.fr/autres",
+    "groupe": "pole-emploi.fr (edito)",
+    "rank": 0.4,
+    "pages": 44,
+    "trafic": 4519,
+    "nbin": 0,
+    "nbout": 23,
+    "imports": [],
+    "outgoing": [
+      {
+        "site": "autres-sites",
+        "groupe": "autres"
+      },
+      {
+        "site": "candidat.francetravail.fr/Autres",
+        "groupe": "autres"
+      },
+      {
+        "site": "candidat.francetravail.fr/Recherche-formations",
+        "groupe": "autres"
+      },
+      {
+        "site": "candidat.francetravail.fr/Recherche-offres",
+        "groupe": "autres"
+      },
+      {
+        "site": "chomage-independant.francetravail.fr",
+        "groupe": "francetravail.fr"
+      },
+      {
+        "site": "entreprise.francetravail.fr/Accueil",
+        "groupe": "autres"
+      },
+      {
+        "site": "entreprise.francetravail.fr/Autres",
+        "groupe": "autres"
+      },
+      {
+        "site": "francetravail.io",
+        "groupe": "autres"
+      },
+      {
+        "site": "gestion.francetravail.fr",
+        "groupe": "francetravail.fr"
+      },
+      {
+        "site": "labonneboite.francetravail.fr",
+        "groupe": "francetravail.fr"
+      },
+      {
+        "site": "mesevenementsemploi.francetravail.fr",
+        "groupe": "francetravail.fr"
+      },
+      {
+        "site": "messervices.pole-emploi.fr",
+        "groupe": "pole-emploi.fr"
+      },
+      {
+        "site": "monallocation.francetravail.fr",
+        "groupe": "francetravail.fr"
+      },
+      {
+        "site": "recrute.francetravail.fr",
+        "groupe": "francetravail.fr"
+      },
+      {
+        "site": "www.actuformation.pole-emploi.org",
+        "groupe": "pole-emploi.org"
+      },
+      {
+        "site": "www.emploi-store.fr",
+        "groupe": "emploi-store.fr"
+      },
+      {
+        "site": "www.francetravail.fr/accueil",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/actualite",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/candidat",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/employeur",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/informations",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/region",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.org",
+        "groupe": "francetravail.org"
+      }
+    ]
+  },
+  {
+    "name": "www.pole-emploi.fr/candidat",
+    "groupe": "pole-emploi.fr (edito)",
+    "rank": 0.2,
+    "pages": 220,
+    "trafic": 948,
+    "nbin": 0,
+    "nbout": 21,
+    "imports": [],
+    "outgoing": [
+      {
+        "site": "autres-sites",
+        "groupe": "autres"
+      },
+      {
+        "site": "candidat.francetravail.fr/Mobiville",
+        "groupe": "autres"
+      },
+      {
+        "site": "candidat.francetravail.fr/Recherche-formations",
+        "groupe": "autres"
+      },
+      {
+        "site": "candidat.francetravail.fr/Recherche-offres",
+        "groupe": "autres"
+      },
+      {
+        "site": "chomage-independant.francetravail.fr",
+        "groupe": "francetravail.fr"
+      },
+      {
+        "site": "emplois2024.fr",
+        "groupe": "autres"
+      },
+      {
+        "site": "entreprise.francetravail.fr/Autres",
+        "groupe": "autres"
+      },
+      {
+        "site": "mes-aides.francetravail.fr",
+        "groupe": "francetravail.fr"
+      },
+      {
+        "site": "messervices.pole-emploi.fr",
+        "groupe": "pole-emploi.fr"
+      },
+      {
+        "site": "monallocation.francetravail.fr",
+        "groupe": "francetravail.fr"
+      },
+      {
+        "site": "www.actuformation.pole-emploi.org",
+        "groupe": "pole-emploi.org"
+      },
+      {
+        "site": "www.emploi-store.fr",
+        "groupe": "emploi-store.fr"
+      },
+      {
+        "site": "www.francetravail.fr/accueil",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/actualite",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/autres",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/candidat",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/employeur",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/informations",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/region",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/spectacle",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.org",
+        "groupe": "francetravail.org"
+      }
+    ]
+  },
+  {
+    "name": "www.pole-emploi.fr/employeur",
+    "groupe": "pole-emploi.fr (edito)",
+    "rank": 0.0,
+    "pages": 76,
+    "trafic": 23,
+    "nbin": 0,
+    "nbout": 10,
+    "imports": [],
+    "outgoing": [
+      {
+        "site": "entreprise.francetravail.fr/Accueil",
+        "groupe": "autres"
+      },
+      {
+        "site": "entreprise.francetravail.fr/Autres",
+        "groupe": "autres"
+      },
+      {
+        "site": "gestion.francetravail.fr",
+        "groupe": "francetravail.fr"
+      },
+      {
+        "site": "recrute.francetravail.fr",
+        "groupe": "francetravail.fr"
+      },
+      {
+        "site": "www.francetravail.fr/actualite",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/candidat",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/employeur",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/international",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/region",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.org",
+        "groupe": "francetravail.org"
+      }
+    ]
+  },
+  {
+    "name": "www.pole-emploi.fr/faq",
+    "groupe": "pole-emploi.fr (edito)",
+    "rank": 0.1,
+    "pages": 5,
+    "trafic": 10360,
+    "nbin": 0,
+    "nbout": 7,
+    "imports": [],
+    "outgoing": [
+      {
+        "site": "emplois2024.fr",
+        "groupe": "autres"
+      },
+      {
+        "site": "entreprise.francetravail.fr/Accueil",
+        "groupe": "autres"
+      },
+      {
+        "site": "entreprise.francetravail.fr/Autres",
+        "groupe": "autres"
+      },
+      {
+        "site": "gestion.francetravail.fr",
+        "groupe": "francetravail.fr"
+      },
+      {
+        "site": "www.francetravail.fr/accueil",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/actualite",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/region",
+        "groupe": "autres"
+      }
+    ]
+  },
+  {
+    "name": "www.pole-emploi.fr/informations",
+    "groupe": "pole-emploi.fr (edito)",
+    "rank": 0.0,
+    "pages": 23,
+    "trafic": 52,
+    "nbin": 0,
+    "nbout": 9,
+    "imports": [],
+    "outgoing": [
+      {
+        "site": "entreprise.francetravail.fr/Autres",
+        "groupe": "autres"
+      },
+      {
+        "site": "gestion.francetravail.fr",
+        "groupe": "francetravail.fr"
+      },
+      {
+        "site": "labonnecompetencepro.pole-emploi.fr",
+        "groupe": "pole-emploi.fr (startup)"
+      },
+      {
+        "site": "messervices.pole-emploi.fr",
+        "groupe": "pole-emploi.fr"
+      },
+      {
+        "site": "www.emploi-store.fr",
+        "groupe": "emploi-store.fr"
+      },
+      {
+        "site": "www.francetravail.fr/candidat",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/region",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/spectacle",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.org",
+        "groupe": "francetravail.org"
+      }
+    ]
+  },
+  {
+    "name": "www.pole-emploi.fr/international",
+    "groupe": "pole-emploi.fr (edito)",
+    "rank": 0.0,
+    "pages": 13,
+    "trafic": 181,
+    "nbin": 0,
+    "nbout": 7,
+    "imports": [],
+    "outgoing": [
+      {
+        "site": "entreprise.francetravail.fr/Accueil",
+        "groupe": "autres"
+      },
+      {
+        "site": "entreprise.francetravail.fr/Autres",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/actualite",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/candidat",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/international",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/region",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.org",
+        "groupe": "francetravail.org"
+      }
+    ]
+  },
+  {
+    "name": "www.pole-emploi.fr/region",
+    "groupe": "pole-emploi.fr (edito)",
+    "rank": 0.0,
+    "pages": 212,
+    "trafic": 16933,
+    "nbin": 0,
+    "nbout": 9,
+    "imports": [],
+    "outgoing": [
+      {
+        "site": "emplois2024.fr",
+        "groupe": "autres"
+      },
+      {
+        "site": "entreprise.francetravail.fr/Autres",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/actualite",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/candidat",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/employeur",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/international",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/region",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/tv",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.org",
+        "groupe": "francetravail.org"
+      }
+    ]
+  },
+  {
+    "name": "www.pole-emploi.fr/spectacle",
+    "groupe": "pole-emploi.fr (edito)",
+    "rank": 0.0,
+    "pages": 5,
+    "trafic": 0,
+    "nbin": 0,
+    "nbout": 6,
+    "imports": [],
+    "outgoing": [
+      {
+        "site": "entreprise.francetravail.fr/Autres",
+        "groupe": "autres"
+      },
+      {
+        "site": "simucalcul.pole-emploi-services.fr",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/actualite",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/candidat",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/region",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/spectacle",
+        "groupe": "autres"
+      }
+    ]
+  },
+  {
+    "name": "www.pole-emploi.fr/tv",
+    "groupe": "pole-emploi.fr (edito)",
+    "rank": 0.0,
+    "pages": 3,
+    "trafic": 2,
+    "nbin": 0,
+    "nbout": 3,
+    "imports": [],
+    "outgoing": [
+      {
+        "site": "entreprise.francetravail.fr/Autres",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/region",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.org",
+        "groupe": "francetravail.org"
+      }
+    ]
+  },
+  {
+    "name": "www.pole-emploi.org",
+    "groupe": "pole-emploi.org",
+    "rank": 0.1,
+    "pages": 469,
+    "trafic": 51,
+    "nbin": 0,
+    "nbout": 14,
+    "imports": [],
+    "outgoing": [
+      {
+        "site": "candidat.francetravail.fr/Recherche-offres",
+        "groupe": "autres"
+      },
+      {
+        "site": "emplois2024.fr",
+        "groupe": "autres"
+      },
+      {
+        "site": "entreprise.francetravail.fr/Autres",
+        "groupe": "autres"
+      },
+      {
+        "site": "francetravail.io",
+        "groupe": "autres"
+      },
+      {
+        "site": "gestion.francetravail.fr",
+        "groupe": "francetravail.fr"
+      },
+      {
+        "site": "labonneboite.francetravail.fr",
+        "groupe": "francetravail.fr"
+      },
+      {
+        "site": "recrute.francetravail.fr",
+        "groupe": "francetravail.fr"
+      },
+      {
+        "site": "www.actuformation.pole-emploi.org",
+        "groupe": "pole-emploi.org"
+      },
+      {
+        "site": "www.emploi-store.fr",
+        "groupe": "emploi-store.fr"
+      },
+      {
+        "site": "www.francetravail.fr/actualite",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/candidat",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/employeur",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.fr/region",
+        "groupe": "autres"
+      },
+      {
+        "site": "www.francetravail.org",
+        "groupe": "francetravail.org"
+      }
+    ]
+  }
+]
